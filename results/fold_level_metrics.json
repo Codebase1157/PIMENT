@@ -1,0 +1,5602 @@
+[
+  {
+    "method": "pigmentnet",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 42,
+    "macro_f1": 0.9090285467791743,
+    "balanced_accuracy": 0.9108118701538198
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 1337,
+    "macro_f1": 0.9122206589507759,
+    "balanced_accuracy": 0.9078749031165791
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 2024,
+    "macro_f1": 0.909967513683877,
+    "balanced_accuracy": 0.9076917829938045
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 20260101,
+    "macro_f1": 0.9047607918161682,
+    "balanced_accuracy": 0.9111695202442017
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 73856093,
+    "macro_f1": 0.9110979851761201,
+    "balanced_accuracy": 0.9057333586759699
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 42,
+    "macro_f1": 0.9125122162747553,
+    "balanced_accuracy": 0.9108521904726152
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 1337,
+    "macro_f1": 0.9116412218995408,
+    "balanced_accuracy": 0.9090832096735952
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 2024,
+    "macro_f1": 0.9145072152985655,
+    "balanced_accuracy": 0.9143300836099991
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 20260101,
+    "macro_f1": 0.9104589434916474,
+    "balanced_accuracy": 0.915295144907232
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 73856093,
+    "macro_f1": 0.9142137008050305,
+    "balanced_accuracy": 0.9114781574289061
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 42,
+    "macro_f1": 0.9138690311494948,
+    "balanced_accuracy": 0.9123088700902143
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 1337,
+    "macro_f1": 0.9146224609971215,
+    "balanced_accuracy": 0.9159143747887761
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 2024,
+    "macro_f1": 0.9072754188035702,
+    "balanced_accuracy": 0.9161922038189568
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 20260101,
+    "macro_f1": 0.9107682537674501,
+    "balanced_accuracy": 0.9112023117527147
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 73856093,
+    "macro_f1": 0.9145568909925279,
+    "balanced_accuracy": 0.9141401222425484
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 42,
+    "macro_f1": 0.9129942705214323,
+    "balanced_accuracy": 0.9114951247335772
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 1337,
+    "macro_f1": 0.9126698722417088,
+    "balanced_accuracy": 0.9128347006095969
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 2024,
+    "macro_f1": 0.9109356785475516,
+    "balanced_accuracy": 0.9119273188781085
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 20260101,
+    "macro_f1": 0.9141003959864868,
+    "balanced_accuracy": 0.9089379188672223
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 73856093,
+    "macro_f1": 0.9105349352052137,
+    "balanced_accuracy": 0.9108341244812358
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 42,
+    "macro_f1": 0.9154164627070864,
+    "balanced_accuracy": 0.9128501764004991
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 1337,
+    "macro_f1": 0.9125477052105542,
+    "balanced_accuracy": 0.9127493053356417
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 2024,
+    "macro_f1": 0.9110805297290491,
+    "balanced_accuracy": 0.9124766998103668
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 20260101,
+    "macro_f1": 0.9066429116869266,
+    "balanced_accuracy": 0.9125224315691737
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 73856093,
+    "macro_f1": 0.9123259972888984,
+    "balanced_accuracy": 0.9108933859691875
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 42,
+    "macro_f1": 0.9687309972205046,
+    "balanced_accuracy": 0.9673612918100952
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 1337,
+    "macro_f1": 0.9663749256439617,
+    "balanced_accuracy": 0.9696918018742364
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 2024,
+    "macro_f1": 0.9651270218354208,
+    "balanced_accuracy": 0.9713565549105946
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 20260101,
+    "macro_f1": 0.963022323931995,
+    "balanced_accuracy": 0.9692502100354548
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 73856093,
+    "macro_f1": 0.9672855556061704,
+    "balanced_accuracy": 0.9692419604149304
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 42,
+    "macro_f1": 0.967704607437693,
+    "balanced_accuracy": 0.9750743128481024
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 1337,
+    "macro_f1": 0.9646124408510848,
+    "balanced_accuracy": 0.9738483963231739
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 2024,
+    "macro_f1": 0.9716998705381924,
+    "balanced_accuracy": 0.9714703374630186
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 20260101,
+    "macro_f1": 0.9668043894765741,
+    "balanced_accuracy": 0.973669200912251
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 73856093,
+    "macro_f1": 0.9647889979020019,
+    "balanced_accuracy": 0.9749519973827719
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 42,
+    "macro_f1": 0.9661241182364942,
+    "balanced_accuracy": 0.972105063932669
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 1337,
+    "macro_f1": 0.9699969727467778,
+    "balanced_accuracy": 0.9753215705362692
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 2024,
+    "macro_f1": 0.9692183616655151,
+    "balanced_accuracy": 0.9748580863855841
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 20260101,
+    "macro_f1": 0.9712806721092797,
+    "balanced_accuracy": 0.9716143787831598
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 73856093,
+    "macro_f1": 0.9680728555596125,
+    "balanced_accuracy": 0.971937466920794
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 42,
+    "macro_f1": 0.9684188312837175,
+    "balanced_accuracy": 0.975001861749693
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 1337,
+    "macro_f1": 0.9677226881386783,
+    "balanced_accuracy": 0.9716135389932953
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 2024,
+    "macro_f1": 0.9679376831732769,
+    "balanced_accuracy": 0.9717396995735567
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 20260101,
+    "macro_f1": 0.9713450105422231,
+    "balanced_accuracy": 0.9753129385309399
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 73856093,
+    "macro_f1": 0.9678637676913942,
+    "balanced_accuracy": 0.9738954340281656
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 42,
+    "macro_f1": 0.9668312438920225,
+    "balanced_accuracy": 0.9670591379668615
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 1337,
+    "macro_f1": 0.9701212131505359,
+    "balanced_accuracy": 0.9631449745716014
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 2024,
+    "macro_f1": 0.9641616250963216,
+    "balanced_accuracy": 0.966110520082767
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 20260101,
+    "macro_f1": 0.9728177449342676,
+    "balanced_accuracy": 0.9662751891433844
+  },
+  {
+    "method": "pigmentnet",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 73856093,
+    "macro_f1": 0.9623541391071,
+    "balanced_accuracy": 0.9680366558820385
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 42,
+    "macro_f1": 0.8913005754699211,
+    "balanced_accuracy": 0.896541113139433
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 1337,
+    "macro_f1": 0.890365475991747,
+    "balanced_accuracy": 0.8938474215257248
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 2024,
+    "macro_f1": 0.8874382056401201,
+    "balanced_accuracy": 0.8951381212410535
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 20260101,
+    "macro_f1": 0.893874187008881,
+    "balanced_accuracy": 0.8964898651942306
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 73856093,
+    "macro_f1": 0.88960313775413,
+    "balanced_accuracy": 0.8938280267422721
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 42,
+    "macro_f1": 0.8935228147012669,
+    "balanced_accuracy": 0.8935633091734058
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 1337,
+    "macro_f1": 0.8935574489851441,
+    "balanced_accuracy": 0.8943576257265948
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 2024,
+    "macro_f1": 0.8893406608548962,
+    "balanced_accuracy": 0.900180201279201
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 20260101,
+    "macro_f1": 0.895889018888907,
+    "balanced_accuracy": 0.899748937843151
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 73856093,
+    "macro_f1": 0.8927176099559169,
+    "balanced_accuracy": 0.8975348503485787
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 42,
+    "macro_f1": 0.8954007317816035,
+    "balanced_accuracy": 0.9024704404092276
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 1337,
+    "macro_f1": 0.8938208986491171,
+    "balanced_accuracy": 0.9034377470541027
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 2024,
+    "macro_f1": 0.8959998336175841,
+    "balanced_accuracy": 0.9027411500913068
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 20260101,
+    "macro_f1": 0.8983187713825427,
+    "balanced_accuracy": 0.8956601738130641
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 73856093,
+    "macro_f1": 0.8972667522291289,
+    "balanced_accuracy": 0.8981655064051142
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 42,
+    "macro_f1": 0.8944949095649825,
+    "balanced_accuracy": 0.8927175455848066
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 1337,
+    "macro_f1": 0.8994295880810685,
+    "balanced_accuracy": 0.8965297580817636
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 2024,
+    "macro_f1": 0.8994311631987307,
+    "balanced_accuracy": 0.898109957766143
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 20260101,
+    "macro_f1": 0.8981389215742734,
+    "balanced_accuracy": 0.8968101195248327
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 73856093,
+    "macro_f1": 0.8924904174609732,
+    "balanced_accuracy": 0.8979849453516816
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 42,
+    "macro_f1": 0.8961158504067224,
+    "balanced_accuracy": 0.8967985180864904
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 1337,
+    "macro_f1": 0.8958460537891964,
+    "balanced_accuracy": 0.8935854428965545
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 2024,
+    "macro_f1": 0.8903493147188347,
+    "balanced_accuracy": 0.8953584680435103
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 20260101,
+    "macro_f1": 0.8896670964244914,
+    "balanced_accuracy": 0.8937545735901725
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 73856093,
+    "macro_f1": 0.8890160902168323,
+    "balanced_accuracy": 0.8921045885773476
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 42,
+    "macro_f1": 0.9504513740378878,
+    "balanced_accuracy": 0.9549591909649224
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 1337,
+    "macro_f1": 0.952533888224151,
+    "balanced_accuracy": 0.9570571333119141
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 2024,
+    "macro_f1": 0.9457805871882357,
+    "balanced_accuracy": 0.9579091941061361
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 20260101,
+    "macro_f1": 0.9535029047575301,
+    "balanced_accuracy": 0.9503605116531354
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 73856093,
+    "macro_f1": 0.952678577737862,
+    "balanced_accuracy": 0.9499043240746552
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 42,
+    "macro_f1": 0.9552391908284471,
+    "balanced_accuracy": 0.9609095171760353
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 1337,
+    "macro_f1": 0.9535820695587833,
+    "balanced_accuracy": 0.9542713050937562
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 2024,
+    "macro_f1": 0.9554786274960022,
+    "balanced_accuracy": 0.9536849249832346
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 20260101,
+    "macro_f1": 0.9595030172774722,
+    "balanced_accuracy": 0.9553367383367184
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 73856093,
+    "macro_f1": 0.956418173775631,
+    "balanced_accuracy": 0.9577062200012771
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 42,
+    "macro_f1": 0.9614960267390257,
+    "balanced_accuracy": 0.9651197251080258
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 1337,
+    "macro_f1": 0.9567990410887772,
+    "balanced_accuracy": 0.9540988063382829
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 2024,
+    "macro_f1": 0.9583072609114536,
+    "balanced_accuracy": 0.9625176861504368
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 20260101,
+    "macro_f1": 0.9589432972823178,
+    "balanced_accuracy": 0.9567208033047491
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 73856093,
+    "macro_f1": 0.9569318647830948,
+    "balanced_accuracy": 0.9647112760045777
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 42,
+    "macro_f1": 0.9605037481747103,
+    "balanced_accuracy": 0.9628800498057102
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 1337,
+    "macro_f1": 0.9491328817404373,
+    "balanced_accuracy": 0.9541021531697628
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 2024,
+    "macro_f1": 0.9579017092171213,
+    "balanced_accuracy": 0.9596912839781381
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 20260101,
+    "macro_f1": 0.9583171500529578,
+    "balanced_accuracy": 0.9567187213646117
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 73856093,
+    "macro_f1": 0.9576255265337866,
+    "balanced_accuracy": 0.9541482644343535
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 42,
+    "macro_f1": 0.9559307141404091,
+    "balanced_accuracy": 0.9562603877928209
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 1337,
+    "macro_f1": 0.955528447571227,
+    "balanced_accuracy": 0.9584267592372494
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 2024,
+    "macro_f1": 0.9487061219476084,
+    "balanced_accuracy": 0.956499824460376
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 20260101,
+    "macro_f1": 0.9566731217118976,
+    "balanced_accuracy": 0.9546063759378841
+  },
+  {
+    "method": "convnext_t",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 73856093,
+    "macro_f1": 0.9578184341641655,
+    "balanced_accuracy": 0.9602512140695431
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 42,
+    "macro_f1": 0.8928378193102072,
+    "balanced_accuracy": 0.8967483296815394
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 1337,
+    "macro_f1": 0.8975003059758841,
+    "balanced_accuracy": 0.8960655990426541
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 2024,
+    "macro_f1": 0.8888269216043638,
+    "balanced_accuracy": 0.8973842644367143
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 20260101,
+    "macro_f1": 0.8961198300205979,
+    "balanced_accuracy": 0.8991827938379349
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 73856093,
+    "macro_f1": 0.8944218086802029,
+    "balanced_accuracy": 0.9025614664823222
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 42,
+    "macro_f1": 0.8962508622140953,
+    "balanced_accuracy": 0.9018832141386844
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 1337,
+    "macro_f1": 0.902133225132865,
+    "balanced_accuracy": 0.903532349105448
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 2024,
+    "macro_f1": 0.8928069136160321,
+    "balanced_accuracy": 0.8956262747970414
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 20260101,
+    "macro_f1": 0.8959272083268317,
+    "balanced_accuracy": 0.8991282461686025
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 73856093,
+    "macro_f1": 0.9040135450873081,
+    "balanced_accuracy": 0.9021368228769857
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 42,
+    "macro_f1": 0.8966408081031683,
+    "balanced_accuracy": 0.8999652569151124
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 1337,
+    "macro_f1": 0.9004414350117973,
+    "balanced_accuracy": 0.9010195824767867
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 2024,
+    "macro_f1": 0.9030977536444933,
+    "balanced_accuracy": 0.9032979651665225
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 20260101,
+    "macro_f1": 0.899952113843523,
+    "balanced_accuracy": 0.9018913451566716
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 73856093,
+    "macro_f1": 0.8983602687427409,
+    "balanced_accuracy": 0.8986299475600885
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 42,
+    "macro_f1": 0.8937215525214743,
+    "balanced_accuracy": 0.8967816621294433
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 1337,
+    "macro_f1": 0.8961415308482615,
+    "balanced_accuracy": 0.8980082294775363
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 2024,
+    "macro_f1": 0.8910194218165788,
+    "balanced_accuracy": 0.8988655701242876
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 20260101,
+    "macro_f1": 0.8940022420745126,
+    "balanced_accuracy": 0.902677182216245
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 73856093,
+    "macro_f1": 0.9003279647326856,
+    "balanced_accuracy": 0.9034974647388558
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 42,
+    "macro_f1": 0.8968923505360094,
+    "balanced_accuracy": 0.9024692812658072
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 1337,
+    "macro_f1": 0.8931078180592781,
+    "balanced_accuracy": 0.9011395804358021
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 2024,
+    "macro_f1": 0.8915256104290954,
+    "balanced_accuracy": 0.8924570619756231
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 20260101,
+    "macro_f1": 0.89558360869788,
+    "balanced_accuracy": 0.9019473845900225
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 73856093,
+    "macro_f1": 0.8961874879661135,
+    "balanced_accuracy": 0.8957415997750124
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 42,
+    "macro_f1": 0.9561953478083184,
+    "balanced_accuracy": 0.9570167473180162
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 1337,
+    "macro_f1": 0.956722853708547,
+    "balanced_accuracy": 0.9540973644159791
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 2024,
+    "macro_f1": 0.9529875043568983,
+    "balanced_accuracy": 0.9487184288412993
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 20260101,
+    "macro_f1": 0.9553727295844068,
+    "balanced_accuracy": 0.9578865115505266
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 73856093,
+    "macro_f1": 0.9558134666473973,
+    "balanced_accuracy": 0.9612317621023321
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 42,
+    "macro_f1": 0.9540555059893214,
+    "balanced_accuracy": 0.9602411627296081
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 1337,
+    "macro_f1": 0.963954195758823,
+    "balanced_accuracy": 0.960196549192249
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 2024,
+    "macro_f1": 0.9590149631054672,
+    "balanced_accuracy": 0.9620198192116178
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 20260101,
+    "macro_f1": 0.9622120229944482,
+    "balanced_accuracy": 0.9610177153512863
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 73856093,
+    "macro_f1": 0.9543394786793482,
+    "balanced_accuracy": 0.9591991999719057
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 42,
+    "macro_f1": 0.9607029731378837,
+    "balanced_accuracy": 0.9612022436772405
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 1337,
+    "macro_f1": 0.961323938400828,
+    "balanced_accuracy": 0.9646890594640899
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 2024,
+    "macro_f1": 0.9531316275426577,
+    "balanced_accuracy": 0.961783408861433
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 20260101,
+    "macro_f1": 0.9567387476059398,
+    "balanced_accuracy": 0.9636346912999764
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 73856093,
+    "macro_f1": 0.9548816037807718,
+    "balanced_accuracy": 0.9625908216649738
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 42,
+    "macro_f1": 0.9607342051443057,
+    "balanced_accuracy": 0.9657816180685562
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 1337,
+    "macro_f1": 0.9656922517454476,
+    "balanced_accuracy": 0.9619476179784503
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 2024,
+    "macro_f1": 0.9561158153693646,
+    "balanced_accuracy": 0.9591270948606113
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 20260101,
+    "macro_f1": 0.9544519439741772,
+    "balanced_accuracy": 0.9615278453424834
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 73856093,
+    "macro_f1": 0.9629421463013014,
+    "balanced_accuracy": 0.9650151462445844
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 42,
+    "macro_f1": 0.9580028131048736,
+    "balanced_accuracy": 0.959423298687244
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 1337,
+    "macro_f1": 0.9528778508103591,
+    "balanced_accuracy": 0.9602263921605282
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 2024,
+    "macro_f1": 0.9581579110104915,
+    "balanced_accuracy": 0.9608080777183559
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 20260101,
+    "macro_f1": 0.9588920102992617,
+    "balanced_accuracy": 0.9559978699573942
+  },
+  {
+    "method": "vmamba_t",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 73856093,
+    "macro_f1": 0.9529837488154295,
+    "balanced_accuracy": 0.9537737484515688
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 42,
+    "macro_f1": 0.8863943931145605,
+    "balanced_accuracy": 0.8913912395579602
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 1337,
+    "macro_f1": 0.8848447482860211,
+    "balanced_accuracy": 0.88680567109834
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 2024,
+    "macro_f1": 0.884403974682143,
+    "balanced_accuracy": 0.8925395250278817
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 20260101,
+    "macro_f1": 0.8853619824664415,
+    "balanced_accuracy": 0.8850828901320743
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 73856093,
+    "macro_f1": 0.8888429972764709,
+    "balanced_accuracy": 0.8887554762113218
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 42,
+    "macro_f1": 0.8917773211221166,
+    "balanced_accuracy": 0.8970946534423486
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 1337,
+    "macro_f1": 0.8920666752650047,
+    "balanced_accuracy": 0.8904004916056185
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 2024,
+    "macro_f1": 0.8903372710791365,
+    "balanced_accuracy": 0.891328117754461
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 20260101,
+    "macro_f1": 0.888909851481981,
+    "balanced_accuracy": 0.8932669701226228
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 73856093,
+    "macro_f1": 0.8915182985082497,
+    "balanced_accuracy": 0.8926734651951033
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 42,
+    "macro_f1": 0.8873335225181223,
+    "balanced_accuracy": 0.895110886498298
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 1337,
+    "macro_f1": 0.8928885631282996,
+    "balanced_accuracy": 0.8905462526284739
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 2024,
+    "macro_f1": 0.8927259346994585,
+    "balanced_accuracy": 0.9000471401320462
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 20260101,
+    "macro_f1": 0.8935001150710583,
+    "balanced_accuracy": 0.8928360516318995
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 73856093,
+    "macro_f1": 0.8924641301769691,
+    "balanced_accuracy": 0.8916684052808419
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 42,
+    "macro_f1": 0.8938544634759121,
+    "balanced_accuracy": 0.892784754848288
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 1337,
+    "macro_f1": 0.8916792244058609,
+    "balanced_accuracy": 0.8943578158322452
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 2024,
+    "macro_f1": 0.8941251731579913,
+    "balanced_accuracy": 0.8933838566842686
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 20260101,
+    "macro_f1": 0.8882228236695907,
+    "balanced_accuracy": 0.8942352580347499
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 73856093,
+    "macro_f1": 0.8857592596080728,
+    "balanced_accuracy": 0.8941807400982291
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 42,
+    "macro_f1": 0.8845845061377795,
+    "balanced_accuracy": 0.8905440116656407
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 1337,
+    "macro_f1": 0.8904775301307595,
+    "balanced_accuracy": 0.8909075124801161
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 2024,
+    "macro_f1": 0.8912013982435747,
+    "balanced_accuracy": 0.8863618578192699
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 20260101,
+    "macro_f1": 0.8889066873761424,
+    "balanced_accuracy": 0.8896296360182468
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 73856093,
+    "macro_f1": 0.8935718831457967,
+    "balanced_accuracy": 0.8891929087488376
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 42,
+    "macro_f1": 0.9446065617702208,
+    "balanced_accuracy": 0.9539930775464757
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 1337,
+    "macro_f1": 0.9491953008907466,
+    "balanced_accuracy": 0.9495812172665102
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 2024,
+    "macro_f1": 0.9455035401538363,
+    "balanced_accuracy": 0.9510406289342522
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 20260101,
+    "macro_f1": 0.9540530315435948,
+    "balanced_accuracy": 0.9528587001720702
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 73856093,
+    "macro_f1": 0.9476017940485671,
+    "balanced_accuracy": 0.9478145286674696
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 42,
+    "macro_f1": 0.9544021017228702,
+    "balanced_accuracy": 0.9589816161404998
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 1337,
+    "macro_f1": 0.9576011519924796,
+    "balanced_accuracy": 0.956360889698955
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 2024,
+    "macro_f1": 0.9557868807539821,
+    "balanced_accuracy": 0.9591367140461178
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 20260101,
+    "macro_f1": 0.9522616784461279,
+    "balanced_accuracy": 0.9561534001055092
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 73856093,
+    "macro_f1": 0.9573747106013143,
+    "balanced_accuracy": 0.9539029420258051
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 42,
+    "macro_f1": 0.9603975950018717,
+    "balanced_accuracy": 0.9613501820776212
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 1337,
+    "macro_f1": 0.9518192233387406,
+    "balanced_accuracy": 0.956109385292066
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 2024,
+    "macro_f1": 0.9537430717939268,
+    "balanced_accuracy": 0.9567317923026801
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 20260101,
+    "macro_f1": 0.9597587155607143,
+    "balanced_accuracy": 0.9584222617885688
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 73856093,
+    "macro_f1": 0.9510106623221679,
+    "balanced_accuracy": 0.9602116777244871
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 42,
+    "macro_f1": 0.952586266743925,
+    "balanced_accuracy": 0.9580869962045682
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 1337,
+    "macro_f1": 0.9490631765683405,
+    "balanced_accuracy": 0.9589797163975122
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 2024,
+    "macro_f1": 0.9531674319281175,
+    "balanced_accuracy": 0.9505156506093422
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 20260101,
+    "macro_f1": 0.953388772001044,
+    "balanced_accuracy": 0.9562282347870048
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 73856093,
+    "macro_f1": 0.956659446692113,
+    "balanced_accuracy": 0.9575591166577193
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 42,
+    "macro_f1": 0.9512623596939819,
+    "balanced_accuracy": 0.9510767029536952
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 1337,
+    "macro_f1": 0.9501179344395276,
+    "balanced_accuracy": 0.9574249384489625
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 2024,
+    "macro_f1": 0.9530410161759916,
+    "balanced_accuracy": 0.9560361600698409
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 20260101,
+    "macro_f1": 0.9527185378093825,
+    "balanced_accuracy": 0.9527785213973609
+  },
+  {
+    "method": "swin_t",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 73856093,
+    "macro_f1": 0.9530793841436555,
+    "balanced_accuracy": 0.9581384782817063
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 42,
+    "macro_f1": 0.8831546209748126,
+    "balanced_accuracy": 0.8880915749466162
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 1337,
+    "macro_f1": 0.8880634049615266,
+    "balanced_accuracy": 0.8792151357994544
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 2024,
+    "macro_f1": 0.8854944649774021,
+    "balanced_accuracy": 0.8821099451506075
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 20260101,
+    "macro_f1": 0.875825186633275,
+    "balanced_accuracy": 0.8801132491682975
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 73856093,
+    "macro_f1": 0.8808207575671398,
+    "balanced_accuracy": 0.8846993851119088
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 42,
+    "macro_f1": 0.8827175491354663,
+    "balanced_accuracy": 0.8852442263090547
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 1337,
+    "macro_f1": 0.8876233901617429,
+    "balanced_accuracy": 0.8899231701688676
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 2024,
+    "macro_f1": 0.8891585643920993,
+    "balanced_accuracy": 0.886380896538941
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 20260101,
+    "macro_f1": 0.8858084424623378,
+    "balanced_accuracy": 0.8858583592832106
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 73856093,
+    "macro_f1": 0.8843368401347329,
+    "balanced_accuracy": 0.8865248144379516
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 42,
+    "macro_f1": 0.8904075728059883,
+    "balanced_accuracy": 0.8914406330590214
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 1337,
+    "macro_f1": 0.8916173126860107,
+    "balanced_accuracy": 0.8882307477150989
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 2024,
+    "macro_f1": 0.884906314465975,
+    "balanced_accuracy": 0.8946603993749419
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 20260101,
+    "macro_f1": 0.8834121464277626,
+    "balanced_accuracy": 0.886126224029273
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 73856093,
+    "macro_f1": 0.8878149593863301,
+    "balanced_accuracy": 0.8877881202423538
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 42,
+    "macro_f1": 0.8864521715998039,
+    "balanced_accuracy": 0.8836816670485237
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 1337,
+    "macro_f1": 0.8799395753979904,
+    "balanced_accuracy": 0.896093185289176
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 2024,
+    "macro_f1": 0.8840483926421936,
+    "balanced_accuracy": 0.8811983937648787
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 20260101,
+    "macro_f1": 0.8825155164933417,
+    "balanced_accuracy": 0.8913102654031664
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 73856093,
+    "macro_f1": 0.8795915931372585,
+    "balanced_accuracy": 0.884825861728653
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 42,
+    "macro_f1": 0.883560790858495,
+    "balanced_accuracy": 0.8865973537887404
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 1337,
+    "macro_f1": 0.8837214538075234,
+    "balanced_accuracy": 0.8846649984870527
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 2024,
+    "macro_f1": 0.8833795378496718,
+    "balanced_accuracy": 0.8832119847634787
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 20260101,
+    "macro_f1": 0.8850539241603922,
+    "balanced_accuracy": 0.8839274370902888
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 73856093,
+    "macro_f1": 0.8787695694698945,
+    "balanced_accuracy": 0.8861765880782025
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 42,
+    "macro_f1": 0.943569907500453,
+    "balanced_accuracy": 0.951552722837016
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 1337,
+    "macro_f1": 0.9457449693722062,
+    "balanced_accuracy": 0.9473584303943708
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 2024,
+    "macro_f1": 0.9521636626774023,
+    "balanced_accuracy": 0.9469398343939491
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 20260101,
+    "macro_f1": 0.9466209921610095,
+    "balanced_accuracy": 0.9511542155884682
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 73856093,
+    "macro_f1": 0.9439591531369053,
+    "balanced_accuracy": 0.947468197973367
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 42,
+    "macro_f1": 0.9438054552557864,
+    "balanced_accuracy": 0.9518753256024255
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 1337,
+    "macro_f1": 0.9531755526664043,
+    "balanced_accuracy": 0.9567199969885869
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 2024,
+    "macro_f1": 0.9486215998559645,
+    "balanced_accuracy": 0.9522383383978548
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 20260101,
+    "macro_f1": 0.9462209282341937,
+    "balanced_accuracy": 0.9549315118873073
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 73856093,
+    "macro_f1": 0.9520065693758688,
+    "balanced_accuracy": 0.9499856267892338
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 42,
+    "macro_f1": 0.950083180205373,
+    "balanced_accuracy": 0.9512800772543827
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 1337,
+    "macro_f1": 0.9580540233457291,
+    "balanced_accuracy": 0.9535169282535854
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 2024,
+    "macro_f1": 0.9559251227606855,
+    "balanced_accuracy": 0.9562584920636242
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 20260101,
+    "macro_f1": 0.9487826765007934,
+    "balanced_accuracy": 0.95231282563022
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 73856093,
+    "macro_f1": 0.9507925268492218,
+    "balanced_accuracy": 0.9558591934233505
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 42,
+    "macro_f1": 0.9521207905255835,
+    "balanced_accuracy": 0.9501584595234144
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 1337,
+    "macro_f1": 0.9535882860216268,
+    "balanced_accuracy": 0.9530810983162908
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 2024,
+    "macro_f1": 0.9540421793101054,
+    "balanced_accuracy": 0.952407361588583
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 20260101,
+    "macro_f1": 0.9552609602636957,
+    "balanced_accuracy": 0.9529996986843913
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 73856093,
+    "macro_f1": 0.9554456653938216,
+    "balanced_accuracy": 0.9518126458306191
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 42,
+    "macro_f1": 0.9469763016479659,
+    "balanced_accuracy": 0.9498223996962843
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 1337,
+    "macro_f1": 0.9493079016011797,
+    "balanced_accuracy": 0.9503170180572003
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 2024,
+    "macro_f1": 0.9437849135853328,
+    "balanced_accuracy": 0.9480095740908707
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 20260101,
+    "macro_f1": 0.9472016393154774,
+    "balanced_accuracy": 0.94935566124092
+  },
+  {
+    "method": "efficientnetv2_s",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 73856093,
+    "macro_f1": 0.945552504547607,
+    "balanced_accuracy": 0.9461501049683292
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 42,
+    "macro_f1": 0.8708963399887492,
+    "balanced_accuracy": 0.8790638716787458
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 1337,
+    "macro_f1": 0.8745798545412697,
+    "balanced_accuracy": 0.8791364119957944
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 2024,
+    "macro_f1": 0.8759443310638585,
+    "balanced_accuracy": 0.8793166469860193
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 20260101,
+    "macro_f1": 0.8710493303602278,
+    "balanced_accuracy": 0.8764868627898686
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 73856093,
+    "macro_f1": 0.8756172222513577,
+    "balanced_accuracy": 0.8700700716237684
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 42,
+    "macro_f1": 0.876148753036863,
+    "balanced_accuracy": 0.8811956495729869
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 1337,
+    "macro_f1": 0.8705584514270522,
+    "balanced_accuracy": 0.8776372302925234
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 2024,
+    "macro_f1": 0.8750977122028947,
+    "balanced_accuracy": 0.880370735950562
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 20260101,
+    "macro_f1": 0.8728449838646871,
+    "balanced_accuracy": 0.8791719367162242
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 73856093,
+    "macro_f1": 0.8812143552316022,
+    "balanced_accuracy": 0.8744767396828916
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 42,
+    "macro_f1": 0.8759806823957275,
+    "balanced_accuracy": 0.8824533887064782
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 1337,
+    "macro_f1": 0.8844207865515951,
+    "balanced_accuracy": 0.874863466499785
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 2024,
+    "macro_f1": 0.8728046107990975,
+    "balanced_accuracy": 0.8766423844968134
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 20260101,
+    "macro_f1": 0.8786622787956372,
+    "balanced_accuracy": 0.8811348388855982
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 73856093,
+    "macro_f1": 0.8733473507727958,
+    "balanced_accuracy": 0.8801027479572545
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 42,
+    "macro_f1": 0.8679810659456692,
+    "balanced_accuracy": 0.8780435770127815
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 1337,
+    "macro_f1": 0.8775958750997342,
+    "balanced_accuracy": 0.8799562618209419
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 2024,
+    "macro_f1": 0.8780194691975497,
+    "balanced_accuracy": 0.8759841789028429
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 20260101,
+    "macro_f1": 0.8769560364845327,
+    "balanced_accuracy": 0.8780288363713963
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 73856093,
+    "macro_f1": 0.8765619152067358,
+    "balanced_accuracy": 0.8789164178394825
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 42,
+    "macro_f1": 0.8744111117985359,
+    "balanced_accuracy": 0.8725236172959053
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 1337,
+    "macro_f1": 0.8696326038049476,
+    "balanced_accuracy": 0.8735048685508666
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 2024,
+    "macro_f1": 0.8747975777393587,
+    "balanced_accuracy": 0.8779042090192779
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 20260101,
+    "macro_f1": 0.871985805872167,
+    "balanced_accuracy": 0.8783472310851504
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 73856093,
+    "macro_f1": 0.8764640486843643,
+    "balanced_accuracy": 0.877306438781319
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 42,
+    "macro_f1": 0.9401090430364133,
+    "balanced_accuracy": 0.9419176416550119
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 1337,
+    "macro_f1": 0.9385361451293117,
+    "balanced_accuracy": 0.9472349808421654
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 2024,
+    "macro_f1": 0.9394232178587567,
+    "balanced_accuracy": 0.9452201792882131
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 20260101,
+    "macro_f1": 0.9416743997236885,
+    "balanced_accuracy": 0.9429601697885867
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 73856093,
+    "macro_f1": 0.9398558843443079,
+    "balanced_accuracy": 0.9449622710194978
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 42,
+    "macro_f1": 0.9418894415773421,
+    "balanced_accuracy": 0.948094199970779
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 1337,
+    "macro_f1": 0.9428648307589405,
+    "balanced_accuracy": 0.9494074067433185
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 2024,
+    "macro_f1": 0.948195400602285,
+    "balanced_accuracy": 0.9440915770131908
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 20260101,
+    "macro_f1": 0.9452298271781244,
+    "balanced_accuracy": 0.9483046195240042
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 73856093,
+    "macro_f1": 0.9485750777299299,
+    "balanced_accuracy": 0.9481972621666018
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 42,
+    "macro_f1": 0.9474760655199269,
+    "balanced_accuracy": 0.9500230219261266
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 1337,
+    "macro_f1": 0.9499313158043056,
+    "balanced_accuracy": 0.9483788983481307
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 2024,
+    "macro_f1": 0.9468853507318405,
+    "balanced_accuracy": 0.9526805021366104
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 20260101,
+    "macro_f1": 0.9458273401090407,
+    "balanced_accuracy": 0.9489865121056659
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 73856093,
+    "macro_f1": 0.9458836883034242,
+    "balanced_accuracy": 0.9525435505341708
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 42,
+    "macro_f1": 0.9450179387517967,
+    "balanced_accuracy": 0.9488292954410227
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 1337,
+    "macro_f1": 0.9445677064276403,
+    "balanced_accuracy": 0.9477151032626985
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 2024,
+    "macro_f1": 0.9515687433290039,
+    "balanced_accuracy": 0.9476012379883386
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 20260101,
+    "macro_f1": 0.942735344323192,
+    "balanced_accuracy": 0.947862318652614
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 73856093,
+    "macro_f1": 0.9409513192204041,
+    "balanced_accuracy": 0.9464329516219647
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 42,
+    "macro_f1": 0.9435484976467627,
+    "balanced_accuracy": 0.9459402950017326
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 1337,
+    "macro_f1": 0.937629340577748,
+    "balanced_accuracy": 0.9504557086174851
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 2024,
+    "macro_f1": 0.9416642526848492,
+    "balanced_accuracy": 0.9371837177486934
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 20260101,
+    "macro_f1": 0.941617866192991,
+    "balanced_accuracy": 0.9468350973995651
+  },
+  {
+    "method": "deit_s",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 73856093,
+    "macro_f1": 0.9407077943233616,
+    "balanced_accuracy": 0.9449633703410592
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 42,
+    "macro_f1": 0.8621150372168634,
+    "balanced_accuracy": 0.870418960182986
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 1337,
+    "macro_f1": 0.8639302698532308,
+    "balanced_accuracy": 0.8659720635625409
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 2024,
+    "macro_f1": 0.866178293018241,
+    "balanced_accuracy": 0.8719864328091695
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 20260101,
+    "macro_f1": 0.8649156283410159,
+    "balanced_accuracy": 0.8639853300989129
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 73856093,
+    "macro_f1": 0.8660924367016063,
+    "balanced_accuracy": 0.8719865522785343
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 42,
+    "macro_f1": 0.87087482502499,
+    "balanced_accuracy": 0.8686069312412661
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 1337,
+    "macro_f1": 0.8718969296471077,
+    "balanced_accuracy": 0.8723636221748509
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 2024,
+    "macro_f1": 0.8699463545543648,
+    "balanced_accuracy": 0.8737674995124797
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 20260101,
+    "macro_f1": 0.8671070788119547,
+    "balanced_accuracy": 0.8653219769698284
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 73856093,
+    "macro_f1": 0.8660864326254879,
+    "balanced_accuracy": 0.8701980855554745
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 42,
+    "macro_f1": 0.8682190552376604,
+    "balanced_accuracy": 0.8688990092918752
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 1337,
+    "macro_f1": 0.8693186903021584,
+    "balanced_accuracy": 0.8701644596792999
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 2024,
+    "macro_f1": 0.8655746063090247,
+    "balanced_accuracy": 0.8675340215147483
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 20260101,
+    "macro_f1": 0.8683210373798053,
+    "balanced_accuracy": 0.8757653808030857
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 73856093,
+    "macro_f1": 0.8640113251809277,
+    "balanced_accuracy": 0.8704425223925758
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 42,
+    "macro_f1": 0.8688157469225869,
+    "balanced_accuracy": 0.870503417117704
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 1337,
+    "macro_f1": 0.8676617746336919,
+    "balanced_accuracy": 0.8715709850271106
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 2024,
+    "macro_f1": 0.8670825619261867,
+    "balanced_accuracy": 0.8728786544412866
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 20260101,
+    "macro_f1": 0.871834927369205,
+    "balanced_accuracy": 0.8665969606135949
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 73856093,
+    "macro_f1": 0.8671710190941853,
+    "balanced_accuracy": 0.8725934090316311
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 42,
+    "macro_f1": 0.8601322214381324,
+    "balanced_accuracy": 0.865410096936212
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 1337,
+    "macro_f1": 0.8639667916793722,
+    "balanced_accuracy": 0.8663638059569251
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 2024,
+    "macro_f1": 0.8693893234449929,
+    "balanced_accuracy": 0.8709012302825121
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 20260101,
+    "macro_f1": 0.8649264536087045,
+    "balanced_accuracy": 0.8730475148990114
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 73856093,
+    "macro_f1": 0.8614181495306862,
+    "balanced_accuracy": 0.8663311691053214
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 42,
+    "macro_f1": 0.9340221468878529,
+    "balanced_accuracy": 0.9317177969347483
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 1337,
+    "macro_f1": 0.9322047903231296,
+    "balanced_accuracy": 0.936737038804577
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 2024,
+    "macro_f1": 0.9316431557778554,
+    "balanced_accuracy": 0.9378173275989032
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 20260101,
+    "macro_f1": 0.9253159237669908,
+    "balanced_accuracy": 0.9322318709959978
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 73856093,
+    "macro_f1": 0.9319944247708195,
+    "balanced_accuracy": 0.9311023149373124
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 42,
+    "macro_f1": 0.9355641807594658,
+    "balanced_accuracy": 0.9382166482731578
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 1337,
+    "macro_f1": 0.9336828614246948,
+    "balanced_accuracy": 0.9342638978158564
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 2024,
+    "macro_f1": 0.9370067080646762,
+    "balanced_accuracy": 0.9445606960991287
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 20260101,
+    "macro_f1": 0.9313778980137217,
+    "balanced_accuracy": 0.9353733402590475
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 73856093,
+    "macro_f1": 0.9401417859661655,
+    "balanced_accuracy": 0.9341490251000719
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 42,
+    "macro_f1": 0.9302597692705011,
+    "balanced_accuracy": 0.9415105569536888
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 1337,
+    "macro_f1": 0.9387763235243864,
+    "balanced_accuracy": 0.944209007776838
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 2024,
+    "macro_f1": 0.9388943536738579,
+    "balanced_accuracy": 0.943801225987484
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 20260101,
+    "macro_f1": 0.9377482046865167,
+    "balanced_accuracy": 0.9394027599045839
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 73856093,
+    "macro_f1": 0.9371236954680631,
+    "balanced_accuracy": 0.9367832185279226
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 42,
+    "macro_f1": 0.9337490052446603,
+    "balanced_accuracy": 0.9369272182699072
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 1337,
+    "macro_f1": 0.9335221168879313,
+    "balanced_accuracy": 0.9343684616943564
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 2024,
+    "macro_f1": 0.9376994683608171,
+    "balanced_accuracy": 0.9379739398035817
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 20260101,
+    "macro_f1": 0.9383162670101088,
+    "balanced_accuracy": 0.9372732972068903
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 73856093,
+    "macro_f1": 0.938214378752353,
+    "balanced_accuracy": 0.9419559396642883
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 42,
+    "macro_f1": 0.9344389023846567,
+    "balanced_accuracy": 0.9357664461069044
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 1337,
+    "macro_f1": 0.9352586865288647,
+    "balanced_accuracy": 0.938283368634229
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 2024,
+    "macro_f1": 0.934916344483399,
+    "balanced_accuracy": 0.9378426323074285
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 20260101,
+    "macro_f1": 0.9322934355939065,
+    "balanced_accuracy": 0.9359583264416723
+  },
+  {
+    "method": "resnet50",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 73856093,
+    "macro_f1": 0.9357799082384141,
+    "balanced_accuracy": 0.9354925823962129
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 42,
+    "macro_f1": 0.8561574263179295,
+    "balanced_accuracy": 0.8587398633577799
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 1337,
+    "macro_f1": 0.853302877762697,
+    "balanced_accuracy": 0.8568737105187391
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 2024,
+    "macro_f1": 0.8582383122371586,
+    "balanced_accuracy": 0.8646163511802498
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 20260101,
+    "macro_f1": 0.8575109043557202,
+    "balanced_accuracy": 0.863069992375983
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 73856093,
+    "macro_f1": 0.8551580733252475,
+    "balanced_accuracy": 0.8643341232805132
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 42,
+    "macro_f1": 0.863365272350334,
+    "balanced_accuracy": 0.8660554071741761
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 1337,
+    "macro_f1": 0.8554438533019698,
+    "balanced_accuracy": 0.8688475248858192
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 2024,
+    "macro_f1": 0.8621507183598215,
+    "balanced_accuracy": 0.8611241585439225
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 20260101,
+    "macro_f1": 0.8582685547116046,
+    "balanced_accuracy": 0.8664439476006357
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 73856093,
+    "macro_f1": 0.8629195494563962,
+    "balanced_accuracy": 0.86724791436658
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 42,
+    "macro_f1": 0.8652266576672756,
+    "balanced_accuracy": 0.8666739319096933
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 1337,
+    "macro_f1": 0.865730827374217,
+    "balanced_accuracy": 0.862131213699562
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 2024,
+    "macro_f1": 0.8589791615296624,
+    "balanced_accuracy": 0.8630030837170609
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 20260101,
+    "macro_f1": 0.8646899963595379,
+    "balanced_accuracy": 0.870067627697432
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 73856093,
+    "macro_f1": 0.8662693313842984,
+    "balanced_accuracy": 0.8673776773601418
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 42,
+    "macro_f1": 0.8569551479785895,
+    "balanced_accuracy": 0.8629620588270166
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 1337,
+    "macro_f1": 0.8597484782498395,
+    "balanced_accuracy": 0.8664391879869515
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 2024,
+    "macro_f1": 0.8607290780053053,
+    "balanced_accuracy": 0.8628988537630169
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 20260101,
+    "macro_f1": 0.8553059239327107,
+    "balanced_accuracy": 0.8618328210274396
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 73856093,
+    "macro_f1": 0.8550584336017042,
+    "balanced_accuracy": 0.8644739902929233
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 42,
+    "macro_f1": 0.8612609844261137,
+    "balanced_accuracy": 0.8647957298279457
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 1337,
+    "macro_f1": 0.861173075267972,
+    "balanced_accuracy": 0.8523745759869558
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 2024,
+    "macro_f1": 0.8652413736828598,
+    "balanced_accuracy": 0.8640337314388973
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 20260101,
+    "macro_f1": 0.8636733175817615,
+    "balanced_accuracy": 0.8654661515558005
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 73856093,
+    "macro_f1": 0.8584494467039735,
+    "balanced_accuracy": 0.8604393487546088
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 42,
+    "macro_f1": 0.9254474869615188,
+    "balanced_accuracy": 0.9328049907234603
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 1337,
+    "macro_f1": 0.9299834902142107,
+    "balanced_accuracy": 0.9292500581912374
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 2024,
+    "macro_f1": 0.9304578618042335,
+    "balanced_accuracy": 0.9306705493216908
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 20260101,
+    "macro_f1": 0.9273650007922686,
+    "balanced_accuracy": 0.9339416753539216
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 73856093,
+    "macro_f1": 0.9278453350142705,
+    "balanced_accuracy": 0.9301966047512644
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 42,
+    "macro_f1": 0.9303254569518886,
+    "balanced_accuracy": 0.9333588749754144
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 1337,
+    "macro_f1": 0.9318856090827087,
+    "balanced_accuracy": 0.9325896313028494
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 2024,
+    "macro_f1": 0.9329635408710443,
+    "balanced_accuracy": 0.9377740283622875
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 20260101,
+    "macro_f1": 0.9389386289806556,
+    "balanced_accuracy": 0.9356305459552585
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 73856093,
+    "macro_f1": 0.9322614872026469,
+    "balanced_accuracy": 0.9321217774623511
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 42,
+    "macro_f1": 0.9342431383908496,
+    "balanced_accuracy": 0.9438331229191138
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 1337,
+    "macro_f1": 0.9338369538893293,
+    "balanced_accuracy": 0.9364995612296994
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 2024,
+    "macro_f1": 0.9390500302021886,
+    "balanced_accuracy": 0.9370162289677366
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 20260101,
+    "macro_f1": 0.9346057668776927,
+    "balanced_accuracy": 0.9386153086324415
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 73856093,
+    "macro_f1": 0.9368407687165079,
+    "balanced_accuracy": 0.9389389170982332
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 42,
+    "macro_f1": 0.9339581234480268,
+    "balanced_accuracy": 0.9380364122382611
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 1337,
+    "macro_f1": 0.9351233999835772,
+    "balanced_accuracy": 0.930923891157252
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 2024,
+    "macro_f1": 0.9330921021000786,
+    "balanced_accuracy": 0.9287055430723123
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 20260101,
+    "macro_f1": 0.9329209787059033,
+    "balanced_accuracy": 0.9310459123401152
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 73856093,
+    "macro_f1": 0.9310789424233737,
+    "balanced_accuracy": 0.9382585992985997
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 42,
+    "macro_f1": 0.9291460000966892,
+    "balanced_accuracy": 0.9311018761250687
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 1337,
+    "macro_f1": 0.9267126617216612,
+    "balanced_accuracy": 0.9293758732555858
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 2024,
+    "macro_f1": 0.9281238801674793,
+    "balanced_accuracy": 0.9306981650589033
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 20260101,
+    "macro_f1": 0.9297329647484885,
+    "balanced_accuracy": 0.934144497423763
+  },
+  {
+    "method": "mobilevit_v2",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 73856093,
+    "macro_f1": 0.9286650022671171,
+    "balanced_accuracy": 0.9341394950417239
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 42,
+    "macro_f1": 0.8967513378147508,
+    "balanced_accuracy": 0.8935009422165754
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 1337,
+    "macro_f1": 0.8964815411972248,
+    "balanced_accuracy": 0.9047132709263256
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 2024,
+    "macro_f1": 0.8909848021268632,
+    "balanced_accuracy": 0.9000152248469874
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 20260101,
+    "macro_f1": 0.8903025838325198,
+    "balanced_accuracy": 0.8973003154522731
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 73856093,
+    "macro_f1": 0.8896515776248607,
+    "balanced_accuracy": 0.896172981852882
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 42,
+    "macro_f1": 0.897734555185558,
+    "balanced_accuracy": 0.8961633186445286
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 1337,
+    "macro_f1": 0.8944326956659696,
+    "balanced_accuracy": 0.8978455464786099
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 2024,
+    "macro_f1": 0.8988828406554795,
+    "balanced_accuracy": 0.9021016655436594
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 20260101,
+    "macro_f1": 0.8971919856433417,
+    "balanced_accuracy": 0.9003175586417983
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 73856093,
+    "macro_f1": 0.8984514402172423,
+    "balanced_accuracy": 0.8970524531357721
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 42,
+    "macro_f1": 0.8969211958514481,
+    "balanced_accuracy": 0.9002823474451275
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 1337,
+    "macro_f1": 0.8984124512450612,
+    "balanced_accuracy": 0.9024033120318639
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 2024,
+    "macro_f1": 0.8980123254331487,
+    "balanced_accuracy": 0.9004859443874169
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 20260101,
+    "macro_f1": 0.8992808392494045,
+    "balanced_accuracy": 0.9017890821921897
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 73856093,
+    "macro_f1": 0.8938355033090087,
+    "balanced_accuracy": 0.9024552684958183
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 42,
+    "macro_f1": 0.8929001212667352,
+    "balanced_accuracy": 0.8955092525277962
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 1337,
+    "macro_f1": 0.8968323973801302,
+    "balanced_accuracy": 0.8995828999073856
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 2024,
+    "macro_f1": 0.8981969834741702,
+    "balanced_accuracy": 0.8995209533194836
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 20260101,
+    "macro_f1": 0.8964415775804824,
+    "balanced_accuracy": 0.901189917540978
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 73856093,
+    "macro_f1": 0.8975113465869238,
+    "balanced_accuracy": 0.8990019355047096
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 42,
+    "macro_f1": 0.8946650880618927,
+    "balanced_accuracy": 0.8925193882225566
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 1337,
+    "macro_f1": 0.8937299885837185,
+    "balanced_accuracy": 0.8948244774474701
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 2024,
+    "macro_f1": 0.8908027182320917,
+    "balanced_accuracy": 0.8960803809628672
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 20260101,
+    "macro_f1": 0.8972386996008526,
+    "balanced_accuracy": 0.8945088600770791
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 73856093,
+    "macro_f1": 0.8929676503461016,
+    "balanced_accuracy": 0.892048994711668
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 42,
+    "macro_f1": 0.9563973129567218,
+    "balanced_accuracy": 0.9579079934756614
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 1337,
+    "macro_f1": 0.9531742245820662,
+    "balanced_accuracy": 0.95336879323283
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 2024,
+    "macro_f1": 0.9537518152001185,
+    "balanced_accuracy": 0.954309713770866
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 20260101,
+    "macro_f1": 0.9542295730807867,
+    "balanced_accuracy": 0.954114640872877
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 73856093,
+    "macro_f1": 0.9562608998430641,
+    "balanced_accuracy": 0.9551415234527301
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 42,
+    "macro_f1": 0.9582513091032592,
+    "balanced_accuracy": 0.9627406285843196
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 1337,
+    "macro_f1": 0.9568451143986055,
+    "balanced_accuracy": 0.9555869810730551
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 2024,
+    "macro_f1": 0.9546530293984639,
+    "balanced_accuracy": 0.9600951308277164
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 20260101,
+    "macro_f1": 0.9622300585201133,
+    "balanced_accuracy": 0.9540018710281852
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 73856093,
+    "macro_f1": 0.9588047578689789,
+    "balanced_accuracy": 0.9613535478628974
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 42,
+    "macro_f1": 0.9576681668748442,
+    "balanced_accuracy": 0.9599857204510075
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 1337,
+    "macro_f1": 0.9598329890553723,
+    "balanced_accuracy": 0.9665014534507294
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 2024,
+    "macro_f1": 0.9599497333203348,
+    "balanced_accuracy": 0.9585409078976981
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 20260101,
+    "macro_f1": 0.9600193691065647,
+    "balanced_accuracy": 0.9614736130768686
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 73856093,
+    "macro_f1": 0.9591005092601171,
+    "balanced_accuracy": 0.9608975217341916
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 42,
+    "macro_f1": 0.9572850109640841,
+    "balanced_accuracy": 0.963654066633384
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 1337,
+    "macro_f1": 0.9588347828538102,
+    "balanced_accuracy": 0.9559072090111623
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 2024,
+    "macro_f1": 0.9597645043599038,
+    "balanced_accuracy": 0.9614666404265957
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 20260101,
+    "macro_f1": 0.957715740948743,
+    "balanced_accuracy": 0.9644598478672567
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 73856093,
+    "macro_f1": 0.9606603251296512,
+    "balanced_accuracy": 0.9600918828625543
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 42,
+    "macro_f1": 0.9558149484605896,
+    "balanced_accuracy": 0.9563461049728801
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 1337,
+    "macro_f1": 0.9499276157114843,
+    "balanced_accuracy": 0.9529980885481308
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 2024,
+    "macro_f1": 0.9549346926871791,
+    "balanced_accuracy": 0.951958837640781
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 20260101,
+    "macro_f1": 0.9577215915002707,
+    "balanced_accuracy": 0.9591510941191156
+  },
+  {
+    "method": "convnext_t_physaug",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 73856093,
+    "macro_f1": 0.9616963310143372,
+    "balanced_accuracy": 0.9550520856042378
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 42,
+    "macro_f1": 0.8888334246791756,
+    "balanced_accuracy": 0.8871794990736691
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 1337,
+    "macro_f1": 0.880102401938808,
+    "balanced_accuracy": 0.8875429998881446
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 2024,
+    "macro_f1": 0.8815752039870074,
+    "balanced_accuracy": 0.8829973452272983
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 20260101,
+    "macro_f1": 0.8836548994361192,
+    "balanced_accuracy": 0.8862651234262753
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 73856093,
+    "macro_f1": 0.882482638580718,
+    "balanced_accuracy": 0.885828396156866
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 42,
+    "macro_f1": 0.8834981912581829,
+    "balanced_accuracy": 0.891643891097519
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 1337,
+    "macro_f1": 0.8850743909382707,
+    "balanced_accuracy": 0.8940512395393914
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 2024,
+    "macro_f1": 0.8870591839984935,
+    "balanced_accuracy": 0.8877815212677179
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 20260101,
+    "macro_f1": 0.8849174548090353,
+    "balanced_accuracy": 0.8983376014467616
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 73856093,
+    "macro_f1": 0.8891987339568959,
+    "balanced_accuracy": 0.8954909577574158
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 42,
+    "macro_f1": 0.8861252294611117,
+    "balanced_accuracy": 0.8895160982000507
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 1337,
+    "macro_f1": 0.8904856788198753,
+    "balanced_accuracy": 0.895696723663669
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 2024,
+    "macro_f1": 0.890136930252799,
+    "balanced_accuracy": 0.8948129604074857
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 20260101,
+    "macro_f1": 0.8898164385291533,
+    "balanced_accuracy": 0.893526225024575
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 73856093,
+    "macro_f1": 0.8870213460282562,
+    "balanced_accuracy": 0.8978147489166571
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 42,
+    "macro_f1": 0.887666370511812,
+    "balanced_accuracy": 0.8903052189181326
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 1337,
+    "macro_f1": 0.8880341526959041,
+    "balanced_accuracy": 0.895479124038728
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 2024,
+    "macro_f1": 0.8878699674541014,
+    "balanced_accuracy": 0.8913963484998332
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 20260101,
+    "macro_f1": 0.88366590592378,
+    "balanced_accuracy": 0.8855783169537735
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 73856093,
+    "macro_f1": 0.8866183434294848,
+    "balanced_accuracy": 0.8924735483003865
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 42,
+    "macro_f1": 0.8831845156089023,
+    "balanced_accuracy": 0.8907557521499317
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 1337,
+    "macro_f1": 0.8844594401497715,
+    "balanced_accuracy": 0.8861701836903115
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 2024,
+    "macro_f1": 0.8891228625080332,
+    "balanced_accuracy": 0.8919040376198533
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 20260101,
+    "macro_f1": 0.8801536317042264,
+    "balanced_accuracy": 0.8844474027240459
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 73856093,
+    "macro_f1": 0.8884398968377032,
+    "balanced_accuracy": 0.8881199888032933
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 42,
+    "macro_f1": 0.9498124182059363,
+    "balanced_accuracy": 0.9477121903617236
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 1337,
+    "macro_f1": 0.9456871933999871,
+    "balanced_accuracy": 0.9540604258569909
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 2024,
+    "macro_f1": 0.9411458408126666,
+    "balanced_accuracy": 0.9526716474778694
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 20260101,
+    "macro_f1": 0.9500358183466155,
+    "balanced_accuracy": 0.9494140088053893
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 73856093,
+    "macro_f1": 0.9461613151609511,
+    "balanced_accuracy": 0.9547739656897347
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 42,
+    "macro_f1": 0.9529535149940082,
+    "balanced_accuracy": 0.9565386634359162
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 1337,
+    "macro_f1": 0.9472110279728272,
+    "balanced_accuracy": 0.955521908414561
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 2024,
+    "macro_f1": 0.9480176299775777,
+    "balanced_accuracy": 0.9533308199844961
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 20260101,
+    "macro_f1": 0.9440179482497102,
+    "balanced_accuracy": 0.9610446926278836
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 73856093,
+    "macro_f1": 0.953685085466216,
+    "balanced_accuracy": 0.9562836837762116
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 42,
+    "macro_f1": 0.9495702598121303,
+    "balanced_accuracy": 0.9623907124562668
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 1337,
+    "macro_f1": 0.9507010190435949,
+    "balanced_accuracy": 0.9562790338060994
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 2024,
+    "macro_f1": 0.9551677631684733,
+    "balanced_accuracy": 0.9555786592091602
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 20260101,
+    "macro_f1": 0.9594532607381773,
+    "balanced_accuracy": 0.9562898947027554
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 73856093,
+    "macro_f1": 0.95367245887171,
+    "balanced_accuracy": 0.9558707471563043
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 42,
+    "macro_f1": 0.9564358487755138,
+    "balanced_accuracy": 0.9577237025162851
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 1337,
+    "macro_f1": 0.9474631715263118,
+    "balanced_accuracy": 0.9536228453268832
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 2024,
+    "macro_f1": 0.9499937611641891,
+    "balanced_accuracy": 0.9548790967618729
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 20260101,
+    "macro_f1": 0.9504670017872101,
+    "balanced_accuracy": 0.9516044482689201
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 73856093,
+    "macro_f1": 0.9489439663117601,
+    "balanced_accuracy": 0.9580539550594835
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 42,
+    "macro_f1": 0.9438183719984428,
+    "balanced_accuracy": 0.9533575901384472
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 1337,
+    "macro_f1": 0.9548245286693827,
+    "balanced_accuracy": 0.9489457298584818
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 2024,
+    "macro_f1": 0.951118667386288,
+    "balanced_accuracy": 0.9504051415262238
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 20260101,
+    "macro_f1": 0.9464707772288221,
+    "balanced_accuracy": 0.9522232127640418
+  },
+  {
+    "method": "convnext_t_clahe",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 73856093,
+    "macro_f1": 0.9473097647668229,
+    "balanced_accuracy": 0.9471790412594412
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 42,
+    "macro_f1": 0.8801993650399713,
+    "balanced_accuracy": 0.8828134236523941
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 1337,
+    "macro_f1": 0.8829787820161876,
+    "balanced_accuracy": 0.88462271911593
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 2024,
+    "macro_f1": 0.8807493162985471,
+    "balanced_accuracy": 0.8825998900208222
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 20260101,
+    "macro_f1": 0.8772641606898481,
+    "balanced_accuracy": 0.8874437836832754
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 73856093,
+    "macro_f1": 0.8833304364852899,
+    "balanced_accuracy": 0.8782889402487893
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 42,
+    "macro_f1": 0.8833890387347414,
+    "balanced_accuracy": 0.8860541608054198
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 1337,
+    "macro_f1": 0.8844869595563203,
+    "balanced_accuracy": 0.8877274316794728
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 2024,
+    "macro_f1": 0.8800999653186827,
+    "balanced_accuracy": 0.8904737757859043
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 20260101,
+    "macro_f1": 0.8816560680406352,
+    "balanced_accuracy": 0.8835292940755144
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 73856093,
+    "macro_f1": 0.8832111499860409,
+    "balanced_accuracy": 0.888124224904566
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 42,
+    "macro_f1": 0.8870124514245996,
+    "balanced_accuracy": 0.8873134256278637
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 1337,
+    "macro_f1": 0.8890155893965352,
+    "balanced_accuracy": 0.8928472284651895
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 2024,
+    "macro_f1": 0.880883838273055,
+    "balanced_accuracy": 0.8879424619116871
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 20260101,
+    "macro_f1": 0.8864120472483701,
+    "balanced_accuracy": 0.8946899291512806
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 73856093,
+    "macro_f1": 0.8817289524450965,
+    "balanced_accuracy": 0.887483050048288
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 42,
+    "macro_f1": 0.8773565127133635,
+    "balanced_accuracy": 0.8849159413936275
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 1337,
+    "macro_f1": 0.8834405967061221,
+    "balanced_accuracy": 0.8841846474939133
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 2024,
+    "macro_f1": 0.8876364959198292,
+    "balanced_accuracy": 0.8897605022163322
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 20260101,
+    "macro_f1": 0.8841337074549004,
+    "balanced_accuracy": 0.8889486913596458
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 73856093,
+    "macro_f1": 0.8869557705886699,
+    "balanced_accuracy": 0.8836686420440709
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 42,
+    "macro_f1": 0.8823228709356553,
+    "balanced_accuracy": 0.8825461997639662
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 1337,
+    "macro_f1": 0.8812878150845502,
+    "balanced_accuracy": 0.8830647014136263
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 2024,
+    "macro_f1": 0.8805991493557087,
+    "balanced_accuracy": 0.8842236824757609
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 20260101,
+    "macro_f1": 0.8746568192202923,
+    "balanced_accuracy": 0.8904554749228947
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 73856093,
+    "macro_f1": 0.8774596419624807,
+    "balanced_accuracy": 0.885938219520497
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 42,
+    "macro_f1": 0.944367175227885,
+    "balanced_accuracy": 0.9467679124823196
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 1337,
+    "macro_f1": 0.9467369726803421,
+    "balanced_accuracy": 0.9494715570919795
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 2024,
+    "macro_f1": 0.9425228233890054,
+    "balanced_accuracy": 0.9506211997778742
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 20260101,
+    "macro_f1": 0.9500185058406498,
+    "balanced_accuracy": 0.9461591938846052
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 73856093,
+    "macro_f1": 0.9456505408359475,
+    "balanced_accuracy": 0.9474200015192032
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 42,
+    "macro_f1": 0.9469360918924061,
+    "balanced_accuracy": 0.9497000605931207
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 1337,
+    "macro_f1": 0.9534950044445134,
+    "balanced_accuracy": 0.9485746321884306
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 2024,
+    "macro_f1": 0.9469591419473338,
+    "balanced_accuracy": 0.9505022008892068
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 20260101,
+    "macro_f1": 0.947161800733252,
+    "balanced_accuracy": 0.9540014266716031
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 73856093,
+    "macro_f1": 0.949076482104892,
+    "balanced_accuracy": 0.9486231929128716
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 42,
+    "macro_f1": 0.9520052196757537,
+    "balanced_accuracy": 0.9547540426459182
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 1337,
+    "macro_f1": 0.9469779011481808,
+    "balanced_accuracy": 0.9496183775615759
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 2024,
+    "macro_f1": 0.9496712760626351,
+    "balanced_accuracy": 0.9482884552523425
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 20260101,
+    "macro_f1": 0.9492188586895851,
+    "balanced_accuracy": 0.9540439575340844
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 73856093,
+    "macro_f1": 0.9517498631664424,
+    "balanced_accuracy": 0.9529647621310131
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 42,
+    "macro_f1": 0.9467686404469489,
+    "balanced_accuracy": 0.9505912594476194
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 1337,
+    "macro_f1": 0.9513601980688642,
+    "balanced_accuracy": 0.9513833256072279
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 2024,
+    "macro_f1": 0.9478974994036486,
+    "balanced_accuracy": 0.9485432567042393
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 20260101,
+    "macro_f1": 0.9465559828994838,
+    "balanced_accuracy": 0.9557908284860989
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 73856093,
+    "macro_f1": 0.9475828654793369,
+    "balanced_accuracy": 0.9597080849986909
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 42,
+    "macro_f1": 0.9458634376481406,
+    "balanced_accuracy": 0.9499659568769612
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 1337,
+    "macro_f1": 0.943291632259721,
+    "balanced_accuracy": 0.9541275531254486
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 2024,
+    "macro_f1": 0.9446517035595303,
+    "balanced_accuracy": 0.9503178594191047
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 20260101,
+    "macro_f1": 0.9535490725250596,
+    "balanced_accuracy": 0.9454201626851495
+  },
+  {
+    "method": "convnext_t_hsv",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 73856093,
+    "macro_f1": 0.9440616259924438,
+    "balanced_accuracy": 0.9490807283878392
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 42,
+    "macro_f1": 0.8911892558146904,
+    "balanced_accuracy": 0.8935501268116028
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 1337,
+    "macro_f1": 0.8891417577393487,
+    "balanced_accuracy": 0.8931436439287225
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 2024,
+    "macro_f1": 0.8849634274112919,
+    "balanced_accuracy": 0.8929461124654927
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 20260101,
+    "macro_f1": 0.8856260928399174,
+    "balanced_accuracy": 0.8911156278640495
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 73856093,
+    "macro_f1": 0.8910055542808104,
+    "balanced_accuracy": 0.8948703851774327
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 42,
+    "macro_f1": 0.8860417519454001,
+    "balanced_accuracy": 0.8942359435491494
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 1337,
+    "macro_f1": 0.8899729139735564,
+    "balanced_accuracy": 0.8983220976437855
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 2024,
+    "macro_f1": 0.8890482618471875,
+    "balanced_accuracy": 0.892406789204924
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 20260101,
+    "macro_f1": 0.8936264791064876,
+    "balanced_accuracy": 0.892104107443766
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 73856093,
+    "macro_f1": 0.8877783668641294,
+    "balanced_accuracy": 0.8984413008037179
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 42,
+    "macro_f1": 0.8925013630644428,
+    "balanced_accuracy": 0.8957905295146891
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 1337,
+    "macro_f1": 0.8876727404677315,
+    "balanced_accuracy": 0.8957767522838985
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 2024,
+    "macro_f1": 0.8935573906406767,
+    "balanced_accuracy": 0.8953248804388254
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 20260101,
+    "macro_f1": 0.8942181562852425,
+    "balanced_accuracy": 0.8937629390787811
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 73856093,
+    "macro_f1": 0.8900201016155758,
+    "balanced_accuracy": 0.8939566631479483
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 42,
+    "macro_f1": 0.8911745525813736,
+    "balanced_accuracy": 0.8938853861311273
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 1337,
+    "macro_f1": 0.8869053574509009,
+    "balanced_accuracy": 0.897044863836204
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 2024,
+    "macro_f1": 0.8907089035055099,
+    "balanced_accuracy": 0.8949414137073612
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 20260101,
+    "macro_f1": 0.8923991781459488,
+    "balanced_accuracy": 0.8932698070574174
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 73856093,
+    "macro_f1": 0.8895925481833713,
+    "balanced_accuracy": 0.8950706663592854
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 42,
+    "macro_f1": 0.8892571405135231,
+    "balanced_accuracy": 0.8870629489097739
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 1337,
+    "macro_f1": 0.8833510170270983,
+    "balanced_accuracy": 0.894633981053039
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 2024,
+    "macro_f1": 0.8874279861692977,
+    "balanced_accuracy": 0.8900694588115613
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 20260101,
+    "macro_f1": 0.8883052950321912,
+    "balanced_accuracy": 0.8942125571422579
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 73856093,
+    "macro_f1": 0.8917072713831184,
+    "balanced_accuracy": 0.8913003124332809
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 42,
+    "macro_f1": 0.952450435868618,
+    "balanced_accuracy": 0.9529815923809085
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 1337,
+    "macro_f1": 0.9465631031195127,
+    "balanced_accuracy": 0.9496335759561593
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 2024,
+    "macro_f1": 0.9515701800952076,
+    "balanced_accuracy": 0.9485943250488095
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 20260101,
+    "macro_f1": 0.9543570789082991,
+    "balanced_accuracy": 0.955786581527144
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 73856093,
+    "macro_f1": 0.9583318184223656,
+    "balanced_accuracy": 0.9516875730122663
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 42,
+    "macro_f1": 0.9533249080085063,
+    "balanced_accuracy": 0.9587937514962158
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 1337,
+    "macro_f1": 0.9518037703369977,
+    "balanced_accuracy": 0.956987530549517
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 2024,
+    "macro_f1": 0.9489376406764073,
+    "balanced_accuracy": 0.9579134957228054
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 20260101,
+    "macro_f1": 0.9600950840631339,
+    "balanced_accuracy": 0.9565048553572606
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 73856093,
+    "macro_f1": 0.9543446348309644,
+    "balanced_accuracy": 0.9590358598341179
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 42,
+    "macro_f1": 0.9602700435666995,
+    "balanced_accuracy": 0.9599009878973996
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 1337,
+    "macro_f1": 0.960048218220756,
+    "balanced_accuracy": 0.9610805667360521
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 2024,
+    "macro_f1": 0.9580826173599112,
+    "balanced_accuracy": 0.9623804812932193
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 20260101,
+    "macro_f1": 0.9598864961778446,
+    "balanced_accuracy": 0.9578758040655765
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 73856093,
+    "macro_f1": 0.9580511208029934,
+    "balanced_accuracy": 0.9597904854372166
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 42,
+    "macro_f1": 0.953369743517692,
+    "balanced_accuracy": 0.9570521899415287
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 1337,
+    "macro_f1": 0.9545431087034584,
+    "balanced_accuracy": 0.958311677685145
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 2024,
+    "macro_f1": 0.9519249309643826,
+    "balanced_accuracy": 0.9593337563870193
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 20260101,
+    "macro_f1": 0.9548944428942411,
+    "balanced_accuracy": 0.9646259019596949
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 73856093,
+    "macro_f1": 0.9568069974413711,
+    "balanced_accuracy": 0.9551384554270791
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 42,
+    "macro_f1": 0.9557618255486934,
+    "balanced_accuracy": 0.9572725060676329
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 1337,
+    "macro_f1": 0.9525387371740378,
+    "balanced_accuracy": 0.9527333058248015
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 2024,
+    "macro_f1": 0.9531163277920901,
+    "balanced_accuracy": 0.9536742263628376
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 20260101,
+    "macro_f1": 0.9535940856727583,
+    "balanced_accuracy": 0.9534791534648486
+  },
+  {
+    "method": "convnext_t_greyworld",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 73856093,
+    "macro_f1": 0.9556254124350356,
+    "balanced_accuracy": 0.9545060360447016
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 42,
+    "macro_f1": 0.8865789357483249,
+    "balanced_accuracy": 0.8822802104948675
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 1337,
+    "macro_f1": 0.8790221219435588,
+    "balanced_accuracy": 0.880489562886266
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 2024,
+    "macro_f1": 0.8825730348570233,
+    "balanced_accuracy": 0.8795780797899719
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 20260101,
+    "macro_f1": 0.878980158124567,
+    "balanced_accuracy": 0.8876753689831965
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 73856093,
+    "macro_f1": 0.885574339268532,
+    "balanced_accuracy": 0.8866373749372665
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 42,
+    "macro_f1": 0.8838628116724091,
+    "balanced_accuracy": 0.8871065922084574
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 1337,
+    "macro_f1": 0.8907237437217782,
+    "balanced_accuracy": 0.8863533072417713
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 2024,
+    "macro_f1": 0.8846567955990089,
+    "balanced_accuracy": 0.8907640345002171
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 20260101,
+    "macro_f1": 0.8875808352049956,
+    "balanced_accuracy": 0.8898837925034062
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 73856093,
+    "macro_f1": 0.8900778215049429,
+    "balanced_accuracy": 0.8895142486974685
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 42,
+    "macro_f1": 0.8837740687152674,
+    "balanced_accuracy": 0.8917827981174458
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 1337,
+    "macro_f1": 0.8850716290589193,
+    "balanced_accuracy": 0.8902888507184783
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 2024,
+    "macro_f1": 0.8832968237931671,
+    "balanced_accuracy": 0.8911489604388586
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 20260101,
+    "macro_f1": 0.8846615046361981,
+    "balanced_accuracy": 0.8909063703326325
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 73856093,
+    "macro_f1": 0.8899625018333325,
+    "balanced_accuracy": 0.885261526604456
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 42,
+    "macro_f1": 0.8927105883125109,
+    "balanced_accuracy": 0.8882791613368141
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 1337,
+    "macro_f1": 0.8846622723311898,
+    "balanced_accuracy": 0.8916672379459041
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 2024,
+    "macro_f1": 0.8796519989043191,
+    "balanced_accuracy": 0.8842682636309707
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 20260101,
+    "macro_f1": 0.8880261528915184,
+    "balanced_accuracy": 0.8857186718223247
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 73856093,
+    "macro_f1": 0.8857775220383102,
+    "balanced_accuracy": 0.8867109684907415
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 42,
+    "macro_f1": 0.8922418847056002,
+    "balanced_accuracy": 0.8907684361853719
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 1337,
+    "macro_f1": 0.8834529286471283,
+    "balanced_accuracy": 0.8861714149324117
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 2024,
+    "macro_f1": 0.8799822232882433,
+    "balanced_accuracy": 0.887084460609148
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 20260101,
+    "macro_f1": 0.8861228988099081,
+    "balanced_accuracy": 0.8847361647951055
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 73856093,
+    "macro_f1": 0.8857386568719771,
+    "balanced_accuracy": 0.8866319348228582
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 42,
+    "macro_f1": 0.9543402760419494,
+    "balanced_accuracy": 0.9462683555476488
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 1337,
+    "macro_f1": 0.9457619043788182,
+    "balanced_accuracy": 0.9523106293213937
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 2024,
+    "macro_f1": 0.9476857528340045,
+    "balanced_accuracy": 0.9522860133500884
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 20260101,
+    "macro_f1": 0.953701396600792,
+    "balanced_accuracy": 0.9542386204909766
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 73856093,
+    "macro_f1": 0.9449533433622456,
+    "balanced_accuracy": 0.947677277084787
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 42,
+    "macro_f1": 0.948875450806019,
+    "balanced_accuracy": 0.9565166018340494
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 1337,
+    "macro_f1": 0.9545542374790749,
+    "balanced_accuracy": 0.9579469545867687
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 2024,
+    "macro_f1": 0.9497984795223667,
+    "balanced_accuracy": 0.9513540160650533
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 20260101,
+    "macro_f1": 0.9531209406964003,
+    "balanced_accuracy": 0.9532565607695632
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 73856093,
+    "macro_f1": 0.9530326708571357,
+    "balanced_accuracy": 0.9611688770769268
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 42,
+    "macro_f1": 0.9486638807301432,
+    "balanced_accuracy": 0.9553867529638114
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 1337,
+    "macro_f1": 0.9532526198506689,
+    "balanced_accuracy": 0.9597192493589485
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 2024,
+    "macro_f1": 0.9495608591137586,
+    "balanced_accuracy": 0.9560807618072221
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 20260101,
+    "macro_f1": 0.9581103505035171,
+    "balanced_accuracy": 0.9552715138061293
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 73856093,
+    "macro_f1": 0.9516591130084895,
+    "balanced_accuracy": 0.9616297176888875
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 42,
+    "macro_f1": 0.9524580893446231,
+    "balanced_accuracy": 0.9554362259483503
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 1337,
+    "macro_f1": 0.9519536571823813,
+    "balanced_accuracy": 0.953629105541336
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 2024,
+    "macro_f1": 0.9441597708679061,
+    "balanced_accuracy": 0.9617523457034379
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 20260101,
+    "macro_f1": 0.9483145614567583,
+    "balanced_accuracy": 0.9527427132052391
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 73856093,
+    "macro_f1": 0.9559568189832747,
+    "balanced_accuracy": 0.9598431429040141
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 42,
+    "macro_f1": 0.953249153385745,
+    "balanced_accuracy": 0.9545932973053846
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 1337,
+    "macro_f1": 0.951272730044804,
+    "balanced_accuracy": 0.9562596609221975
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 2024,
+    "macro_f1": 0.9511522720704357,
+    "balanced_accuracy": 0.95068959343756
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 20260101,
+    "macro_f1": 0.9487775762816402,
+    "balanced_accuracy": 0.9573418683864442
+  },
+  {
+    "method": "convnext_t_rgb_jitter",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 73856093,
+    "macro_f1": 0.9503182888935138,
+    "balanced_accuracy": 0.9574069728663295
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 42,
+    "macro_f1": 0.8843065458040742,
+    "balanced_accuracy": 0.8877254791575234
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 1337,
+    "macro_f1": 0.886154087507589,
+    "balanced_accuracy": 0.886231531758556
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 2024,
+    "macro_f1": 0.8838189923571151,
+    "balanced_accuracy": 0.8870916414789363
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 20260101,
+    "macro_f1": 0.8827195036450052,
+    "balanced_accuracy": 0.8868490513727102
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D1",
+    "fold": 0,
+    "seed": 73856093,
+    "macro_f1": 0.8844211293969635,
+    "balanced_accuracy": 0.8812042076445337
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 42,
+    "macro_f1": 0.8860354828887838,
+    "balanced_accuracy": 0.8918711535716356
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 1337,
+    "macro_f1": 0.8793752177776546,
+    "balanced_accuracy": 0.8872833722812986
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 2024,
+    "macro_f1": 0.8905538247405017,
+    "balanced_accuracy": 0.8865044134647218
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 20260101,
+    "macro_f1": 0.8883874047328684,
+    "balanced_accuracy": 0.8848360775582546
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D1",
+    "fold": 1,
+    "seed": 73856093,
+    "macro_f1": 0.8854851402821241,
+    "balanced_accuracy": 0.888801875856281
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 42,
+    "macro_f1": 0.8869445769678955,
+    "balanced_accuracy": 0.8883375294547898
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 1337,
+    "macro_f1": 0.8843294409461624,
+    "balanced_accuracy": 0.8865468818461884
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 2024,
+    "macro_f1": 0.8869902113725109,
+    "balanced_accuracy": 0.8856353987498943
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 20260101,
+    "macro_f1": 0.8888241356790267,
+    "balanced_accuracy": 0.8937326879431189
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D1",
+    "fold": 2,
+    "seed": 73856093,
+    "macro_f1": 0.8867564653935578,
+    "balanced_accuracy": 0.8926946938971888
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 42,
+    "macro_f1": 0.8862407910067496,
+    "balanced_accuracy": 0.8880248311698528
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 1337,
+    "macro_f1": 0.8864761159990333,
+    "balanced_accuracy": 0.8877273383412909
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 2024,
+    "macro_f1": 0.8832515940361311,
+    "balanced_accuracy": 0.8944817767111778
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 20260101,
+    "macro_f1": 0.8886256512762425,
+    "balanced_accuracy": 0.891072237571659
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D1",
+    "fold": 3,
+    "seed": 73856093,
+    "macro_f1": 0.883106799907146,
+    "balanced_accuracy": 0.8953456011479676
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 42,
+    "macro_f1": 0.8845332724398541,
+    "balanced_accuracy": 0.8872720591784691
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 1337,
+    "macro_f1": 0.8866939106036154,
+    "balanced_accuracy": 0.8821876245169843
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 2024,
+    "macro_f1": 0.8828400302659408,
+    "balanced_accuracy": 0.8838281105804059
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 20260101,
+    "macro_f1": 0.8876052492807485,
+    "balanced_accuracy": 0.8860899195529349
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D1",
+    "fold": 4,
+    "seed": 73856093,
+    "macro_f1": 0.8844858864856929,
+    "balanced_accuracy": 0.8867318461147402
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 42,
+    "macro_f1": 0.9450840859291298,
+    "balanced_accuracy": 0.9406017262917497
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 1337,
+    "macro_f1": 0.9461939708669652,
+    "balanced_accuracy": 0.9547486473581515
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 2024,
+    "macro_f1": 0.9441063888881835,
+    "balanced_accuracy": 0.9438041960066449
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 20260101,
+    "macro_f1": 0.9469638318945979,
+    "balanced_accuracy": 0.9443238262249934
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D2",
+    "fold": 0,
+    "seed": 73856093,
+    "macro_f1": 0.9426462511144742,
+    "balanced_accuracy": 0.9445532662679107
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 42,
+    "macro_f1": 0.9495087412632914,
+    "balanced_accuracy": 0.9427718930188699
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 1337,
+    "macro_f1": 0.9475266399110241,
+    "balanced_accuracy": 0.9473940807634188
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 2024,
+    "macro_f1": 0.949407289136741,
+    "balanced_accuracy": 0.9525343835075342
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 20260101,
+    "macro_f1": 0.948203394162471,
+    "balanced_accuracy": 0.9553771240900252
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D2",
+    "fold": 1,
+    "seed": 73856093,
+    "macro_f1": 0.9410921632872028,
+    "balanced_accuracy": 0.9477577170040894
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 42,
+    "macro_f1": 0.9483306121341054,
+    "balanced_accuracy": 0.9500889208520111
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 1337,
+    "macro_f1": 0.9475263157549401,
+    "balanced_accuracy": 0.9493421138269249
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 2024,
+    "macro_f1": 0.9445782743102878,
+    "balanced_accuracy": 0.948215317312968
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 20260101,
+    "macro_f1": 0.9470006017650726,
+    "balanced_accuracy": 0.9491234392216674
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D2",
+    "fold": 2,
+    "seed": 73856093,
+    "macro_f1": 0.948987355320274,
+    "balanced_accuracy": 0.9490386910859988
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 42,
+    "macro_f1": 0.9535133941644321,
+    "balanced_accuracy": 0.9450234823120552
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 1337,
+    "macro_f1": 0.9473487119136915,
+    "balanced_accuracy": 0.952308575857933
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 2024,
+    "macro_f1": 0.9404886935507548,
+    "balanced_accuracy": 0.9484981827588942
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 20260101,
+    "macro_f1": 0.9444327899623439,
+    "balanced_accuracy": 0.9451447560411401
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D2",
+    "fold": 3,
+    "seed": 73856093,
+    "macro_f1": 0.9459593857577794,
+    "balanced_accuracy": 0.9514613504045762
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 42,
+    "macro_f1": 0.9416986063255084,
+    "balanced_accuracy": 0.9446080031659402
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 1337,
+    "macro_f1": 0.9401137310207495,
+    "balanced_accuracy": 0.9494996550197589
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 2024,
+    "macro_f1": 0.9500017585371029,
+    "balanced_accuracy": 0.9498915008135475
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 20260101,
+    "macro_f1": 0.9390487710893063,
+    "balanced_accuracy": 0.9475448273891109
+  },
+  {
+    "method": "pigmentnet_no_decomposition",
+    "dataset": "D2",
+    "fold": 4,
+    "seed": 73856093,
+    "macro_f1": 0.9464736892207579,
+    "balanced_accuracy": 0.9498004814637439
+  }
+]

@@ -1,0 +1,2815 @@
+{
+  "n_leaves": 100,
+  "concepts": [
+    "c1_chlorotic",
+    "c2_red",
+    "c3_necrotic",
+    "c4_heterogeneity",
+    "c5_patchiness",
+    "c6_lesion_density",
+    "c7_stripe_coherence"
+  ],
+  "scale": "0-4",
+  "annotations": [
+    {
+      "image": "test/healthy/healthy_concept_000.jpg",
+      "class": "healthy",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 0,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/healthy/healthy_concept_000.jpg",
+      "class": "healthy",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 0,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 0,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 0,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/healthy/healthy_concept_001.jpg",
+      "class": "healthy",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 1,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 0,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 0,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/healthy/healthy_concept_001.jpg",
+      "class": "healthy",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 1,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 4,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/healthy/healthy_concept_002.jpg",
+      "class": "healthy",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 0,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 0,
+        "c5_patchiness": 4,
+        "c6_lesion_density": 0,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/healthy/healthy_concept_002.jpg",
+      "class": "healthy",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 0,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/healthy/healthy_concept_003.jpg",
+      "class": "healthy",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 1,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/healthy/healthy_concept_003.jpg",
+      "class": "healthy",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 0,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 0,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 0,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/healthy/healthy_concept_004.jpg",
+      "class": "healthy",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 0,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 0,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 0,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/healthy/healthy_concept_004.jpg",
+      "class": "healthy",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 0,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 0,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 0,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/healthy/healthy_concept_005.jpg",
+      "class": "healthy",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 0,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 0,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/healthy/healthy_concept_005.jpg",
+      "class": "healthy",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 0,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 0,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 1
+      }
+    },
+    {
+      "image": "test/healthy/healthy_concept_006.jpg",
+      "class": "healthy",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 1,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/healthy/healthy_concept_006.jpg",
+      "class": "healthy",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 0,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 0,
+        "c5_patchiness": 4,
+        "c6_lesion_density": 0,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/healthy/healthy_concept_007.jpg",
+      "class": "healthy",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 1,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 4,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/healthy/healthy_concept_007.jpg",
+      "class": "healthy",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 1,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/healthy/healthy_concept_008.jpg",
+      "class": "healthy",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 0,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 0,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/healthy/healthy_concept_008.jpg",
+      "class": "healthy",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 0,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 0,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 0,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/healthy/healthy_concept_009.jpg",
+      "class": "healthy",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 0,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 0,
+        "c5_patchiness": 4,
+        "c6_lesion_density": 0,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/healthy/healthy_concept_009.jpg",
+      "class": "healthy",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 1,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 0,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 0,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/healthy/healthy_concept_010.jpg",
+      "class": "healthy",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 0,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 1,
+        "c6_lesion_density": 0,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/healthy/healthy_concept_010.jpg",
+      "class": "healthy",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 1,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 0,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 0,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/healthy/healthy_concept_011.jpg",
+      "class": "healthy",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 0,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 0,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/healthy/healthy_concept_011.jpg",
+      "class": "healthy",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 0,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 0,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 0,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/healthy/healthy_concept_012.jpg",
+      "class": "healthy",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 0,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 0,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 0,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/healthy/healthy_concept_012.jpg",
+      "class": "healthy",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 0,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 0,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 0,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/healthy/healthy_concept_013.jpg",
+      "class": "healthy",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 0,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 0,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/healthy/healthy_concept_013.jpg",
+      "class": "healthy",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 0,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 0,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/healthy/healthy_concept_014.jpg",
+      "class": "healthy",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 0,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 0,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/healthy/healthy_concept_014.jpg",
+      "class": "healthy",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 1,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 0,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 0,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/healthy/healthy_concept_015.jpg",
+      "class": "healthy",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 0,
+        "c5_patchiness": 4,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 1
+      }
+    },
+    {
+      "image": "test/healthy/healthy_concept_015.jpg",
+      "class": "healthy",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 0,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/healthy/healthy_concept_016.jpg",
+      "class": "healthy",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 0,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/healthy/healthy_concept_016.jpg",
+      "class": "healthy",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 0,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 0,
+        "c7_stripe_coherence": 1
+      }
+    },
+    {
+      "image": "test/healthy/healthy_concept_017.jpg",
+      "class": "healthy",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 1,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/healthy/healthy_concept_017.jpg",
+      "class": "healthy",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 1,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/healthy/healthy_concept_018.jpg",
+      "class": "healthy",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 0,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 0,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/healthy/healthy_concept_018.jpg",
+      "class": "healthy",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 0,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/healthy/healthy_concept_019.jpg",
+      "class": "healthy",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 1,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 0,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/healthy/healthy_concept_019.jpg",
+      "class": "healthy",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 0,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 0,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_000.jpg",
+      "class": "yellow_leaf",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 3,
+        "c2_red": 1,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_000.jpg",
+      "class": "yellow_leaf",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 3,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 2,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_001.jpg",
+      "class": "yellow_leaf",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 3,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_001.jpg",
+      "class": "yellow_leaf",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 3,
+        "c2_red": 0,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 0,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_002.jpg",
+      "class": "yellow_leaf",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 3,
+        "c2_red": 1,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_002.jpg",
+      "class": "yellow_leaf",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 3,
+        "c2_red": 1,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_003.jpg",
+      "class": "yellow_leaf",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 3,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_003.jpg",
+      "class": "yellow_leaf",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 4,
+        "c2_red": 1,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_004.jpg",
+      "class": "yellow_leaf",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 3,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_004.jpg",
+      "class": "yellow_leaf",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 3,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_005.jpg",
+      "class": "yellow_leaf",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 4,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_005.jpg",
+      "class": "yellow_leaf",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 2,
+        "c2_red": 0,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_006.jpg",
+      "class": "yellow_leaf",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 4,
+        "c2_red": 1,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 2,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_006.jpg",
+      "class": "yellow_leaf",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 3,
+        "c2_red": 1,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_007.jpg",
+      "class": "yellow_leaf",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 3,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_007.jpg",
+      "class": "yellow_leaf",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 3,
+        "c2_red": 1,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 0,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_008.jpg",
+      "class": "yellow_leaf",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 3,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 4,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_008.jpg",
+      "class": "yellow_leaf",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 3,
+        "c2_red": 0,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_009.jpg",
+      "class": "yellow_leaf",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 4,
+        "c2_red": 1,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_009.jpg",
+      "class": "yellow_leaf",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 3,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_010.jpg",
+      "class": "yellow_leaf",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 4,
+        "c2_red": 0,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_010.jpg",
+      "class": "yellow_leaf",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 3,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_011.jpg",
+      "class": "yellow_leaf",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 3,
+        "c2_red": 1,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_011.jpg",
+      "class": "yellow_leaf",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 3,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 2,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_012.jpg",
+      "class": "yellow_leaf",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 3,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 1
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_012.jpg",
+      "class": "yellow_leaf",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 3,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_013.jpg",
+      "class": "yellow_leaf",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 3,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_013.jpg",
+      "class": "yellow_leaf",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 3,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_014.jpg",
+      "class": "yellow_leaf",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 2,
+        "c2_red": 1,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_014.jpg",
+      "class": "yellow_leaf",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 3,
+        "c2_red": 0,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_015.jpg",
+      "class": "yellow_leaf",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 4,
+        "c2_red": 1,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_015.jpg",
+      "class": "yellow_leaf",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 3,
+        "c2_red": 1,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_016.jpg",
+      "class": "yellow_leaf",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 4,
+        "c2_red": 1,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 4,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 1
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_016.jpg",
+      "class": "yellow_leaf",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 3,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_017.jpg",
+      "class": "yellow_leaf",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 3,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_017.jpg",
+      "class": "yellow_leaf",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 3,
+        "c2_red": 1,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_018.jpg",
+      "class": "yellow_leaf",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 3,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_018.jpg",
+      "class": "yellow_leaf",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 3,
+        "c2_red": 0,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_019.jpg",
+      "class": "yellow_leaf",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 3,
+        "c2_red": 0,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_concept_019.jpg",
+      "class": "yellow_leaf",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 3,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 2,
+        "c7_stripe_coherence": 1
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_000.jpg",
+      "class": "mosaic",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 2,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 3,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_000.jpg",
+      "class": "mosaic",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 2,
+        "c2_red": 1,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 3,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 1
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_001.jpg",
+      "class": "mosaic",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 2,
+        "c2_red": 0,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 3,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_001.jpg",
+      "class": "mosaic",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 3,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 1
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_002.jpg",
+      "class": "mosaic",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 1,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 3,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 0,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_002.jpg",
+      "class": "mosaic",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 2,
+        "c2_red": 0,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_003.jpg",
+      "class": "mosaic",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 2,
+        "c2_red": 1,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 3,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_003.jpg",
+      "class": "mosaic",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 2,
+        "c2_red": 0,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_004.jpg",
+      "class": "mosaic",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 2,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 3,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 0,
+        "c7_stripe_coherence": 1
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_004.jpg",
+      "class": "mosaic",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 2,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 4,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 2,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_005.jpg",
+      "class": "mosaic",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 3,
+        "c2_red": 1,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_005.jpg",
+      "class": "mosaic",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_006.jpg",
+      "class": "mosaic",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 2,
+        "c2_red": 0,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 3,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_006.jpg",
+      "class": "mosaic",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 2,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 3,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_007.jpg",
+      "class": "mosaic",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 2,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 3,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 1
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_007.jpg",
+      "class": "mosaic",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 2,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 3,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_008.jpg",
+      "class": "mosaic",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 2,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 1
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_008.jpg",
+      "class": "mosaic",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 2,
+        "c2_red": 1,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 3,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_009.jpg",
+      "class": "mosaic",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 3,
+        "c2_red": 1,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_009.jpg",
+      "class": "mosaic",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 1,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 0,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_010.jpg",
+      "class": "mosaic",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 2,
+        "c2_red": 1,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 3,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_010.jpg",
+      "class": "mosaic",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_011.jpg",
+      "class": "mosaic",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 2,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 1
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_011.jpg",
+      "class": "mosaic",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 2,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 3,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 1
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_012.jpg",
+      "class": "mosaic",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 2,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 2,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_012.jpg",
+      "class": "mosaic",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 3,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 3,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 2,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_013.jpg",
+      "class": "mosaic",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 2,
+        "c2_red": 1,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_013.jpg",
+      "class": "mosaic",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 1,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 3,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 1
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_014.jpg",
+      "class": "mosaic",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 2,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_014.jpg",
+      "class": "mosaic",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 2,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 3,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_015.jpg",
+      "class": "mosaic",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 3,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_015.jpg",
+      "class": "mosaic",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 2,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 3,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_016.jpg",
+      "class": "mosaic",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 2,
+        "c2_red": 1,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 3,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_016.jpg",
+      "class": "mosaic",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 2,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 3,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_017.jpg",
+      "class": "mosaic",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 2,
+        "c2_red": 1,
+        "c3_necrotic": 0,
+        "c4_heterogeneity": 3,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 1
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_017.jpg",
+      "class": "mosaic",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 2,
+        "c2_red": 1,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 3,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 2,
+        "c7_stripe_coherence": 1
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_018.jpg",
+      "class": "mosaic",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 3,
+        "c2_red": 0,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 3,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 1
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_018.jpg",
+      "class": "mosaic",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 2,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 3,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 1
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_019.jpg",
+      "class": "mosaic",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 2,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 3,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/mosaic/mosaic_concept_019.jpg",
+      "class": "mosaic",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_000.jpg",
+      "class": "rust",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 1,
+        "c3_necrotic": 3,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 3,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_000.jpg",
+      "class": "rust",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 1,
+        "c3_necrotic": 3,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 3,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_001.jpg",
+      "class": "rust",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 1,
+        "c3_necrotic": 4,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 4,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_001.jpg",
+      "class": "rust",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 0,
+        "c3_necrotic": 3,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 3,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_002.jpg",
+      "class": "rust",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 1,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 4,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_002.jpg",
+      "class": "rust",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 1,
+        "c3_necrotic": 3,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 3,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_003.jpg",
+      "class": "rust",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 1,
+        "c3_necrotic": 3,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 2,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_003.jpg",
+      "class": "rust",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 0,
+        "c3_necrotic": 3,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 3,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_004.jpg",
+      "class": "rust",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 1,
+        "c3_necrotic": 3,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 3,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_004.jpg",
+      "class": "rust",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 1,
+        "c3_necrotic": 3,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 3,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_005.jpg",
+      "class": "rust",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 1,
+        "c3_necrotic": 4,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 3,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_005.jpg",
+      "class": "rust",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 1,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 4,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_006.jpg",
+      "class": "rust",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 0,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 3,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_006.jpg",
+      "class": "rust",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 1,
+        "c3_necrotic": 3,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 3,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_007.jpg",
+      "class": "rust",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 1,
+        "c3_necrotic": 3,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 3,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_007.jpg",
+      "class": "rust",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 0,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 3,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_008.jpg",
+      "class": "rust",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 1,
+        "c3_necrotic": 3,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 4,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_008.jpg",
+      "class": "rust",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 1,
+        "c3_necrotic": 4,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 2,
+        "c7_stripe_coherence": 1
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_009.jpg",
+      "class": "rust",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 1,
+        "c3_necrotic": 3,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 3,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_009.jpg",
+      "class": "rust",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 1,
+        "c3_necrotic": 4,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 4,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_010.jpg",
+      "class": "rust",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 1,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 4,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_010.jpg",
+      "class": "rust",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 1,
+        "c3_necrotic": 3,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 3,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_011.jpg",
+      "class": "rust",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 1,
+        "c3_necrotic": 3,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 4,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_011.jpg",
+      "class": "rust",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 1,
+        "c3_necrotic": 3,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 3,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_012.jpg",
+      "class": "rust",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 1,
+        "c3_necrotic": 3,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 3,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_012.jpg",
+      "class": "rust",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 0,
+        "c3_necrotic": 3,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 4,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_013.jpg",
+      "class": "rust",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 1,
+        "c3_necrotic": 3,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 3,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_013.jpg",
+      "class": "rust",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 1,
+        "c3_necrotic": 3,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 3,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_014.jpg",
+      "class": "rust",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 0,
+        "c3_necrotic": 3,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 3,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_014.jpg",
+      "class": "rust",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 1,
+        "c3_necrotic": 3,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 4,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_015.jpg",
+      "class": "rust",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 1,
+        "c3_necrotic": 3,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 3,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_015.jpg",
+      "class": "rust",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 1,
+        "c3_necrotic": 4,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 3,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_016.jpg",
+      "class": "rust",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 1,
+        "c3_necrotic": 3,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 4,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_016.jpg",
+      "class": "rust",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 0,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 4,
+        "c7_stripe_coherence": 1
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_017.jpg",
+      "class": "rust",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 1,
+        "c3_necrotic": 3,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 4,
+        "c7_stripe_coherence": 1
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_017.jpg",
+      "class": "rust",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 1,
+        "c3_necrotic": 3,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 4,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_018.jpg",
+      "class": "rust",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 1,
+        "c3_necrotic": 3,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 4,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_018.jpg",
+      "class": "rust",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 1,
+        "c3_necrotic": 4,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 4,
+        "c7_stripe_coherence": 1
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_019.jpg",
+      "class": "rust",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 1,
+        "c3_necrotic": 3,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 3,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/rust/rust_concept_019.jpg",
+      "class": "rust",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 1,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 3,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_000.jpg",
+      "class": "red_rot",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 3,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 2,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_000.jpg",
+      "class": "red_rot",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 2,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 2,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_001.jpg",
+      "class": "red_rot",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 2,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 2,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_001.jpg",
+      "class": "red_rot",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 3,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 2,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_002.jpg",
+      "class": "red_rot",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 3,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 2,
+        "c7_stripe_coherence": 4
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_002.jpg",
+      "class": "red_rot",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 3,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 2,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_003.jpg",
+      "class": "red_rot",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 3,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 3,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_003.jpg",
+      "class": "red_rot",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 3,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 2,
+        "c7_stripe_coherence": 1
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_004.jpg",
+      "class": "red_rot",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 3,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_004.jpg",
+      "class": "red_rot",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 3,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 2,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_005.jpg",
+      "class": "red_rot",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 3,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 3,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_005.jpg",
+      "class": "red_rot",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 3,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 2,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_006.jpg",
+      "class": "red_rot",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 2,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 2,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_006.jpg",
+      "class": "red_rot",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 3,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 3,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_007.jpg",
+      "class": "red_rot",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 2,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 2,
+        "c7_stripe_coherence": 4
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_007.jpg",
+      "class": "red_rot",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 2,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_008.jpg",
+      "class": "red_rot",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 3,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 2,
+        "c7_stripe_coherence": 4
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_008.jpg",
+      "class": "red_rot",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 3,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 2,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_009.jpg",
+      "class": "red_rot",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 2,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 2,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_009.jpg",
+      "class": "red_rot",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 2,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 2,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_010.jpg",
+      "class": "red_rot",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 2,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 4,
+        "c6_lesion_density": 2,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_010.jpg",
+      "class": "red_rot",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 2,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 2,
+        "c7_stripe_coherence": 4
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_011.jpg",
+      "class": "red_rot",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 3,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 2,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_011.jpg",
+      "class": "red_rot",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 2,
+        "c2_red": 2,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 2,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_012.jpg",
+      "class": "red_rot",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 2,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 3,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_012.jpg",
+      "class": "red_rot",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 2,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 3,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_013.jpg",
+      "class": "red_rot",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 2,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 2,
+        "c7_stripe_coherence": 2
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_013.jpg",
+      "class": "red_rot",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 2,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 3,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_014.jpg",
+      "class": "red_rot",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 2,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 3,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_014.jpg",
+      "class": "red_rot",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 3,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 1,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_015.jpg",
+      "class": "red_rot",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 3,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 4,
+        "c6_lesion_density": 2,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_015.jpg",
+      "class": "red_rot",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 2,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 3,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_016.jpg",
+      "class": "red_rot",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 3,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 2,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_016.jpg",
+      "class": "red_rot",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 3,
+        "c3_necrotic": 3,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 2,
+        "c7_stripe_coherence": 4
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_017.jpg",
+      "class": "red_rot",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 3,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 2,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_017.jpg",
+      "class": "red_rot",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 3,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 3,
+        "c6_lesion_density": 2,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_018.jpg",
+      "class": "red_rot",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 1,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 3,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_018.jpg",
+      "class": "red_rot",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 2,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_019.jpg",
+      "class": "red_rot",
+      "rater": "A",
+      "ratings": {
+        "c1_chlorotic": 0,
+        "c2_red": 3,
+        "c3_necrotic": 1,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 1,
+        "c7_stripe_coherence": 3
+      }
+    },
+    {
+      "image": "test/red_rot/red_rot_concept_019.jpg",
+      "class": "red_rot",
+      "rater": "B",
+      "ratings": {
+        "c1_chlorotic": 1,
+        "c2_red": 3,
+        "c3_necrotic": 2,
+        "c4_heterogeneity": 2,
+        "c5_patchiness": 2,
+        "c6_lesion_density": 2,
+        "c7_stripe_coherence": 3
+      }
+    }
+  ]
+}

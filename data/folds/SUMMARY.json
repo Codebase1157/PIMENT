@@ -1,0 +1,38 @@
+{
+  "D1": {
+    "n_items": 6748,
+    "n_groups": 3075,
+    "n_classes": 11,
+    "class_counts": {
+      "brown_spot": 1722,
+      "yellow_leaf": 1194,
+      "mosaic": 663,
+      "sett_rot": 652,
+      "banded_chlorosis": 471,
+      "healthy": 430,
+      "grassy_shoot": 346,
+      "dried_leaves": 343,
+      "smut": 316,
+      "brown_rust": 314,
+      "pokkah_boeng": 297
+    },
+    "role": "train+test"
+  },
+  "D2": {
+    "n_items": 2569,
+    "n_groups": 1130,
+    "n_classes": 5,
+    "class_counts": {
+      "healthy": 520,
+      "yellow": 511,
+      "mosaic": 514,
+      "rust": 505,
+      "red_rot": 519
+    },
+    "role": "train+test"
+  },
+  "D3": {
+    "n_items": 638,
+    "role": "external_test"
+  }
+}

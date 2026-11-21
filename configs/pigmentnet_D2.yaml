@@ -1,0 +1,80 @@
+# PigmentNet on D2 (Daphal & Koli Sugarcane Leaf Disease Dataset, 5 classes).
+# Reproduces Table 6 row "PigmentNet" on D2 (96.5% macro-F1).
+
+dataset:
+  name: D2
+  root: processed/D2
+  index: data/folds/D2_folds.json
+  num_classes: 5
+  harmonised_subset: null
+
+model:
+  name: pigmentnet
+  K: 4
+  residual_dim: 16
+  residual_cap: 1.0
+  attention_bias: 0.5
+  drop_path: 0.1
+
+training:
+  input_size: 384
+  optimizer: adamw
+  backbone_lr: 1.0e-4
+  new_layer_lr: 5.0e-4
+  weight_decay: 0.05
+  epochs: 100
+  warmup_epochs: 5
+  schedule: cosine
+  batch_size: 32
+  precision: amp
+  grad_clip: 1.0
+  early_stopping:
+    metric: val_macro_f1
+    patience: 12
+
+loss:
+  alpha: 0.5
+  beta_phys: 0.1
+  nu: 1.0e-3
+  eta: 1.0e-4
+
+decomposition:
+  K: 4
+  iterations: 200
+  sparsity: 0.05
+  anchoring: 1.0
+  dict_update_every: 10
+  highlight_percentile: 0.90
+  chromaticity_spread: 0.22
+  clip_threshold: 0.985
+  grey_world_fallback_below: 60
+  diffuse_floor_percentile: 25
+  diffuse_floor_clip: [0.0, 0.32]
+  glare_energy_ratio: 0.2
+  glare_absolute: 0.025
+
+physaug:
+  Tc_low: 2800
+  Tc_high: 7500
+  EV_low: -1.5
+  EV_high: 1.5
+  sigma_E: 0.03
+  glare_jitter: 0.15
+  probability: 1.0
+
+geometric_augmentation:
+  random_resized_crop:
+    scale: [0.6, 1.0]
+  horizontal_flip: 0.5
+  rotation_degrees: 15
+
+folds:
+  n_splits: 5
+  val_share: 0.15
+  split_seed: 42
+
+seeds: [42, 1337, 2024, 20260101, 73856093]
+
+output:
+  dir: runs/pigmentnet_D2
+  save_best_only: true

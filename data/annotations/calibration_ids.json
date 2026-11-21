@@ -1,0 +1,42 @@
+[
+  {
+    "image": "train/calibration/healthy_01.jpg",
+    "class": "healthy"
+  },
+  {
+    "image": "train/calibration/healthy_02.jpg",
+    "class": "healthy"
+  },
+  {
+    "image": "train/calibration/yellow_leaf_01.jpg",
+    "class": "yellow_leaf"
+  },
+  {
+    "image": "train/calibration/yellow_leaf_02.jpg",
+    "class": "yellow_leaf"
+  },
+  {
+    "image": "train/calibration/mosaic_01.jpg",
+    "class": "mosaic"
+  },
+  {
+    "image": "train/calibration/mosaic_02.jpg",
+    "class": "mosaic"
+  },
+  {
+    "image": "train/calibration/rust_01.jpg",
+    "class": "rust"
+  },
+  {
+    "image": "train/calibration/rust_02.jpg",
+    "class": "rust"
+  },
+  {
+    "image": "train/calibration/red_rot_01.jpg",
+    "class": "red_rot"
+  },
+  {
+    "image": "train/calibration/red_rot_02.jpg",
+    "class": "red_rot"
+  }
+]

@@ -1,0 +1,16 @@
+# Random seeds used throughout the paper (5 seeds × 5 folds = 25 runs per method).
+# These are the fixed canonical seeds; any change breaks cross-run comparability
+# with the reported numbers.
+seeds:
+  - 42
+  - 1337
+  - 2024
+  - 20260101
+  - 73856093
+
+# Seeds used for the leakage-controlled split generation (Section 5.2).
+split_seed: 42
+
+# Seeds used for PhysAug sampling inside each training run, per (seed, fold).
+# The seed used is hash(seed, fold) & 0xFFFFFFFF.
+physaug_seed_mix: xor_hash

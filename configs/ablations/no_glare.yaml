@@ -1,0 +1,6 @@
+# Ablation: remove the dichromatic glare split (Table 12).
+# Reports -1.4 D1 macro-F1, -1.1 D2 macro-F1, -6.2 D1->D2 transfer.
+inherit: ../pigmentnet_D1.yaml
+decomposition:
+  glare_split: false
+ablation_tag: no_glare_split

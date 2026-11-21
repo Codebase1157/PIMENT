@@ -1,0 +1,3830 @@
+[
+  {
+    "path": "D3/healthy/healthy_0000.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 0
+  },
+  {
+    "path": "D3/healthy/healthy_0001.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 0
+  },
+  {
+    "path": "D3/healthy/healthy_0002.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 0
+  },
+  {
+    "path": "D3/healthy/healthy_0003.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 1
+  },
+  {
+    "path": "D3/healthy/healthy_0004.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 1
+  },
+  {
+    "path": "D3/healthy/healthy_0005.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 1
+  },
+  {
+    "path": "D3/healthy/healthy_0006.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 1
+  },
+  {
+    "path": "D3/healthy/healthy_0007.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 2
+  },
+  {
+    "path": "D3/healthy/healthy_0008.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 2
+  },
+  {
+    "path": "D3/healthy/healthy_0009.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 2
+  },
+  {
+    "path": "D3/healthy/healthy_0010.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 2
+  },
+  {
+    "path": "D3/healthy/healthy_0011.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 2
+  },
+  {
+    "path": "D3/healthy/healthy_0012.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 2
+  },
+  {
+    "path": "D3/healthy/healthy_0013.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 3
+  },
+  {
+    "path": "D3/healthy/healthy_0014.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 3
+  },
+  {
+    "path": "D3/healthy/healthy_0015.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 3
+  },
+  {
+    "path": "D3/healthy/healthy_0016.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 4
+  },
+  {
+    "path": "D3/healthy/healthy_0017.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 4
+  },
+  {
+    "path": "D3/healthy/healthy_0018.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 4
+  },
+  {
+    "path": "D3/healthy/healthy_0019.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 4
+  },
+  {
+    "path": "D3/healthy/healthy_0020.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 4
+  },
+  {
+    "path": "D3/healthy/healthy_0021.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 4
+  },
+  {
+    "path": "D3/healthy/healthy_0022.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 5
+  },
+  {
+    "path": "D3/healthy/healthy_0023.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 6
+  },
+  {
+    "path": "D3/healthy/healthy_0024.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 7
+  },
+  {
+    "path": "D3/healthy/healthy_0025.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 7
+  },
+  {
+    "path": "D3/healthy/healthy_0026.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 7
+  },
+  {
+    "path": "D3/healthy/healthy_0027.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 7
+  },
+  {
+    "path": "D3/healthy/healthy_0028.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 8
+  },
+  {
+    "path": "D3/healthy/healthy_0029.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 8
+  },
+  {
+    "path": "D3/healthy/healthy_0030.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 8
+  },
+  {
+    "path": "D3/healthy/healthy_0031.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 9
+  },
+  {
+    "path": "D3/healthy/healthy_0032.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 9
+  },
+  {
+    "path": "D3/healthy/healthy_0033.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 10
+  },
+  {
+    "path": "D3/healthy/healthy_0034.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 10
+  },
+  {
+    "path": "D3/healthy/healthy_0035.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 11
+  },
+  {
+    "path": "D3/healthy/healthy_0036.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 11
+  },
+  {
+    "path": "D3/healthy/healthy_0037.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 12
+  },
+  {
+    "path": "D3/healthy/healthy_0038.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 13
+  },
+  {
+    "path": "D3/healthy/healthy_0039.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 13
+  },
+  {
+    "path": "D3/healthy/healthy_0040.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 13
+  },
+  {
+    "path": "D3/healthy/healthy_0041.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 14
+  },
+  {
+    "path": "D3/healthy/healthy_0042.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 14
+  },
+  {
+    "path": "D3/healthy/healthy_0043.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 15
+  },
+  {
+    "path": "D3/healthy/healthy_0044.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 15
+  },
+  {
+    "path": "D3/healthy/healthy_0045.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 15
+  },
+  {
+    "path": "D3/healthy/healthy_0046.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 16
+  },
+  {
+    "path": "D3/healthy/healthy_0047.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 16
+  },
+  {
+    "path": "D3/healthy/healthy_0048.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 17
+  },
+  {
+    "path": "D3/healthy/healthy_0049.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 18
+  },
+  {
+    "path": "D3/healthy/healthy_0050.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 18
+  },
+  {
+    "path": "D3/healthy/healthy_0051.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 18
+  },
+  {
+    "path": "D3/healthy/healthy_0052.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 18
+  },
+  {
+    "path": "D3/healthy/healthy_0053.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 19
+  },
+  {
+    "path": "D3/healthy/healthy_0054.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 19
+  },
+  {
+    "path": "D3/healthy/healthy_0055.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 19
+  },
+  {
+    "path": "D3/healthy/healthy_0056.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 20
+  },
+  {
+    "path": "D3/healthy/healthy_0057.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 20
+  },
+  {
+    "path": "D3/healthy/healthy_0058.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 20
+  },
+  {
+    "path": "D3/healthy/healthy_0059.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 20
+  },
+  {
+    "path": "D3/healthy/healthy_0060.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 20
+  },
+  {
+    "path": "D3/healthy/healthy_0061.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 21
+  },
+  {
+    "path": "D3/healthy/healthy_0062.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 21
+  },
+  {
+    "path": "D3/healthy/healthy_0063.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 22
+  },
+  {
+    "path": "D3/healthy/healthy_0064.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 23
+  },
+  {
+    "path": "D3/healthy/healthy_0065.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 24
+  },
+  {
+    "path": "D3/healthy/healthy_0066.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 25
+  },
+  {
+    "path": "D3/healthy/healthy_0067.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 25
+  },
+  {
+    "path": "D3/healthy/healthy_0068.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 25
+  },
+  {
+    "path": "D3/healthy/healthy_0069.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 26
+  },
+  {
+    "path": "D3/healthy/healthy_0070.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 26
+  },
+  {
+    "path": "D3/healthy/healthy_0071.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 26
+  },
+  {
+    "path": "D3/healthy/healthy_0072.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 27
+  },
+  {
+    "path": "D3/healthy/healthy_0073.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 28
+  },
+  {
+    "path": "D3/healthy/healthy_0074.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 28
+  },
+  {
+    "path": "D3/healthy/healthy_0075.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 28
+  },
+  {
+    "path": "D3/healthy/healthy_0076.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 28
+  },
+  {
+    "path": "D3/healthy/healthy_0077.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 28
+  },
+  {
+    "path": "D3/healthy/healthy_0078.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 29
+  },
+  {
+    "path": "D3/healthy/healthy_0079.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 29
+  },
+  {
+    "path": "D3/healthy/healthy_0080.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 29
+  },
+  {
+    "path": "D3/healthy/healthy_0081.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 30
+  },
+  {
+    "path": "D3/healthy/healthy_0082.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 30
+  },
+  {
+    "path": "D3/healthy/healthy_0083.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 31
+  },
+  {
+    "path": "D3/healthy/healthy_0084.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 32
+  },
+  {
+    "path": "D3/healthy/healthy_0085.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 33
+  },
+  {
+    "path": "D3/healthy/healthy_0086.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 33
+  },
+  {
+    "path": "D3/healthy/healthy_0087.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 33
+  },
+  {
+    "path": "D3/healthy/healthy_0088.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 34
+  },
+  {
+    "path": "D3/healthy/healthy_0089.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 35
+  },
+  {
+    "path": "D3/healthy/healthy_0090.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 35
+  },
+  {
+    "path": "D3/healthy/healthy_0091.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 36
+  },
+  {
+    "path": "D3/healthy/healthy_0092.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 36
+  },
+  {
+    "path": "D3/healthy/healthy_0093.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 36
+  },
+  {
+    "path": "D3/healthy/healthy_0094.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 36
+  },
+  {
+    "path": "D3/healthy/healthy_0095.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 37
+  },
+  {
+    "path": "D3/healthy/healthy_0096.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 38
+  },
+  {
+    "path": "D3/healthy/healthy_0097.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 38
+  },
+  {
+    "path": "D3/healthy/healthy_0098.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 39
+  },
+  {
+    "path": "D3/healthy/healthy_0099.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 40
+  },
+  {
+    "path": "D3/healthy/healthy_0100.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 41
+  },
+  {
+    "path": "D3/healthy/healthy_0101.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 42
+  },
+  {
+    "path": "D3/healthy/healthy_0102.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 42
+  },
+  {
+    "path": "D3/healthy/healthy_0103.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 42
+  },
+  {
+    "path": "D3/healthy/healthy_0104.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 42
+  },
+  {
+    "path": "D3/healthy/healthy_0105.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 42
+  },
+  {
+    "path": "D3/healthy/healthy_0106.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 43
+  },
+  {
+    "path": "D3/healthy/healthy_0107.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 44
+  },
+  {
+    "path": "D3/healthy/healthy_0108.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 44
+  },
+  {
+    "path": "D3/healthy/healthy_0109.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 45
+  },
+  {
+    "path": "D3/healthy/healthy_0110.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 45
+  },
+  {
+    "path": "D3/healthy/healthy_0111.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 46
+  },
+  {
+    "path": "D3/healthy/healthy_0112.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 46
+  },
+  {
+    "path": "D3/healthy/healthy_0113.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 46
+  },
+  {
+    "path": "D3/healthy/healthy_0114.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 47
+  },
+  {
+    "path": "D3/healthy/healthy_0115.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 47
+  },
+  {
+    "path": "D3/healthy/healthy_0116.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 48
+  },
+  {
+    "path": "D3/healthy/healthy_0117.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 49
+  },
+  {
+    "path": "D3/healthy/healthy_0118.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 50
+  },
+  {
+    "path": "D3/healthy/healthy_0119.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 51
+  },
+  {
+    "path": "D3/healthy/healthy_0120.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 52
+  },
+  {
+    "path": "D3/healthy/healthy_0121.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 53
+  },
+  {
+    "path": "D3/healthy/healthy_0122.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 53
+  },
+  {
+    "path": "D3/healthy/healthy_0123.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 53
+  },
+  {
+    "path": "D3/healthy/healthy_0124.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 54
+  },
+  {
+    "path": "D3/healthy/healthy_0125.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 54
+  },
+  {
+    "path": "D3/healthy/healthy_0126.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 54
+  },
+  {
+    "path": "D3/healthy/healthy_0127.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 55
+  },
+  {
+    "path": "D3/healthy/healthy_0128.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 55
+  },
+  {
+    "path": "D3/healthy/healthy_0129.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 55
+  },
+  {
+    "path": "D3/healthy/healthy_0130.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 55
+  },
+  {
+    "path": "D3/healthy/healthy_0131.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 55
+  },
+  {
+    "path": "D3/healthy/healthy_0132.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 55
+  },
+  {
+    "path": "D3/healthy/healthy_0133.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 55
+  },
+  {
+    "path": "D3/healthy/healthy_0134.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 56
+  },
+  {
+    "path": "D3/healthy/healthy_0135.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 57
+  },
+  {
+    "path": "D3/healthy/healthy_0136.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 58
+  },
+  {
+    "path": "D3/healthy/healthy_0137.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 58
+  },
+  {
+    "path": "D3/healthy/healthy_0138.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 58
+  },
+  {
+    "path": "D3/healthy/healthy_0139.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 58
+  },
+  {
+    "path": "D3/healthy/healthy_0140.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 59
+  },
+  {
+    "path": "D3/healthy/healthy_0141.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 60
+  },
+  {
+    "path": "D3/healthy/healthy_0142.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 61
+  },
+  {
+    "path": "D3/healthy/healthy_0143.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 61
+  },
+  {
+    "path": "D3/healthy/healthy_0144.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 62
+  },
+  {
+    "path": "D3/healthy/healthy_0145.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 62
+  },
+  {
+    "path": "D3/healthy/healthy_0146.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 63
+  },
+  {
+    "path": "D3/healthy/healthy_0147.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 63
+  },
+  {
+    "path": "D3/healthy/healthy_0148.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 64
+  },
+  {
+    "path": "D3/healthy/healthy_0149.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 64
+  },
+  {
+    "path": "D3/healthy/healthy_0150.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 64
+  },
+  {
+    "path": "D3/healthy/healthy_0151.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 65
+  },
+  {
+    "path": "D3/healthy/healthy_0152.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 65
+  },
+  {
+    "path": "D3/healthy/healthy_0153.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 66
+  },
+  {
+    "path": "D3/healthy/healthy_0154.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 67
+  },
+  {
+    "path": "D3/healthy/healthy_0155.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 68
+  },
+  {
+    "path": "D3/healthy/healthy_0156.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 69
+  },
+  {
+    "path": "D3/healthy/healthy_0157.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 70
+  },
+  {
+    "path": "D3/healthy/healthy_0158.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 70
+  },
+  {
+    "path": "D3/healthy/healthy_0159.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 71
+  },
+  {
+    "path": "D3/healthy/healthy_0160.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 72
+  },
+  {
+    "path": "D3/healthy/healthy_0161.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 73
+  },
+  {
+    "path": "D3/healthy/healthy_0162.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 73
+  },
+  {
+    "path": "D3/healthy/healthy_0163.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 74
+  },
+  {
+    "path": "D3/healthy/healthy_0164.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 74
+  },
+  {
+    "path": "D3/healthy/healthy_0165.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 75
+  },
+  {
+    "path": "D3/healthy/healthy_0166.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 75
+  },
+  {
+    "path": "D3/healthy/healthy_0167.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 75
+  },
+  {
+    "path": "D3/healthy/healthy_0168.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 76
+  },
+  {
+    "path": "D3/healthy/healthy_0169.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 76
+  },
+  {
+    "path": "D3/healthy/healthy_0170.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 77
+  },
+  {
+    "path": "D3/healthy/healthy_0171.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 77
+  },
+  {
+    "path": "D3/healthy/healthy_0172.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 77
+  },
+  {
+    "path": "D3/healthy/healthy_0173.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 78
+  },
+  {
+    "path": "D3/healthy/healthy_0174.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 78
+  },
+  {
+    "path": "D3/healthy/healthy_0175.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 78
+  },
+  {
+    "path": "D3/healthy/healthy_0176.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 78
+  },
+  {
+    "path": "D3/healthy/healthy_0177.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 78
+  },
+  {
+    "path": "D3/healthy/healthy_0178.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 79
+  },
+  {
+    "path": "D3/healthy/healthy_0179.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 79
+  },
+  {
+    "path": "D3/healthy/healthy_0180.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 79
+  },
+  {
+    "path": "D3/healthy/healthy_0181.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 79
+  },
+  {
+    "path": "D3/healthy/healthy_0182.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 79
+  },
+  {
+    "path": "D3/healthy/healthy_0183.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 80
+  },
+  {
+    "path": "D3/healthy/healthy_0184.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 80
+  },
+  {
+    "path": "D3/healthy/healthy_0185.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 80
+  },
+  {
+    "path": "D3/healthy/healthy_0186.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 80
+  },
+  {
+    "path": "D3/healthy/healthy_0187.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 80
+  },
+  {
+    "path": "D3/healthy/healthy_0188.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 80
+  },
+  {
+    "path": "D3/healthy/healthy_0189.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 80
+  },
+  {
+    "path": "D3/healthy/healthy_0190.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 81
+  },
+  {
+    "path": "D3/healthy/healthy_0191.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 81
+  },
+  {
+    "path": "D3/healthy/healthy_0192.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 82
+  },
+  {
+    "path": "D3/healthy/healthy_0193.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 83
+  },
+  {
+    "path": "D3/healthy/healthy_0194.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 83
+  },
+  {
+    "path": "D3/healthy/healthy_0195.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 83
+  },
+  {
+    "path": "D3/healthy/healthy_0196.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 83
+  },
+  {
+    "path": "D3/healthy/healthy_0197.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 84
+  },
+  {
+    "path": "D3/healthy/healthy_0198.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 85
+  },
+  {
+    "path": "D3/healthy/healthy_0199.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 85
+  },
+  {
+    "path": "D3/healthy/healthy_0200.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 86
+  },
+  {
+    "path": "D3/healthy/healthy_0201.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 87
+  },
+  {
+    "path": "D3/healthy/healthy_0202.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 87
+  },
+  {
+    "path": "D3/healthy/healthy_0203.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 88
+  },
+  {
+    "path": "D3/healthy/healthy_0204.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 88
+  },
+  {
+    "path": "D3/healthy/healthy_0205.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 88
+  },
+  {
+    "path": "D3/healthy/healthy_0206.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 89
+  },
+  {
+    "path": "D3/healthy/healthy_0207.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 89
+  },
+  {
+    "path": "D3/healthy/healthy_0208.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 90
+  },
+  {
+    "path": "D3/healthy/healthy_0209.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 90
+  },
+  {
+    "path": "D3/healthy/healthy_0210.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 90
+  },
+  {
+    "path": "D3/healthy/healthy_0211.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 90
+  },
+  {
+    "path": "D3/healthy/healthy_0212.jpg",
+    "label": 0,
+    "class": "healthy",
+    "group": 91
+  },
+  {
+    "path": "D3/red_rot/red_rot_0000.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 92
+  },
+  {
+    "path": "D3/red_rot/red_rot_0001.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 93
+  },
+  {
+    "path": "D3/red_rot/red_rot_0002.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 93
+  },
+  {
+    "path": "D3/red_rot/red_rot_0003.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 94
+  },
+  {
+    "path": "D3/red_rot/red_rot_0004.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 95
+  },
+  {
+    "path": "D3/red_rot/red_rot_0005.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 95
+  },
+  {
+    "path": "D3/red_rot/red_rot_0006.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 96
+  },
+  {
+    "path": "D3/red_rot/red_rot_0007.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 96
+  },
+  {
+    "path": "D3/red_rot/red_rot_0008.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 96
+  },
+  {
+    "path": "D3/red_rot/red_rot_0009.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 97
+  },
+  {
+    "path": "D3/red_rot/red_rot_0010.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 97
+  },
+  {
+    "path": "D3/red_rot/red_rot_0011.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 98
+  },
+  {
+    "path": "D3/red_rot/red_rot_0012.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 99
+  },
+  {
+    "path": "D3/red_rot/red_rot_0013.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 99
+  },
+  {
+    "path": "D3/red_rot/red_rot_0014.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 100
+  },
+  {
+    "path": "D3/red_rot/red_rot_0015.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 101
+  },
+  {
+    "path": "D3/red_rot/red_rot_0016.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 101
+  },
+  {
+    "path": "D3/red_rot/red_rot_0017.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 101
+  },
+  {
+    "path": "D3/red_rot/red_rot_0018.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 101
+  },
+  {
+    "path": "D3/red_rot/red_rot_0019.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 101
+  },
+  {
+    "path": "D3/red_rot/red_rot_0020.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 102
+  },
+  {
+    "path": "D3/red_rot/red_rot_0021.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 103
+  },
+  {
+    "path": "D3/red_rot/red_rot_0022.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 103
+  },
+  {
+    "path": "D3/red_rot/red_rot_0023.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 104
+  },
+  {
+    "path": "D3/red_rot/red_rot_0024.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 104
+  },
+  {
+    "path": "D3/red_rot/red_rot_0025.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 104
+  },
+  {
+    "path": "D3/red_rot/red_rot_0026.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 105
+  },
+  {
+    "path": "D3/red_rot/red_rot_0027.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 106
+  },
+  {
+    "path": "D3/red_rot/red_rot_0028.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 106
+  },
+  {
+    "path": "D3/red_rot/red_rot_0029.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 107
+  },
+  {
+    "path": "D3/red_rot/red_rot_0030.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 107
+  },
+  {
+    "path": "D3/red_rot/red_rot_0031.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 108
+  },
+  {
+    "path": "D3/red_rot/red_rot_0032.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 109
+  },
+  {
+    "path": "D3/red_rot/red_rot_0033.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 109
+  },
+  {
+    "path": "D3/red_rot/red_rot_0034.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 109
+  },
+  {
+    "path": "D3/red_rot/red_rot_0035.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 109
+  },
+  {
+    "path": "D3/red_rot/red_rot_0036.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 109
+  },
+  {
+    "path": "D3/red_rot/red_rot_0037.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 110
+  },
+  {
+    "path": "D3/red_rot/red_rot_0038.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 110
+  },
+  {
+    "path": "D3/red_rot/red_rot_0039.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 110
+  },
+  {
+    "path": "D3/red_rot/red_rot_0040.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 110
+  },
+  {
+    "path": "D3/red_rot/red_rot_0041.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 110
+  },
+  {
+    "path": "D3/red_rot/red_rot_0042.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 111
+  },
+  {
+    "path": "D3/red_rot/red_rot_0043.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 111
+  },
+  {
+    "path": "D3/red_rot/red_rot_0044.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 112
+  },
+  {
+    "path": "D3/red_rot/red_rot_0045.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 113
+  },
+  {
+    "path": "D3/red_rot/red_rot_0046.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 113
+  },
+  {
+    "path": "D3/red_rot/red_rot_0047.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 113
+  },
+  {
+    "path": "D3/red_rot/red_rot_0048.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 114
+  },
+  {
+    "path": "D3/red_rot/red_rot_0049.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 114
+  },
+  {
+    "path": "D3/red_rot/red_rot_0050.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 114
+  },
+  {
+    "path": "D3/red_rot/red_rot_0051.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 114
+  },
+  {
+    "path": "D3/red_rot/red_rot_0052.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 115
+  },
+  {
+    "path": "D3/red_rot/red_rot_0053.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 115
+  },
+  {
+    "path": "D3/red_rot/red_rot_0054.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 116
+  },
+  {
+    "path": "D3/red_rot/red_rot_0055.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 116
+  },
+  {
+    "path": "D3/red_rot/red_rot_0056.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 116
+  },
+  {
+    "path": "D3/red_rot/red_rot_0057.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 117
+  },
+  {
+    "path": "D3/red_rot/red_rot_0058.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 118
+  },
+  {
+    "path": "D3/red_rot/red_rot_0059.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 118
+  },
+  {
+    "path": "D3/red_rot/red_rot_0060.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 118
+  },
+  {
+    "path": "D3/red_rot/red_rot_0061.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 119
+  },
+  {
+    "path": "D3/red_rot/red_rot_0062.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 119
+  },
+  {
+    "path": "D3/red_rot/red_rot_0063.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 120
+  },
+  {
+    "path": "D3/red_rot/red_rot_0064.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 120
+  },
+  {
+    "path": "D3/red_rot/red_rot_0065.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 121
+  },
+  {
+    "path": "D3/red_rot/red_rot_0066.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 122
+  },
+  {
+    "path": "D3/red_rot/red_rot_0067.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 122
+  },
+  {
+    "path": "D3/red_rot/red_rot_0068.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 122
+  },
+  {
+    "path": "D3/red_rot/red_rot_0069.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 122
+  },
+  {
+    "path": "D3/red_rot/red_rot_0070.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 123
+  },
+  {
+    "path": "D3/red_rot/red_rot_0071.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 124
+  },
+  {
+    "path": "D3/red_rot/red_rot_0072.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 124
+  },
+  {
+    "path": "D3/red_rot/red_rot_0073.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 125
+  },
+  {
+    "path": "D3/red_rot/red_rot_0074.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 125
+  },
+  {
+    "path": "D3/red_rot/red_rot_0075.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 125
+  },
+  {
+    "path": "D3/red_rot/red_rot_0076.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 126
+  },
+  {
+    "path": "D3/red_rot/red_rot_0077.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 127
+  },
+  {
+    "path": "D3/red_rot/red_rot_0078.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 127
+  },
+  {
+    "path": "D3/red_rot/red_rot_0079.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 127
+  },
+  {
+    "path": "D3/red_rot/red_rot_0080.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 127
+  },
+  {
+    "path": "D3/red_rot/red_rot_0081.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 127
+  },
+  {
+    "path": "D3/red_rot/red_rot_0082.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 127
+  },
+  {
+    "path": "D3/red_rot/red_rot_0083.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 127
+  },
+  {
+    "path": "D3/red_rot/red_rot_0084.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 128
+  },
+  {
+    "path": "D3/red_rot/red_rot_0085.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 128
+  },
+  {
+    "path": "D3/red_rot/red_rot_0086.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 129
+  },
+  {
+    "path": "D3/red_rot/red_rot_0087.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 129
+  },
+  {
+    "path": "D3/red_rot/red_rot_0088.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 130
+  },
+  {
+    "path": "D3/red_rot/red_rot_0089.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 130
+  },
+  {
+    "path": "D3/red_rot/red_rot_0090.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 130
+  },
+  {
+    "path": "D3/red_rot/red_rot_0091.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 130
+  },
+  {
+    "path": "D3/red_rot/red_rot_0092.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 131
+  },
+  {
+    "path": "D3/red_rot/red_rot_0093.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 132
+  },
+  {
+    "path": "D3/red_rot/red_rot_0094.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 132
+  },
+  {
+    "path": "D3/red_rot/red_rot_0095.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 133
+  },
+  {
+    "path": "D3/red_rot/red_rot_0096.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 133
+  },
+  {
+    "path": "D3/red_rot/red_rot_0097.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 133
+  },
+  {
+    "path": "D3/red_rot/red_rot_0098.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 134
+  },
+  {
+    "path": "D3/red_rot/red_rot_0099.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 134
+  },
+  {
+    "path": "D3/red_rot/red_rot_0100.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 134
+  },
+  {
+    "path": "D3/red_rot/red_rot_0101.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 134
+  },
+  {
+    "path": "D3/red_rot/red_rot_0102.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 135
+  },
+  {
+    "path": "D3/red_rot/red_rot_0103.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 135
+  },
+  {
+    "path": "D3/red_rot/red_rot_0104.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 136
+  },
+  {
+    "path": "D3/red_rot/red_rot_0105.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 137
+  },
+  {
+    "path": "D3/red_rot/red_rot_0106.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 138
+  },
+  {
+    "path": "D3/red_rot/red_rot_0107.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 139
+  },
+  {
+    "path": "D3/red_rot/red_rot_0108.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 139
+  },
+  {
+    "path": "D3/red_rot/red_rot_0109.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 139
+  },
+  {
+    "path": "D3/red_rot/red_rot_0110.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 140
+  },
+  {
+    "path": "D3/red_rot/red_rot_0111.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 140
+  },
+  {
+    "path": "D3/red_rot/red_rot_0112.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 140
+  },
+  {
+    "path": "D3/red_rot/red_rot_0113.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 140
+  },
+  {
+    "path": "D3/red_rot/red_rot_0114.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 141
+  },
+  {
+    "path": "D3/red_rot/red_rot_0115.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 141
+  },
+  {
+    "path": "D3/red_rot/red_rot_0116.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 142
+  },
+  {
+    "path": "D3/red_rot/red_rot_0117.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 143
+  },
+  {
+    "path": "D3/red_rot/red_rot_0118.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 143
+  },
+  {
+    "path": "D3/red_rot/red_rot_0119.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 144
+  },
+  {
+    "path": "D3/red_rot/red_rot_0120.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 145
+  },
+  {
+    "path": "D3/red_rot/red_rot_0121.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 146
+  },
+  {
+    "path": "D3/red_rot/red_rot_0122.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 146
+  },
+  {
+    "path": "D3/red_rot/red_rot_0123.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 147
+  },
+  {
+    "path": "D3/red_rot/red_rot_0124.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 148
+  },
+  {
+    "path": "D3/red_rot/red_rot_0125.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 149
+  },
+  {
+    "path": "D3/red_rot/red_rot_0126.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 149
+  },
+  {
+    "path": "D3/red_rot/red_rot_0127.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 149
+  },
+  {
+    "path": "D3/red_rot/red_rot_0128.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 150
+  },
+  {
+    "path": "D3/red_rot/red_rot_0129.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 151
+  },
+  {
+    "path": "D3/red_rot/red_rot_0130.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 152
+  },
+  {
+    "path": "D3/red_rot/red_rot_0131.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 153
+  },
+  {
+    "path": "D3/red_rot/red_rot_0132.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 153
+  },
+  {
+    "path": "D3/red_rot/red_rot_0133.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 154
+  },
+  {
+    "path": "D3/red_rot/red_rot_0134.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 154
+  },
+  {
+    "path": "D3/red_rot/red_rot_0135.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 155
+  },
+  {
+    "path": "D3/red_rot/red_rot_0136.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 155
+  },
+  {
+    "path": "D3/red_rot/red_rot_0137.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 155
+  },
+  {
+    "path": "D3/red_rot/red_rot_0138.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 156
+  },
+  {
+    "path": "D3/red_rot/red_rot_0139.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 156
+  },
+  {
+    "path": "D3/red_rot/red_rot_0140.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 156
+  },
+  {
+    "path": "D3/red_rot/red_rot_0141.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 156
+  },
+  {
+    "path": "D3/red_rot/red_rot_0142.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 156
+  },
+  {
+    "path": "D3/red_rot/red_rot_0143.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 157
+  },
+  {
+    "path": "D3/red_rot/red_rot_0144.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 158
+  },
+  {
+    "path": "D3/red_rot/red_rot_0145.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 159
+  },
+  {
+    "path": "D3/red_rot/red_rot_0146.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 160
+  },
+  {
+    "path": "D3/red_rot/red_rot_0147.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 161
+  },
+  {
+    "path": "D3/red_rot/red_rot_0148.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 161
+  },
+  {
+    "path": "D3/red_rot/red_rot_0149.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 161
+  },
+  {
+    "path": "D3/red_rot/red_rot_0150.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 162
+  },
+  {
+    "path": "D3/red_rot/red_rot_0151.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 162
+  },
+  {
+    "path": "D3/red_rot/red_rot_0152.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 163
+  },
+  {
+    "path": "D3/red_rot/red_rot_0153.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 163
+  },
+  {
+    "path": "D3/red_rot/red_rot_0154.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 163
+  },
+  {
+    "path": "D3/red_rot/red_rot_0155.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 164
+  },
+  {
+    "path": "D3/red_rot/red_rot_0156.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 165
+  },
+  {
+    "path": "D3/red_rot/red_rot_0157.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 165
+  },
+  {
+    "path": "D3/red_rot/red_rot_0158.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 165
+  },
+  {
+    "path": "D3/red_rot/red_rot_0159.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 165
+  },
+  {
+    "path": "D3/red_rot/red_rot_0160.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 166
+  },
+  {
+    "path": "D3/red_rot/red_rot_0161.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 166
+  },
+  {
+    "path": "D3/red_rot/red_rot_0162.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 167
+  },
+  {
+    "path": "D3/red_rot/red_rot_0163.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 167
+  },
+  {
+    "path": "D3/red_rot/red_rot_0164.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 168
+  },
+  {
+    "path": "D3/red_rot/red_rot_0165.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 169
+  },
+  {
+    "path": "D3/red_rot/red_rot_0166.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 169
+  },
+  {
+    "path": "D3/red_rot/red_rot_0167.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 169
+  },
+  {
+    "path": "D3/red_rot/red_rot_0168.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 170
+  },
+  {
+    "path": "D3/red_rot/red_rot_0169.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 171
+  },
+  {
+    "path": "D3/red_rot/red_rot_0170.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 171
+  },
+  {
+    "path": "D3/red_rot/red_rot_0171.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 171
+  },
+  {
+    "path": "D3/red_rot/red_rot_0172.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 172
+  },
+  {
+    "path": "D3/red_rot/red_rot_0173.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 172
+  },
+  {
+    "path": "D3/red_rot/red_rot_0174.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 172
+  },
+  {
+    "path": "D3/red_rot/red_rot_0175.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 173
+  },
+  {
+    "path": "D3/red_rot/red_rot_0176.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 173
+  },
+  {
+    "path": "D3/red_rot/red_rot_0177.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 174
+  },
+  {
+    "path": "D3/red_rot/red_rot_0178.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 175
+  },
+  {
+    "path": "D3/red_rot/red_rot_0179.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 176
+  },
+  {
+    "path": "D3/red_rot/red_rot_0180.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 176
+  },
+  {
+    "path": "D3/red_rot/red_rot_0181.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 176
+  },
+  {
+    "path": "D3/red_rot/red_rot_0182.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 176
+  },
+  {
+    "path": "D3/red_rot/red_rot_0183.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 176
+  },
+  {
+    "path": "D3/red_rot/red_rot_0184.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 177
+  },
+  {
+    "path": "D3/red_rot/red_rot_0185.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 178
+  },
+  {
+    "path": "D3/red_rot/red_rot_0186.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 179
+  },
+  {
+    "path": "D3/red_rot/red_rot_0187.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 179
+  },
+  {
+    "path": "D3/red_rot/red_rot_0188.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 179
+  },
+  {
+    "path": "D3/red_rot/red_rot_0189.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 180
+  },
+  {
+    "path": "D3/red_rot/red_rot_0190.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 181
+  },
+  {
+    "path": "D3/red_rot/red_rot_0191.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 182
+  },
+  {
+    "path": "D3/red_rot/red_rot_0192.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 182
+  },
+  {
+    "path": "D3/red_rot/red_rot_0193.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 182
+  },
+  {
+    "path": "D3/red_rot/red_rot_0194.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 183
+  },
+  {
+    "path": "D3/red_rot/red_rot_0195.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 183
+  },
+  {
+    "path": "D3/red_rot/red_rot_0196.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 183
+  },
+  {
+    "path": "D3/red_rot/red_rot_0197.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 184
+  },
+  {
+    "path": "D3/red_rot/red_rot_0198.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 185
+  },
+  {
+    "path": "D3/red_rot/red_rot_0199.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 186
+  },
+  {
+    "path": "D3/red_rot/red_rot_0200.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 186
+  },
+  {
+    "path": "D3/red_rot/red_rot_0201.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 186
+  },
+  {
+    "path": "D3/red_rot/red_rot_0202.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 187
+  },
+  {
+    "path": "D3/red_rot/red_rot_0203.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 188
+  },
+  {
+    "path": "D3/red_rot/red_rot_0204.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 189
+  },
+  {
+    "path": "D3/red_rot/red_rot_0205.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 189
+  },
+  {
+    "path": "D3/red_rot/red_rot_0206.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 190
+  },
+  {
+    "path": "D3/red_rot/red_rot_0207.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 190
+  },
+  {
+    "path": "D3/red_rot/red_rot_0208.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 190
+  },
+  {
+    "path": "D3/red_rot/red_rot_0209.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 191
+  },
+  {
+    "path": "D3/red_rot/red_rot_0210.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 191
+  },
+  {
+    "path": "D3/red_rot/red_rot_0211.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 192
+  },
+  {
+    "path": "D3/red_rot/red_rot_0212.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 192
+  },
+  {
+    "path": "D3/red_rot/red_rot_0213.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 193
+  },
+  {
+    "path": "D3/red_rot/red_rot_0214.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 193
+  },
+  {
+    "path": "D3/red_rot/red_rot_0215.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 193
+  },
+  {
+    "path": "D3/red_rot/red_rot_0216.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 193
+  },
+  {
+    "path": "D3/red_rot/red_rot_0217.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 194
+  },
+  {
+    "path": "D3/red_rot/red_rot_0218.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 195
+  },
+  {
+    "path": "D3/red_rot/red_rot_0219.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 196
+  },
+  {
+    "path": "D3/red_rot/red_rot_0220.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 196
+  },
+  {
+    "path": "D3/red_rot/red_rot_0221.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 196
+  },
+  {
+    "path": "D3/red_rot/red_rot_0222.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 197
+  },
+  {
+    "path": "D3/red_rot/red_rot_0223.jpg",
+    "label": 1,
+    "class": "red_rot",
+    "group": 197
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0000.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 198
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0001.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 199
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0002.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 199
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0003.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 199
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0004.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 200
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0005.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 200
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0006.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 200
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0007.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 201
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0008.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 202
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0009.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 202
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0010.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 202
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0011.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 203
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0012.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 203
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0013.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 203
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0014.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 203
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0015.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 203
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0016.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 203
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0017.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 204
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0018.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 204
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0019.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 205
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0020.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 205
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0021.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 206
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0022.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 207
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0023.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 207
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0024.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 208
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0025.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 209
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0026.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 209
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0027.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 210
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0028.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 211
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0029.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 211
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0030.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 212
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0031.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 212
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0032.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 212
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0033.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 212
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0034.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 213
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0035.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 214
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0036.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 214
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0037.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 214
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0038.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 215
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0039.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 216
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0040.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 216
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0041.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 216
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0042.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 217
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0043.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 217
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0044.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 217
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0045.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 218
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0046.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 218
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0047.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 219
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0048.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 220
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0049.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 220
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0050.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 220
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0051.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 220
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0052.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 220
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0053.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 221
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0054.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 221
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0055.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 222
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0056.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 222
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0057.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 222
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0058.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 222
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0059.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 223
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0060.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 224
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0061.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 225
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0062.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 226
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0063.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 227
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0064.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 227
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0065.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 227
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0066.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 228
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0067.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 229
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0068.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 230
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0069.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 231
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0070.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 232
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0071.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 233
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0072.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 233
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0073.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 234
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0074.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 234
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0075.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 235
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0076.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 235
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0077.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 236
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0078.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 236
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0079.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 236
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0080.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 237
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0081.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 237
+  },
+  {
+    "path": "D3/ring_spot/ring_spot_0082.jpg",
+    "label": 2,
+    "class": "ring_spot",
+    "group": 238
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0000.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 239
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0001.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 240
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0002.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 241
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0003.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 241
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0004.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 242
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0005.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 242
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0006.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 243
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0007.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 244
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0008.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 244
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0009.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 245
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0010.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 245
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0011.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 245
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0012.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 245
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0013.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 246
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0014.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 247
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0015.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 247
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0016.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 247
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0017.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 248
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0018.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 249
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0019.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 250
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0020.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 250
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0021.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 250
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0022.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 251
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0023.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 252
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0024.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 252
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0025.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 252
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0026.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 252
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0027.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 252
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0028.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 253
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0029.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 254
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0030.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 255
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0031.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 255
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0032.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 255
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0033.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 255
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0034.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 256
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0035.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 257
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0036.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 257
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0037.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 258
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0038.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 258
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0039.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 259
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0040.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 259
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0041.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 260
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0042.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 261
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0043.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 262
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0044.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 263
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0045.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 263
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0046.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 263
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0047.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 264
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0048.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 265
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0049.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 266
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0050.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 266
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0051.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 267
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0052.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 267
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0053.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 267
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0054.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 268
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0055.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 268
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0056.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 268
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0057.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 269
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0058.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 269
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0059.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 269
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0060.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 270
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0061.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 270
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0062.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 271
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0063.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 271
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0064.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 271
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0065.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 272
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0066.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 272
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0067.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 272
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0068.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 273
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0069.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 274
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0070.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 275
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0071.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 275
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0072.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 275
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0073.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 275
+  },
+  {
+    "path": "D3/eye_spot/eye_spot_0074.jpg",
+    "label": 3,
+    "class": "eye_spot",
+    "group": 276
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0000.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 277
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0001.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 277
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0002.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 278
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0003.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 278
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0004.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 278
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0005.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 279
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0006.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 279
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0007.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 280
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0008.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 280
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0009.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 280
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0010.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 280
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0011.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 280
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0012.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 281
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0013.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 281
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0014.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 282
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0015.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 282
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0016.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 282
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0017.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 283
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0018.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 284
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0019.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 284
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0020.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 285
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0021.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 285
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0022.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 285
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0023.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 286
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0024.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 286
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0025.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 286
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0026.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 287
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0027.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 287
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0028.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 287
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0029.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 288
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0030.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 289
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0031.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 290
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0032.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 291
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0033.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 291
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0034.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 292
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0035.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 292
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0036.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 293
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0037.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 293
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0038.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 294
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0039.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 294
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0040.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 295
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0041.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 295
+  },
+  {
+    "path": "D3/red_leaf_spot/red_leaf_spot_0042.jpg",
+    "label": 4,
+    "class": "red_leaf_spot",
+    "group": 295
+  }
+]

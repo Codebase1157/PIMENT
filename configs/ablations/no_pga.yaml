@@ -1,0 +1,5 @@
+# Ablation: no_pga (Table 12 / 13).
+inherit: ../pigmentnet_D1.yaml
+model:
+  attention_bias: 0.0
+ablation_tag: no_pigment_guided_attention

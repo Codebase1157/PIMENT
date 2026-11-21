@@ -1,0 +1,7177 @@
+{
+  "n_leaves": 300,
+  "scale": "384x384",
+  "classes": [
+    "healthy",
+    "yellow_leaf",
+    "mosaic",
+    "rust",
+    "red_rot"
+  ],
+  "annotations": [
+    {
+      "image": "test/healthy/healthy_000.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_001.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_002.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_003.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_004.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_005.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_006.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_007.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_008.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_009.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_010.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_011.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_012.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_013.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_014.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_015.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_016.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_017.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_018.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_019.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_020.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_021.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_022.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_023.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_024.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_025.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_026.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_027.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_028.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_029.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_030.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_031.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_032.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_033.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_034.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_035.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_036.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_037.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_038.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_039.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_040.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_041.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_042.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_043.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_044.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_045.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_046.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_047.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_048.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_049.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_050.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_051.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_052.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_053.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_054.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_055.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_056.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_057.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_058.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/healthy/healthy_059.jpg",
+      "class": "healthy",
+      "boxes": []
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_000.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          229,
+          257,
+          375,
+          380
+        ],
+        [
+          217,
+          171,
+          375,
+          312
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_001.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          96,
+          181,
+          144,
+          222
+        ],
+        [
+          35,
+          69,
+          151,
+          204
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_002.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          109,
+          73,
+          274,
+          179
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_003.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          202,
+          138,
+          348,
+          208
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_004.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          25,
+          5,
+          155,
+          64
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_005.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          257,
+          237,
+          331,
+          371
+        ],
+        [
+          289,
+          105,
+          330,
+          212
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_006.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          157,
+          0,
+          269,
+          157
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_007.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          213,
+          44,
+          301,
+          118
+        ],
+        [
+          10,
+          67,
+          136,
+          135
+        ],
+        [
+          66,
+          224,
+          218,
+          342
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_008.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          278,
+          157,
+          334,
+          209
+        ],
+        [
+          225,
+          52,
+          310,
+          139
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_009.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          71,
+          154,
+          155,
+          320
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_010.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          66,
+          115,
+          144,
+          160
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_011.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          67,
+          82,
+          175,
+          244
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_012.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          227,
+          179,
+          287,
+          307
+        ],
+        [
+          72,
+          182,
+          169,
+          267
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_013.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          129,
+          276,
+          203,
+          350
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_014.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          265,
+          63,
+          308,
+          201
+        ],
+        [
+          141,
+          209,
+          286,
+          273
+        ],
+        [
+          247,
+          147,
+          336,
+          229
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_015.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          149,
+          41,
+          276,
+          170
+        ],
+        [
+          50,
+          41,
+          183,
+          98
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_016.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          136,
+          14,
+          260,
+          85
+        ],
+        [
+          78,
+          211,
+          140,
+          377
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_017.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          170,
+          101,
+          215,
+          267
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_018.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          164,
+          323,
+          263,
+          376
+        ],
+        [
+          89,
+          202,
+          259,
+          341
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_019.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          110,
+          108,
+          218,
+          166
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_020.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          197,
+          278,
+          283,
+          338
+        ],
+        [
+          262,
+          211,
+          319,
+          319
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_021.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          114,
+          218,
+          183,
+          302
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_022.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          220,
+          194,
+          313,
+          314
+        ],
+        [
+          121,
+          52,
+          273,
+          165
+        ],
+        [
+          154,
+          216,
+          308,
+          372
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_023.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          329,
+          107,
+          381,
+          222
+        ],
+        [
+          285,
+          118,
+          332,
+          179
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_024.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          161,
+          131,
+          290,
+          249
+        ],
+        [
+          34,
+          25,
+          77,
+          115
+        ],
+        [
+          205,
+          132,
+          273,
+          301
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_025.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          72,
+          199,
+          183,
+          283
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_026.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          251,
+          108,
+          334,
+          211
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_027.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          182,
+          20,
+          344,
+          103
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_028.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          293,
+          166,
+          354,
+          314
+        ],
+        [
+          217,
+          25,
+          291,
+          101
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_029.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          260,
+          215,
+          328,
+          291
+        ],
+        [
+          0,
+          21,
+          80,
+          140
+        ],
+        [
+          181,
+          31,
+          319,
+          78
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_030.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          101,
+          175,
+          268,
+          328
+        ],
+        [
+          224,
+          192,
+          288,
+          296
+        ],
+        [
+          143,
+          130,
+          259,
+          250
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_031.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          212,
+          230,
+          309,
+          277
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_032.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          31,
+          201,
+          147,
+          312
+        ],
+        [
+          19,
+          131,
+          100,
+          271
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_033.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          209,
+          93,
+          353,
+          228
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_034.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          20,
+          211,
+          147,
+          293
+        ],
+        [
+          174,
+          151,
+          277,
+          317
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_035.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          45,
+          3,
+          196,
+          121
+        ],
+        [
+          124,
+          48,
+          174,
+          93
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_036.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          205,
+          67,
+          310,
+          165
+        ],
+        [
+          40,
+          24,
+          117,
+          89
+        ],
+        [
+          102,
+          200,
+          206,
+          248
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_037.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          180,
+          107,
+          312,
+          193
+        ],
+        [
+          239,
+          278,
+          324,
+          368
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_038.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          64,
+          209,
+          211,
+          347
+        ],
+        [
+          108,
+          233,
+          216,
+          367
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_039.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          97,
+          153,
+          225,
+          306
+        ],
+        [
+          201,
+          218,
+          300,
+          258
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_040.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          3,
+          136,
+          173,
+          238
+        ],
+        [
+          225,
+          52,
+          333,
+          216
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_041.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          181,
+          156,
+          335,
+          252
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_042.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          19,
+          166,
+          100,
+          249
+        ],
+        [
+          166,
+          19,
+          288,
+          90
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_043.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          198,
+          27,
+          366,
+          151
+        ],
+        [
+          181,
+          151,
+          289,
+          217
+        ],
+        [
+          312,
+          42,
+          369,
+          174
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_044.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          35,
+          169,
+          181,
+          222
+        ],
+        [
+          315,
+          291,
+          383,
+          340
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_045.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          292,
+          61,
+          366,
+          138
+        ],
+        [
+          52,
+          161,
+          206,
+          311
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_046.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          180,
+          117,
+          245,
+          254
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_047.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          157,
+          233,
+          315,
+          382
+        ],
+        [
+          227,
+          62,
+          332,
+          187
+        ],
+        [
+          101,
+          263,
+          237,
+          375
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_048.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          27,
+          235,
+          119,
+          359
+        ],
+        [
+          230,
+          127,
+          307,
+          271
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_049.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          248,
+          30,
+          297,
+          146
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_050.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          30,
+          47,
+          136,
+          130
+        ],
+        [
+          322,
+          305,
+          369,
+          349
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_051.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          25,
+          89,
+          83,
+          228
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_052.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          193,
+          137,
+          238,
+          296
+        ],
+        [
+          215,
+          87,
+          350,
+          131
+        ],
+        [
+          80,
+          250,
+          237,
+          383
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_053.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          165,
+          189,
+          324,
+          353
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_054.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          99,
+          55,
+          264,
+          103
+        ],
+        [
+          229,
+          111,
+          296,
+          277
+        ],
+        [
+          33,
+          59,
+          147,
+          169
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_055.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          141,
+          108,
+          235,
+          199
+        ],
+        [
+          216,
+          209,
+          342,
+          355
+        ],
+        [
+          92,
+          53,
+          237,
+          178
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_056.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          146,
+          106,
+          188,
+          216
+        ],
+        [
+          116,
+          119,
+          186,
+          159
+        ],
+        [
+          216,
+          129,
+          343,
+          239
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_057.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          139,
+          40,
+          289,
+          190
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_058.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          146,
+          220,
+          233,
+          274
+        ],
+        [
+          283,
+          58,
+          378,
+          189
+        ]
+      ]
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_059.jpg",
+      "class": "yellow_leaf",
+      "boxes": [
+        [
+          91,
+          83,
+          142,
+          203
+        ],
+        [
+          130,
+          185,
+          202,
+          257
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_000.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          175,
+          157,
+          239,
+          179
+        ],
+        [
+          131,
+          131,
+          184,
+          223
+        ],
+        [
+          196,
+          59,
+          281,
+          110
+        ],
+        [
+          284,
+          112,
+          341,
+          179
+        ],
+        [
+          121,
+          186,
+          184,
+          250
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_001.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          52,
+          285,
+          150,
+          324
+        ],
+        [
+          79,
+          113,
+          144,
+          166
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_002.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          240,
+          285,
+          323,
+          315
+        ],
+        [
+          96,
+          265,
+          133,
+          349
+        ],
+        [
+          133,
+          195,
+          178,
+          243
+        ],
+        [
+          94,
+          235,
+          138,
+          327
+        ],
+        [
+          85,
+          102,
+          153,
+          155
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_003.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          20,
+          318,
+          48,
+          377
+        ],
+        [
+          44,
+          238,
+          114,
+          273
+        ],
+        [
+          266,
+          235,
+          300,
+          263
+        ],
+        [
+          110,
+          261,
+          137,
+          321
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_004.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          231,
+          271,
+          306,
+          342
+        ],
+        [
+          1,
+          299,
+          77,
+          349
+        ],
+        [
+          194,
+          98,
+          284,
+          183
+        ],
+        [
+          269,
+          5,
+          336,
+          103
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_005.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          303,
+          268,
+          330,
+          339
+        ],
+        [
+          208,
+          284,
+          275,
+          354
+        ],
+        [
+          123,
+          139,
+          165,
+          179
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_006.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          126,
+          267,
+          203,
+          359
+        ],
+        [
+          308,
+          124,
+          344,
+          198
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_007.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          170,
+          66,
+          248,
+          131
+        ],
+        [
+          62,
+          297,
+          119,
+          350
+        ],
+        [
+          296,
+          59,
+          358,
+          121
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_008.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          240,
+          311,
+          296,
+          381
+        ],
+        [
+          0,
+          254,
+          28,
+          300
+        ],
+        [
+          57,
+          5,
+          100,
+          78
+        ],
+        [
+          285,
+          239,
+          344,
+          276
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_009.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          265,
+          39,
+          324,
+          61
+        ],
+        [
+          62,
+          20,
+          144,
+          48
+        ],
+        [
+          185,
+          232,
+          210,
+          278
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_010.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          136,
+          36,
+          224,
+          68
+        ],
+        [
+          23,
+          226,
+          48,
+          275
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_011.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          189,
+          196,
+          228,
+          246
+        ],
+        [
+          89,
+          175,
+          182,
+          269
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_012.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          256,
+          11,
+          303,
+          79
+        ],
+        [
+          157,
+          123,
+          219,
+          145
+        ],
+        [
+          122,
+          221,
+          175,
+          291
+        ],
+        [
+          181,
+          278,
+          230,
+          353
+        ],
+        [
+          25,
+          0,
+          63,
+          97
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_013.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          309,
+          285,
+          329,
+          322
+        ],
+        [
+          78,
+          252,
+          143,
+          297
+        ],
+        [
+          140,
+          128,
+          228,
+          204
+        ],
+        [
+          164,
+          260,
+          194,
+          330
+        ],
+        [
+          127,
+          150,
+          171,
+          245
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_014.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          27,
+          173,
+          116,
+          270
+        ],
+        [
+          16,
+          112,
+          80,
+          178
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_015.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          256,
+          261,
+          292,
+          345
+        ],
+        [
+          173,
+          323,
+          215,
+          347
+        ],
+        [
+          212,
+          212,
+          244,
+          254
+        ],
+        [
+          112,
+          71,
+          180,
+          143
+        ],
+        [
+          109,
+          268,
+          150,
+          329
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_016.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          82,
+          234,
+          146,
+          322
+        ],
+        [
+          132,
+          251,
+          221,
+          337
+        ],
+        [
+          276,
+          154,
+          324,
+          178
+        ],
+        [
+          146,
+          92,
+          239,
+          118
+        ],
+        [
+          32,
+          179,
+          106,
+          274
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_017.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          25,
+          23,
+          68,
+          58
+        ],
+        [
+          139,
+          361,
+          191,
+          381
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_018.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          159,
+          161,
+          196,
+          187
+        ],
+        [
+          103,
+          239,
+          188,
+          335
+        ],
+        [
+          213,
+          30,
+          295,
+          62
+        ],
+        [
+          295,
+          19,
+          342,
+          44
+        ],
+        [
+          306,
+          3,
+          337,
+          35
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_019.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          47,
+          78,
+          82,
+          132
+        ],
+        [
+          227,
+          50,
+          256,
+          99
+        ],
+        [
+          63,
+          128,
+          99,
+          197
+        ],
+        [
+          279,
+          236,
+          321,
+          319
+        ],
+        [
+          167,
+          11,
+          216,
+          80
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_020.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          263,
+          91,
+          363,
+          137
+        ],
+        [
+          70,
+          244,
+          109,
+          317
+        ],
+        [
+          227,
+          226,
+          301,
+          310
+        ],
+        [
+          337,
+          73,
+          378,
+          154
+        ],
+        [
+          287,
+          253,
+          351,
+          295
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_021.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          98,
+          82,
+          187,
+          150
+        ],
+        [
+          30,
+          291,
+          116,
+          327
+        ],
+        [
+          69,
+          284,
+          91,
+          378
+        ],
+        [
+          60,
+          331,
+          98,
+          361
+        ],
+        [
+          2,
+          111,
+          76,
+          210
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_022.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          14,
+          41,
+          45,
+          81
+        ],
+        [
+          212,
+          72,
+          283,
+          142
+        ],
+        [
+          228,
+          195,
+          281,
+          239
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_023.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          123,
+          125,
+          143,
+          197
+        ],
+        [
+          250,
+          27,
+          334,
+          118
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_024.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          147,
+          14,
+          190,
+          77
+        ],
+        [
+          31,
+          247,
+          85,
+          330
+        ],
+        [
+          57,
+          268,
+          139,
+          318
+        ],
+        [
+          34,
+          293,
+          116,
+          376
+        ],
+        [
+          258,
+          237,
+          345,
+          324
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_025.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          234,
+          185,
+          268,
+          226
+        ],
+        [
+          293,
+          315,
+          377,
+          342
+        ],
+        [
+          74,
+          170,
+          98,
+          239
+        ],
+        [
+          30,
+          297,
+          101,
+          331
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_026.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          76,
+          206,
+          165,
+          299
+        ],
+        [
+          62,
+          107,
+          101,
+          161
+        ],
+        [
+          11,
+          290,
+          80,
+          373
+        ],
+        [
+          277,
+          98,
+          329,
+          177
+        ],
+        [
+          261,
+          281,
+          298,
+          353
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_027.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          190,
+          86,
+          250,
+          113
+        ],
+        [
+          304,
+          250,
+          377,
+          313
+        ],
+        [
+          71,
+          57,
+          161,
+          87
+        ],
+        [
+          79,
+          84,
+          142,
+          147
+        ],
+        [
+          175,
+          172,
+          253,
+          192
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_028.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          65,
+          147,
+          134,
+          230
+        ],
+        [
+          250,
+          299,
+          287,
+          322
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_029.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          105,
+          312,
+          181,
+          372
+        ],
+        [
+          324,
+          40,
+          348,
+          132
+        ],
+        [
+          184,
+          146,
+          271,
+          225
+        ],
+        [
+          207,
+          242,
+          258,
+          307
+        ],
+        [
+          328,
+          78,
+          351,
+          101
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_030.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          64,
+          77,
+          113,
+          148
+        ],
+        [
+          144,
+          105,
+          244,
+          161
+        ],
+        [
+          215,
+          247,
+          257,
+          293
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_031.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          7,
+          298,
+          43,
+          376
+        ],
+        [
+          255,
+          64,
+          293,
+          145
+        ],
+        [
+          100,
+          38,
+          158,
+          137
+        ],
+        [
+          129,
+          145,
+          224,
+          170
+        ],
+        [
+          39,
+          310,
+          107,
+          353
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_032.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          219,
+          152,
+          313,
+          197
+        ],
+        [
+          93,
+          47,
+          117,
+          136
+        ],
+        [
+          227,
+          290,
+          304,
+          332
+        ],
+        [
+          124,
+          133,
+          154,
+          158
+        ],
+        [
+          60,
+          315,
+          105,
+          372
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_033.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          214,
+          85,
+          235,
+          126
+        ],
+        [
+          306,
+          201,
+          363,
+          224
+        ],
+        [
+          303,
+          137,
+          366,
+          237
+        ],
+        [
+          71,
+          6,
+          149,
+          48
+        ],
+        [
+          219,
+          259,
+          286,
+          300
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_034.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          106,
+          346,
+          195,
+          373
+        ],
+        [
+          84,
+          145,
+          133,
+          176
+        ],
+        [
+          328,
+          223,
+          350,
+          295
+        ],
+        [
+          329,
+          162,
+          361,
+          204
+        ],
+        [
+          13,
+          20,
+          100,
+          61
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_035.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          151,
+          132,
+          220,
+          232
+        ],
+        [
+          248,
+          221,
+          342,
+          291
+        ],
+        [
+          301,
+          66,
+          323,
+          155
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_036.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          178,
+          122,
+          207,
+          194
+        ],
+        [
+          84,
+          251,
+          169,
+          274
+        ],
+        [
+          201,
+          44,
+          230,
+          70
+        ],
+        [
+          324,
+          269,
+          353,
+          333
+        ],
+        [
+          179,
+          263,
+          279,
+          295
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_037.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          15,
+          83,
+          112,
+          110
+        ],
+        [
+          304,
+          246,
+          331,
+          276
+        ],
+        [
+          52,
+          284,
+          82,
+          380
+        ],
+        [
+          24,
+          178,
+          108,
+          242
+        ],
+        [
+          97,
+          101,
+          167,
+          127
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_038.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          104,
+          247,
+          200,
+          284
+        ],
+        [
+          146,
+          75,
+          216,
+          153
+        ],
+        [
+          187,
+          47,
+          254,
+          98
+        ],
+        [
+          183,
+          307,
+          241,
+          374
+        ],
+        [
+          152,
+          145,
+          185,
+          179
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_039.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          10,
+          242,
+          46,
+          341
+        ],
+        [
+          320,
+          38,
+          352,
+          67
+        ],
+        [
+          170,
+          266,
+          254,
+          353
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_040.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          203,
+          85,
+          225,
+          170
+        ],
+        [
+          79,
+          225,
+          154,
+          256
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_041.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          270,
+          39,
+          322,
+          75
+        ],
+        [
+          66,
+          113,
+          103,
+          202
+        ],
+        [
+          258,
+          48,
+          345,
+          89
+        ],
+        [
+          121,
+          110,
+          194,
+          207
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_042.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          18,
+          287,
+          100,
+          309
+        ],
+        [
+          325,
+          285,
+          346,
+          353
+        ],
+        [
+          20,
+          23,
+          99,
+          103
+        ],
+        [
+          150,
+          216,
+          230,
+          307
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_043.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          196,
+          49,
+          230,
+          129
+        ],
+        [
+          205,
+          59,
+          267,
+          108
+        ],
+        [
+          182,
+          313,
+          267,
+          362
+        ],
+        [
+          230,
+          327,
+          273,
+          365
+        ],
+        [
+          96,
+          150,
+          145,
+          224
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_044.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          204,
+          109,
+          272,
+          172
+        ],
+        [
+          279,
+          303,
+          359,
+          374
+        ],
+        [
+          208,
+          54,
+          259,
+          149
+        ],
+        [
+          294,
+          4,
+          382,
+          40
+        ],
+        [
+          167,
+          110,
+          191,
+          189
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_045.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          156,
+          60,
+          226,
+          94
+        ],
+        [
+          213,
+          65,
+          278,
+          153
+        ],
+        [
+          68,
+          107,
+          146,
+          203
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_046.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          234,
+          131,
+          303,
+          202
+        ],
+        [
+          279,
+          311,
+          378,
+          338
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_047.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          339,
+          60,
+          364,
+          82
+        ],
+        [
+          241,
+          169,
+          341,
+          241
+        ],
+        [
+          258,
+          131,
+          300,
+          165
+        ],
+        [
+          67,
+          2,
+          130,
+          47
+        ],
+        [
+          180,
+          90,
+          235,
+          184
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_048.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          210,
+          182,
+          282,
+          216
+        ],
+        [
+          111,
+          202,
+          153,
+          293
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_049.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          83,
+          341,
+          164,
+          375
+        ],
+        [
+          137,
+          261,
+          176,
+          360
+        ],
+        [
+          90,
+          102,
+          187,
+          143
+        ],
+        [
+          14,
+          104,
+          42,
+          175
+        ],
+        [
+          214,
+          28,
+          292,
+          50
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_050.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          68,
+          171,
+          114,
+          196
+        ],
+        [
+          194,
+          278,
+          287,
+          365
+        ],
+        [
+          164,
+          92,
+          231,
+          189
+        ],
+        [
+          264,
+          262,
+          359,
+          291
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_051.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          176,
+          177,
+          227,
+          277
+        ],
+        [
+          299,
+          6,
+          360,
+          68
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_052.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          141,
+          295,
+          213,
+          370
+        ],
+        [
+          281,
+          285,
+          331,
+          364
+        ],
+        [
+          3,
+          280,
+          93,
+          309
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_053.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          200,
+          213,
+          274,
+          310
+        ],
+        [
+          236,
+          39,
+          270,
+          80
+        ],
+        [
+          94,
+          67,
+          184,
+          138
+        ],
+        [
+          131,
+          281,
+          180,
+          352
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_054.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          70,
+          191,
+          120,
+          278
+        ],
+        [
+          167,
+          183,
+          222,
+          249
+        ],
+        [
+          248,
+          60,
+          322,
+          143
+        ],
+        [
+          85,
+          76,
+          136,
+          99
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_055.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          125,
+          284,
+          184,
+          367
+        ],
+        [
+          210,
+          190,
+          285,
+          247
+        ],
+        [
+          147,
+          81,
+          241,
+          154
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_056.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          52,
+          19,
+          119,
+          69
+        ],
+        [
+          311,
+          307,
+          347,
+          348
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_057.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          43,
+          117,
+          81,
+          148
+        ],
+        [
+          123,
+          25,
+          218,
+          87
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_058.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          29,
+          284,
+          78,
+          362
+        ],
+        [
+          255,
+          177,
+          306,
+          265
+        ],
+        [
+          4,
+          42,
+          69,
+          95
+        ],
+        [
+          1,
+          171,
+          33,
+          206
+        ]
+      ]
+    },
+    {
+      "image": "test/mosaic/mosaic_059.jpg",
+      "class": "mosaic",
+      "boxes": [
+        [
+          133,
+          12,
+          199,
+          74
+        ],
+        [
+          170,
+          110,
+          196,
+          154
+        ],
+        [
+          119,
+          268,
+          173,
+          342
+        ],
+        [
+          224,
+          268,
+          261,
+          325
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_000.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          243,
+          339,
+          261,
+          356
+        ],
+        [
+          180,
+          17,
+          203,
+          26
+        ],
+        [
+          76,
+          5,
+          94,
+          19
+        ],
+        [
+          218,
+          179,
+          230,
+          199
+        ],
+        [
+          202,
+          99,
+          221,
+          122
+        ],
+        [
+          114,
+          124,
+          130,
+          133
+        ],
+        [
+          309,
+          55,
+          330,
+          67
+        ],
+        [
+          218,
+          352,
+          228,
+          373
+        ],
+        [
+          17,
+          259,
+          31,
+          272
+        ],
+        [
+          192,
+          89,
+          208,
+          111
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_001.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          235,
+          291,
+          243,
+          299
+        ],
+        [
+          127,
+          194,
+          137,
+          206
+        ],
+        [
+          51,
+          294,
+          67,
+          312
+        ],
+        [
+          293,
+          160,
+          309,
+          184
+        ],
+        [
+          59,
+          345,
+          81,
+          364
+        ],
+        [
+          94,
+          70,
+          106,
+          87
+        ],
+        [
+          193,
+          218,
+          210,
+          238
+        ],
+        [
+          221,
+          205,
+          243,
+          225
+        ],
+        [
+          144,
+          205,
+          157,
+          221
+        ],
+        [
+          63,
+          337,
+          73,
+          353
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_002.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          95,
+          340,
+          106,
+          349
+        ],
+        [
+          18,
+          216,
+          42,
+          232
+        ],
+        [
+          124,
+          351,
+          140,
+          372
+        ],
+        [
+          304,
+          89,
+          325,
+          107
+        ],
+        [
+          126,
+          86,
+          144,
+          110
+        ],
+        [
+          293,
+          85,
+          301,
+          100
+        ],
+        [
+          339,
+          115,
+          360,
+          128
+        ],
+        [
+          253,
+          124,
+          269,
+          139
+        ],
+        [
+          56,
+          173,
+          78,
+          185
+        ],
+        [
+          356,
+          275,
+          377,
+          288
+        ],
+        [
+          180,
+          176,
+          200,
+          191
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_003.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          233,
+          34,
+          247,
+          45
+        ],
+        [
+          49,
+          30,
+          72,
+          38
+        ],
+        [
+          348,
+          132,
+          361,
+          147
+        ],
+        [
+          224,
+          228,
+          237,
+          239
+        ],
+        [
+          40,
+          159,
+          58,
+          169
+        ],
+        [
+          43,
+          106,
+          60,
+          126
+        ],
+        [
+          205,
+          100,
+          214,
+          121
+        ],
+        [
+          241,
+          95,
+          257,
+          115
+        ],
+        [
+          42,
+          338,
+          51,
+          348
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_004.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          328,
+          79,
+          343,
+          96
+        ],
+        [
+          347,
+          292,
+          362,
+          310
+        ],
+        [
+          99,
+          198,
+          112,
+          220
+        ],
+        [
+          6,
+          292,
+          19,
+          301
+        ],
+        [
+          197,
+          148,
+          205,
+          160
+        ],
+        [
+          101,
+          105,
+          125,
+          128
+        ],
+        [
+          163,
+          211,
+          187,
+          222
+        ],
+        [
+          155,
+          321,
+          163,
+          343
+        ],
+        [
+          131,
+          116,
+          144,
+          133
+        ],
+        [
+          4,
+          130,
+          26,
+          151
+        ],
+        [
+          288,
+          40,
+          300,
+          55
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_005.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          157,
+          170,
+          178,
+          188
+        ],
+        [
+          73,
+          197,
+          88,
+          211
+        ],
+        [
+          144,
+          58,
+          156,
+          82
+        ],
+        [
+          315,
+          350,
+          335,
+          368
+        ],
+        [
+          98,
+          111,
+          120,
+          128
+        ],
+        [
+          230,
+          14,
+          248,
+          23
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_006.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          113,
+          47,
+          134,
+          66
+        ],
+        [
+          193,
+          252,
+          214,
+          269
+        ],
+        [
+          350,
+          198,
+          372,
+          209
+        ],
+        [
+          16,
+          20,
+          31,
+          38
+        ],
+        [
+          181,
+          311,
+          193,
+          335
+        ],
+        [
+          47,
+          95,
+          60,
+          115
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_007.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          192,
+          326,
+          208,
+          343
+        ],
+        [
+          135,
+          220,
+          155,
+          240
+        ],
+        [
+          307,
+          240,
+          330,
+          251
+        ],
+        [
+          292,
+          42,
+          314,
+          57
+        ],
+        [
+          140,
+          34,
+          153,
+          47
+        ],
+        [
+          83,
+          167,
+          97,
+          177
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_008.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          55,
+          304,
+          68,
+          312
+        ],
+        [
+          59,
+          334,
+          69,
+          342
+        ],
+        [
+          183,
+          238,
+          199,
+          256
+        ],
+        [
+          172,
+          53,
+          180,
+          67
+        ],
+        [
+          170,
+          13,
+          178,
+          26
+        ],
+        [
+          63,
+          166,
+          78,
+          184
+        ],
+        [
+          131,
+          34,
+          141,
+          43
+        ],
+        [
+          144,
+          277,
+          159,
+          294
+        ],
+        [
+          278,
+          120,
+          291,
+          131
+        ],
+        [
+          50,
+          213,
+          65,
+          231
+        ],
+        [
+          68,
+          317,
+          86,
+          332
+        ],
+        [
+          260,
+          123,
+          278,
+          140
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_009.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          304,
+          201,
+          325,
+          222
+        ],
+        [
+          135,
+          207,
+          148,
+          223
+        ],
+        [
+          277,
+          162,
+          285,
+          174
+        ],
+        [
+          96,
+          306,
+          106,
+          322
+        ],
+        [
+          142,
+          179,
+          158,
+          196
+        ],
+        [
+          191,
+          101,
+          199,
+          112
+        ],
+        [
+          141,
+          110,
+          149,
+          133
+        ],
+        [
+          110,
+          240,
+          129,
+          260
+        ],
+        [
+          314,
+          118,
+          328,
+          139
+        ],
+        [
+          256,
+          330,
+          278,
+          346
+        ],
+        [
+          138,
+          234,
+          158,
+          249
+        ],
+        [
+          50,
+          351,
+          72,
+          372
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_010.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          127,
+          229,
+          145,
+          248
+        ],
+        [
+          349,
+          242,
+          357,
+          257
+        ],
+        [
+          72,
+          127,
+          81,
+          144
+        ],
+        [
+          160,
+          73,
+          174,
+          85
+        ],
+        [
+          280,
+          80,
+          293,
+          97
+        ],
+        [
+          248,
+          55,
+          266,
+          74
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_011.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          99,
+          62,
+          117,
+          80
+        ],
+        [
+          118,
+          208,
+          133,
+          230
+        ],
+        [
+          7,
+          90,
+          25,
+          100
+        ],
+        [
+          152,
+          351,
+          165,
+          359
+        ],
+        [
+          149,
+          165,
+          159,
+          175
+        ],
+        [
+          139,
+          288,
+          153,
+          306
+        ],
+        [
+          170,
+          230,
+          178,
+          253
+        ],
+        [
+          364,
+          342,
+          382,
+          359
+        ],
+        [
+          172,
+          257,
+          195,
+          272
+        ],
+        [
+          217,
+          64,
+          234,
+          72
+        ],
+        [
+          332,
+          279,
+          352,
+          289
+        ],
+        [
+          55,
+          184,
+          66,
+          205
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_012.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          222,
+          181,
+          232,
+          200
+        ],
+        [
+          55,
+          189,
+          66,
+          212
+        ],
+        [
+          121,
+          202,
+          144,
+          219
+        ],
+        [
+          288,
+          195,
+          307,
+          211
+        ],
+        [
+          198,
+          360,
+          220,
+          379
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_013.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          368,
+          240,
+          378,
+          256
+        ],
+        [
+          99,
+          212,
+          116,
+          229
+        ],
+        [
+          56,
+          264,
+          71,
+          282
+        ],
+        [
+          37,
+          177,
+          53,
+          186
+        ],
+        [
+          35,
+          163,
+          43,
+          177
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_014.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          180,
+          240,
+          202,
+          261
+        ],
+        [
+          154,
+          146,
+          162,
+          168
+        ],
+        [
+          8,
+          25,
+          28,
+          45
+        ],
+        [
+          182,
+          255,
+          196,
+          273
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_015.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          354,
+          183,
+          376,
+          193
+        ],
+        [
+          175,
+          281,
+          189,
+          298
+        ],
+        [
+          49,
+          309,
+          66,
+          333
+        ],
+        [
+          256,
+          244,
+          280,
+          261
+        ],
+        [
+          20,
+          293,
+          35,
+          307
+        ],
+        [
+          176,
+          50,
+          193,
+          61
+        ],
+        [
+          84,
+          130,
+          104,
+          140
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_016.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          323,
+          93,
+          334,
+          110
+        ],
+        [
+          218,
+          231,
+          239,
+          253
+        ],
+        [
+          81,
+          126,
+          102,
+          142
+        ],
+        [
+          300,
+          312,
+          316,
+          323
+        ],
+        [
+          12,
+          256,
+          31,
+          267
+        ],
+        [
+          336,
+          356,
+          350,
+          376
+        ],
+        [
+          167,
+          51,
+          180,
+          64
+        ],
+        [
+          272,
+          19,
+          284,
+          39
+        ],
+        [
+          279,
+          350,
+          297,
+          360
+        ],
+        [
+          239,
+          300,
+          262,
+          308
+        ],
+        [
+          360,
+          45,
+          382,
+          68
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_017.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          37,
+          232,
+          49,
+          241
+        ],
+        [
+          275,
+          6,
+          287,
+          27
+        ],
+        [
+          14,
+          200,
+          35,
+          212
+        ],
+        [
+          79,
+          25,
+          102,
+          46
+        ],
+        [
+          144,
+          234,
+          154,
+          258
+        ],
+        [
+          226,
+          102,
+          237,
+          122
+        ],
+        [
+          72,
+          361,
+          82,
+          372
+        ],
+        [
+          292,
+          329,
+          302,
+          340
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_018.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          210,
+          164,
+          234,
+          181
+        ],
+        [
+          96,
+          188,
+          112,
+          204
+        ],
+        [
+          122,
+          28,
+          144,
+          50
+        ],
+        [
+          280,
+          32,
+          292,
+          51
+        ],
+        [
+          91,
+          116,
+          114,
+          131
+        ],
+        [
+          215,
+          308,
+          224,
+          318
+        ],
+        [
+          83,
+          276,
+          96,
+          293
+        ],
+        [
+          276,
+          223,
+          296,
+          247
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_019.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          75,
+          40,
+          92,
+          54
+        ],
+        [
+          5,
+          127,
+          18,
+          139
+        ],
+        [
+          164,
+          17,
+          186,
+          33
+        ],
+        [
+          60,
+          36,
+          77,
+          59
+        ],
+        [
+          68,
+          93,
+          80,
+          116
+        ],
+        [
+          294,
+          362,
+          305,
+          376
+        ],
+        [
+          50,
+          126,
+          61,
+          140
+        ],
+        [
+          128,
+          269,
+          146,
+          279
+        ],
+        [
+          1,
+          64,
+          13,
+          79
+        ],
+        [
+          47,
+          343,
+          63,
+          355
+        ],
+        [
+          70,
+          85,
+          89,
+          97
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_020.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          243,
+          229,
+          267,
+          241
+        ],
+        [
+          119,
+          233,
+          143,
+          250
+        ],
+        [
+          27,
+          83,
+          38,
+          91
+        ],
+        [
+          337,
+          82,
+          361,
+          105
+        ],
+        [
+          47,
+          59,
+          66,
+          67
+        ],
+        [
+          22,
+          0,
+          33,
+          14
+        ],
+        [
+          260,
+          215,
+          282,
+          231
+        ],
+        [
+          128,
+          281,
+          143,
+          303
+        ],
+        [
+          193,
+          187,
+          208,
+          208
+        ],
+        [
+          283,
+          227,
+          296,
+          247
+        ],
+        [
+          327,
+          69,
+          349,
+          80
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_021.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          206,
+          122,
+          222,
+          142
+        ],
+        [
+          9,
+          116,
+          19,
+          128
+        ],
+        [
+          121,
+          181,
+          131,
+          198
+        ],
+        [
+          172,
+          254,
+          182,
+          275
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_022.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          149,
+          242,
+          164,
+          266
+        ],
+        [
+          239,
+          241,
+          256,
+          253
+        ],
+        [
+          292,
+          141,
+          304,
+          157
+        ],
+        [
+          173,
+          64,
+          194,
+          72
+        ],
+        [
+          272,
+          353,
+          286,
+          367
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_023.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          39,
+          100,
+          48,
+          121
+        ],
+        [
+          224,
+          347,
+          236,
+          365
+        ],
+        [
+          264,
+          308,
+          276,
+          321
+        ],
+        [
+          255,
+          180,
+          268,
+          203
+        ],
+        [
+          237,
+          332,
+          252,
+          351
+        ],
+        [
+          240,
+          236,
+          251,
+          255
+        ],
+        [
+          12,
+          7,
+          32,
+          20
+        ],
+        [
+          187,
+          6,
+          203,
+          28
+        ],
+        [
+          295,
+          314,
+          316,
+          335
+        ],
+        [
+          84,
+          105,
+          107,
+          126
+        ],
+        [
+          209,
+          289,
+          228,
+          307
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_024.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          325,
+          280,
+          337,
+          293
+        ],
+        [
+          57,
+          352,
+          66,
+          366
+        ],
+        [
+          139,
+          19,
+          153,
+          27
+        ],
+        [
+          223,
+          278,
+          246,
+          296
+        ],
+        [
+          131,
+          144,
+          150,
+          168
+        ],
+        [
+          191,
+          301,
+          199,
+          323
+        ],
+        [
+          51,
+          76,
+          69,
+          88
+        ],
+        [
+          71,
+          182,
+          85,
+          195
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_025.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          363,
+          11,
+          381,
+          25
+        ],
+        [
+          314,
+          140,
+          330,
+          163
+        ],
+        [
+          165,
+          5,
+          173,
+          15
+        ],
+        [
+          302,
+          134,
+          322,
+          150
+        ],
+        [
+          44,
+          56,
+          60,
+          79
+        ],
+        [
+          188,
+          270,
+          201,
+          280
+        ],
+        [
+          50,
+          263,
+          62,
+          277
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_026.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          147,
+          250,
+          170,
+          267
+        ],
+        [
+          184,
+          92,
+          205,
+          102
+        ],
+        [
+          232,
+          372,
+          256,
+          380
+        ],
+        [
+          127,
+          225,
+          145,
+          245
+        ],
+        [
+          242,
+          126,
+          251,
+          137
+        ],
+        [
+          130,
+          357,
+          140,
+          378
+        ],
+        [
+          43,
+          216,
+          66,
+          224
+        ],
+        [
+          172,
+          171,
+          195,
+          183
+        ],
+        [
+          251,
+          360,
+          268,
+          380
+        ],
+        [
+          238,
+          26,
+          253,
+          37
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_027.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          274,
+          178,
+          289,
+          194
+        ],
+        [
+          120,
+          100,
+          131,
+          121
+        ],
+        [
+          272,
+          277,
+          287,
+          299
+        ],
+        [
+          225,
+          255,
+          248,
+          275
+        ],
+        [
+          79,
+          48,
+          99,
+          65
+        ],
+        [
+          233,
+          193,
+          245,
+          210
+        ],
+        [
+          208,
+          259,
+          222,
+          282
+        ],
+        [
+          143,
+          124,
+          152,
+          133
+        ],
+        [
+          155,
+          67,
+          178,
+          76
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_028.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          76,
+          244,
+          98,
+          266
+        ],
+        [
+          20,
+          343,
+          44,
+          351
+        ],
+        [
+          168,
+          109,
+          189,
+          127
+        ],
+        [
+          348,
+          178,
+          367,
+          197
+        ],
+        [
+          220,
+          151,
+          244,
+          166
+        ],
+        [
+          104,
+          60,
+          114,
+          80
+        ],
+        [
+          360,
+          352,
+          372,
+          363
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_029.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          174,
+          321,
+          186,
+          342
+        ],
+        [
+          79,
+          160,
+          96,
+          181
+        ],
+        [
+          34,
+          251,
+          43,
+          270
+        ],
+        [
+          322,
+          91,
+          337,
+          111
+        ],
+        [
+          58,
+          226,
+          70,
+          237
+        ],
+        [
+          127,
+          166,
+          145,
+          190
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_030.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          239,
+          233,
+          251,
+          243
+        ],
+        [
+          27,
+          295,
+          42,
+          316
+        ],
+        [
+          319,
+          130,
+          328,
+          153
+        ],
+        [
+          370,
+          194,
+          378,
+          207
+        ],
+        [
+          114,
+          195,
+          132,
+          211
+        ],
+        [
+          46,
+          219,
+          69,
+          240
+        ],
+        [
+          264,
+          295,
+          281,
+          312
+        ],
+        [
+          308,
+          189,
+          321,
+          206
+        ],
+        [
+          320,
+          328,
+          329,
+          342
+        ],
+        [
+          41,
+          159,
+          53,
+          180
+        ],
+        [
+          264,
+          41,
+          287,
+          51
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_031.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          12,
+          85,
+          31,
+          99
+        ],
+        [
+          282,
+          48,
+          298,
+          66
+        ],
+        [
+          239,
+          280,
+          250,
+          291
+        ],
+        [
+          187,
+          93,
+          200,
+          106
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_032.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          17,
+          68,
+          31,
+          79
+        ],
+        [
+          33,
+          109,
+          46,
+          131
+        ],
+        [
+          44,
+          269,
+          53,
+          292
+        ],
+        [
+          190,
+          137,
+          203,
+          152
+        ],
+        [
+          319,
+          201,
+          331,
+          220
+        ],
+        [
+          269,
+          136,
+          293,
+          148
+        ],
+        [
+          155,
+          187,
+          177,
+          195
+        ],
+        [
+          0,
+          288,
+          8,
+          300
+        ],
+        [
+          266,
+          181,
+          274,
+          190
+        ],
+        [
+          99,
+          310,
+          120,
+          319
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_033.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          210,
+          299,
+          221,
+          321
+        ],
+        [
+          220,
+          195,
+          239,
+          215
+        ],
+        [
+          190,
+          307,
+          210,
+          323
+        ],
+        [
+          22,
+          134,
+          37,
+          148
+        ],
+        [
+          52,
+          177,
+          69,
+          191
+        ],
+        [
+          306,
+          201,
+          321,
+          209
+        ],
+        [
+          118,
+          203,
+          126,
+          223
+        ],
+        [
+          354,
+          331,
+          374,
+          341
+        ],
+        [
+          263,
+          171,
+          279,
+          180
+        ],
+        [
+          239,
+          277,
+          256,
+          292
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_034.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          98,
+          119,
+          107,
+          131
+        ],
+        [
+          328,
+          336,
+          338,
+          360
+        ],
+        [
+          36,
+          97,
+          53,
+          112
+        ],
+        [
+          207,
+          267,
+          229,
+          281
+        ],
+        [
+          336,
+          343,
+          357,
+          361
+        ],
+        [
+          197,
+          22,
+          220,
+          38
+        ],
+        [
+          49,
+          244,
+          59,
+          259
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_035.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          65,
+          337,
+          86,
+          346
+        ],
+        [
+          46,
+          283,
+          58,
+          306
+        ],
+        [
+          356,
+          86,
+          380,
+          108
+        ],
+        [
+          124,
+          216,
+          147,
+          225
+        ],
+        [
+          48,
+          196,
+          59,
+          220
+        ],
+        [
+          96,
+          141,
+          112,
+          153
+        ],
+        [
+          38,
+          56,
+          50,
+          71
+        ],
+        [
+          161,
+          172,
+          185,
+          186
+        ],
+        [
+          19,
+          10,
+          34,
+          34
+        ],
+        [
+          280,
+          108,
+          301,
+          122
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_036.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          180,
+          145,
+          200,
+          162
+        ],
+        [
+          366,
+          323,
+          374,
+          331
+        ],
+        [
+          102,
+          4,
+          115,
+          20
+        ],
+        [
+          23,
+          45,
+          34,
+          64
+        ],
+        [
+          101,
+          196,
+          120,
+          204
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_037.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          87,
+          28,
+          110,
+          49
+        ],
+        [
+          229,
+          369,
+          245,
+          379
+        ],
+        [
+          41,
+          193,
+          61,
+          209
+        ],
+        [
+          189,
+          347,
+          197,
+          367
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_038.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          3,
+          66,
+          23,
+          86
+        ],
+        [
+          318,
+          186,
+          333,
+          209
+        ],
+        [
+          178,
+          124,
+          192,
+          144
+        ],
+        [
+          2,
+          267,
+          14,
+          280
+        ],
+        [
+          304,
+          340,
+          325,
+          352
+        ],
+        [
+          150,
+          194,
+          167,
+          214
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_039.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          32,
+          10,
+          41,
+          27
+        ],
+        [
+          274,
+          305,
+          286,
+          325
+        ],
+        [
+          310,
+          150,
+          332,
+          168
+        ],
+        [
+          140,
+          32,
+          161,
+          47
+        ],
+        [
+          319,
+          110,
+          337,
+          131
+        ],
+        [
+          209,
+          286,
+          227,
+          302
+        ],
+        [
+          0,
+          337,
+          14,
+          346
+        ],
+        [
+          311,
+          40,
+          326,
+          63
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_040.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          332,
+          365,
+          354,
+          381
+        ],
+        [
+          286,
+          107,
+          296,
+          125
+        ],
+        [
+          57,
+          177,
+          70,
+          188
+        ],
+        [
+          160,
+          332,
+          173,
+          341
+        ],
+        [
+          219,
+          164,
+          228,
+          183
+        ],
+        [
+          97,
+          189,
+          109,
+          199
+        ],
+        [
+          180,
+          303,
+          188,
+          324
+        ],
+        [
+          289,
+          81,
+          297,
+          105
+        ],
+        [
+          251,
+          284,
+          269,
+          304
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_041.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          354,
+          358,
+          372,
+          377
+        ],
+        [
+          307,
+          77,
+          330,
+          101
+        ],
+        [
+          312,
+          156,
+          322,
+          180
+        ],
+        [
+          326,
+          121,
+          342,
+          140
+        ],
+        [
+          163,
+          216,
+          179,
+          230
+        ],
+        [
+          33,
+          19,
+          49,
+          31
+        ],
+        [
+          74,
+          373,
+          85,
+          382
+        ],
+        [
+          19,
+          338,
+          34,
+          352
+        ],
+        [
+          182,
+          244,
+          198,
+          255
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_042.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          40,
+          266,
+          55,
+          279
+        ],
+        [
+          122,
+          70,
+          135,
+          92
+        ],
+        [
+          233,
+          20,
+          247,
+          30
+        ],
+        [
+          278,
+          17,
+          302,
+          25
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_043.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          10,
+          51,
+          21,
+          66
+        ],
+        [
+          230,
+          105,
+          246,
+          114
+        ],
+        [
+          136,
+          14,
+          147,
+          34
+        ],
+        [
+          90,
+          8,
+          101,
+          29
+        ],
+        [
+          172,
+          304,
+          183,
+          318
+        ],
+        [
+          201,
+          152,
+          219,
+          168
+        ],
+        [
+          358,
+          218,
+          379,
+          241
+        ],
+        [
+          18,
+          288,
+          30,
+          298
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_044.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          217,
+          257,
+          234,
+          277
+        ],
+        [
+          117,
+          50,
+          133,
+          63
+        ],
+        [
+          343,
+          106,
+          365,
+          117
+        ],
+        [
+          100,
+          257,
+          123,
+          276
+        ],
+        [
+          261,
+          294,
+          282,
+          306
+        ],
+        [
+          33,
+          115,
+          48,
+          129
+        ],
+        [
+          224,
+          172,
+          234,
+          196
+        ],
+        [
+          87,
+          320,
+          100,
+          332
+        ],
+        [
+          239,
+          363,
+          260,
+          379
+        ],
+        [
+          273,
+          338,
+          290,
+          361
+        ],
+        [
+          170,
+          29,
+          182,
+          42
+        ],
+        [
+          291,
+          196,
+          304,
+          206
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_045.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          117,
+          141,
+          139,
+          160
+        ],
+        [
+          119,
+          316,
+          127,
+          339
+        ],
+        [
+          270,
+          286,
+          278,
+          298
+        ],
+        [
+          96,
+          279,
+          110,
+          291
+        ],
+        [
+          232,
+          67,
+          241,
+          84
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_046.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          336,
+          188,
+          356,
+          211
+        ],
+        [
+          9,
+          106,
+          22,
+          128
+        ],
+        [
+          237,
+          234,
+          256,
+          254
+        ],
+        [
+          293,
+          100,
+          311,
+          124
+        ],
+        [
+          216,
+          78,
+          225,
+          88
+        ],
+        [
+          3,
+          337,
+          12,
+          358
+        ],
+        [
+          313,
+          201,
+          332,
+          210
+        ],
+        [
+          40,
+          267,
+          53,
+          282
+        ],
+        [
+          368,
+          340,
+          378,
+          364
+        ],
+        [
+          342,
+          300,
+          363,
+          311
+        ],
+        [
+          328,
+          269,
+          350,
+          292
+        ],
+        [
+          44,
+          100,
+          52,
+          109
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_047.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          109,
+          222,
+          124,
+          237
+        ],
+        [
+          298,
+          54,
+          306,
+          75
+        ],
+        [
+          342,
+          58,
+          352,
+          70
+        ],
+        [
+          107,
+          164,
+          125,
+          186
+        ],
+        [
+          137,
+          213,
+          155,
+          226
+        ],
+        [
+          35,
+          140,
+          56,
+          164
+        ],
+        [
+          287,
+          195,
+          310,
+          203
+        ],
+        [
+          308,
+          199,
+          332,
+          220
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_048.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          177,
+          274,
+          187,
+          298
+        ],
+        [
+          152,
+          2,
+          166,
+          23
+        ],
+        [
+          131,
+          95,
+          143,
+          114
+        ],
+        [
+          335,
+          204,
+          348,
+          218
+        ],
+        [
+          262,
+          321,
+          280,
+          335
+        ],
+        [
+          59,
+          286,
+          83,
+          298
+        ],
+        [
+          305,
+          220,
+          321,
+          231
+        ],
+        [
+          249,
+          319,
+          267,
+          342
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_049.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          200,
+          209,
+          217,
+          222
+        ],
+        [
+          333,
+          346,
+          346,
+          361
+        ],
+        [
+          118,
+          197,
+          139,
+          209
+        ],
+        [
+          226,
+          148,
+          239,
+          164
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_050.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          314,
+          239,
+          337,
+          258
+        ],
+        [
+          79,
+          264,
+          91,
+          282
+        ],
+        [
+          252,
+          176,
+          260,
+          192
+        ],
+        [
+          120,
+          197,
+          144,
+          208
+        ],
+        [
+          258,
+          256,
+          268,
+          269
+        ],
+        [
+          177,
+          312,
+          185,
+          320
+        ],
+        [
+          63,
+          151,
+          79,
+          175
+        ],
+        [
+          326,
+          98,
+          335,
+          117
+        ],
+        [
+          115,
+          252,
+          133,
+          274
+        ],
+        [
+          351,
+          45,
+          372,
+          53
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_051.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          300,
+          25,
+          318,
+          37
+        ],
+        [
+          261,
+          154,
+          284,
+          174
+        ],
+        [
+          268,
+          284,
+          292,
+          294
+        ],
+        [
+          327,
+          107,
+          346,
+          127
+        ],
+        [
+          327,
+          188,
+          339,
+          206
+        ],
+        [
+          326,
+          308,
+          350,
+          324
+        ],
+        [
+          309,
+          42,
+          317,
+          57
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_052.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          34,
+          152,
+          45,
+          164
+        ],
+        [
+          311,
+          231,
+          328,
+          239
+        ],
+        [
+          111,
+          237,
+          123,
+          248
+        ],
+        [
+          48,
+          252,
+          62,
+          262
+        ],
+        [
+          217,
+          98,
+          228,
+          118
+        ],
+        [
+          142,
+          334,
+          150,
+          353
+        ],
+        [
+          262,
+          300,
+          277,
+          324
+        ],
+        [
+          176,
+          170,
+          184,
+          192
+        ],
+        [
+          140,
+          137,
+          156,
+          154
+        ],
+        [
+          211,
+          9,
+          227,
+          32
+        ],
+        [
+          84,
+          277,
+          96,
+          296
+        ],
+        [
+          113,
+          278,
+          126,
+          291
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_053.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          274,
+          333,
+          285,
+          341
+        ],
+        [
+          264,
+          67,
+          280,
+          89
+        ],
+        [
+          139,
+          110,
+          153,
+          124
+        ],
+        [
+          289,
+          211,
+          307,
+          234
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_054.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          319,
+          234,
+          337,
+          243
+        ],
+        [
+          298,
+          250,
+          320,
+          264
+        ],
+        [
+          48,
+          44,
+          66,
+          63
+        ],
+        [
+          36,
+          105,
+          45,
+          121
+        ],
+        [
+          178,
+          340,
+          187,
+          362
+        ],
+        [
+          261,
+          251,
+          277,
+          263
+        ],
+        [
+          293,
+          203,
+          301,
+          220
+        ],
+        [
+          260,
+          192,
+          272,
+          205
+        ],
+        [
+          208,
+          64,
+          232,
+          77
+        ],
+        [
+          95,
+          348,
+          114,
+          369
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_055.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          250,
+          224,
+          259,
+          236
+        ],
+        [
+          165,
+          125,
+          187,
+          143
+        ],
+        [
+          240,
+          117,
+          256,
+          126
+        ],
+        [
+          216,
+          36,
+          238,
+          55
+        ],
+        [
+          109,
+          174,
+          123,
+          187
+        ],
+        [
+          85,
+          299,
+          100,
+          308
+        ],
+        [
+          229,
+          176,
+          250,
+          191
+        ],
+        [
+          147,
+          26,
+          164,
+          48
+        ],
+        [
+          215,
+          303,
+          235,
+          324
+        ],
+        [
+          251,
+          284,
+          269,
+          304
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_056.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          13,
+          157,
+          21,
+          175
+        ],
+        [
+          259,
+          118,
+          268,
+          138
+        ],
+        [
+          213,
+          103,
+          227,
+          112
+        ],
+        [
+          86,
+          10,
+          106,
+          31
+        ],
+        [
+          122,
+          173,
+          133,
+          195
+        ],
+        [
+          137,
+          317,
+          155,
+          339
+        ],
+        [
+          128,
+          186,
+          140,
+          200
+        ],
+        [
+          217,
+          347,
+          229,
+          356
+        ],
+        [
+          279,
+          176,
+          291,
+          184
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_057.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          43,
+          112,
+          62,
+          126
+        ],
+        [
+          155,
+          99,
+          164,
+          112
+        ],
+        [
+          47,
+          250,
+          70,
+          270
+        ],
+        [
+          320,
+          72,
+          330,
+          88
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_058.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          109,
+          276,
+          123,
+          293
+        ],
+        [
+          185,
+          359,
+          209,
+          368
+        ],
+        [
+          67,
+          205,
+          86,
+          221
+        ],
+        [
+          185,
+          314,
+          196,
+          335
+        ],
+        [
+          137,
+          15,
+          159,
+          34
+        ],
+        [
+          96,
+          259,
+          118,
+          280
+        ]
+      ]
+    },
+    {
+      "image": "test/rust/rust_059.jpg",
+      "class": "rust",
+      "boxes": [
+        [
+          212,
+          86,
+          224,
+          107
+        ],
+        [
+          11,
+          152,
+          20,
+          160
+        ],
+        [
+          198,
+          155,
+          207,
+          169
+        ],
+        [
+          202,
+          105,
+          214,
+          114
+        ],
+        [
+          359,
+          141,
+          378,
+          159
+        ],
+        [
+          96,
+          105,
+          104,
+          129
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_000.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          97,
+          191,
+          200,
+          279
+        ],
+        [
+          169,
+          173,
+          254,
+          363
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_001.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          48,
+          144,
+          231,
+          329
+        ],
+        [
+          53,
+          67,
+          230,
+          235
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_002.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          166,
+          13,
+          279,
+          152
+        ],
+        [
+          285,
+          231,
+          373,
+          305
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_003.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          26,
+          204,
+          204,
+          366
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_004.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          85,
+          93,
+          275,
+          273
+        ],
+        [
+          152,
+          161,
+          324,
+          305
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_005.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          142,
+          130,
+          337,
+          294
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_006.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          29,
+          48,
+          179,
+          112
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_007.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          229,
+          32,
+          374,
+          150
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_008.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          145,
+          35,
+          238,
+          195
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_009.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          25,
+          64,
+          176,
+          248
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_010.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          44,
+          40,
+          194,
+          189
+        ],
+        [
+          152,
+          55,
+          270,
+          173
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_011.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          90,
+          121,
+          271,
+          195
+        ],
+        [
+          274,
+          115,
+          358,
+          181
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_012.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          198,
+          194,
+          268,
+          289
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_013.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          80,
+          86,
+          192,
+          227
+        ],
+        [
+          24,
+          56,
+          214,
+          189
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_014.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          37,
+          26,
+          187,
+          116
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_015.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          116,
+          66,
+          272,
+          240
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_016.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          259,
+          154,
+          361,
+          282
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_017.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          46,
+          1,
+          233,
+          124
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_018.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          236,
+          160,
+          317,
+          220
+        ],
+        [
+          90,
+          37,
+          281,
+          208
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_019.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          147,
+          229,
+          318,
+          293
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_020.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          2,
+          113,
+          133,
+          239
+        ],
+        [
+          37,
+          110,
+          169,
+          256
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_021.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          90,
+          146,
+          231,
+          343
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_022.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          94,
+          217,
+          196,
+          327
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_023.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          40,
+          64,
+          156,
+          199
+        ],
+        [
+          37,
+          107,
+          117,
+          210
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_024.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          12,
+          62,
+          86,
+          249
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_025.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          143,
+          199,
+          264,
+          356
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_026.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          98,
+          218,
+          293,
+          297
+        ],
+        [
+          300,
+          137,
+          368,
+          287
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_027.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          240,
+          168,
+          377,
+          247
+        ],
+        [
+          36,
+          92,
+          213,
+          250
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_028.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          171,
+          101,
+          367,
+          239
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_029.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          180,
+          296,
+          267,
+          381
+        ],
+        [
+          205,
+          16,
+          350,
+          97
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_030.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          192,
+          65,
+          378,
+          128
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_031.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          96,
+          96,
+          282,
+          275
+        ],
+        [
+          77,
+          115,
+          262,
+          253
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_032.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          281,
+          64,
+          345,
+          131
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_033.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          183,
+          115,
+          377,
+          278
+        ],
+        [
+          231,
+          124,
+          312,
+          196
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_034.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          121,
+          61,
+          311,
+          241
+        ],
+        [
+          143,
+          75,
+          230,
+          229
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_035.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          82,
+          77,
+          245,
+          222
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_036.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          182,
+          144,
+          314,
+          329
+        ],
+        [
+          145,
+          91,
+          278,
+          214
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_037.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          136,
+          76,
+          219,
+          180
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_038.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          184,
+          192,
+          302,
+          287
+        ],
+        [
+          195,
+          86,
+          366,
+          283
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_039.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          95,
+          130,
+          280,
+          233
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_040.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          218,
+          196,
+          287,
+          357
+        ],
+        [
+          52,
+          147,
+          168,
+          328
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_041.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          46,
+          48,
+          198,
+          129
+        ],
+        [
+          34,
+          1,
+          96,
+          117
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_042.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          141,
+          59,
+          341,
+          258
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_043.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          182,
+          261,
+          318,
+          355
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_044.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          123,
+          136,
+          219,
+          293
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_045.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          132,
+          154,
+          312,
+          255
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_046.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          166,
+          44,
+          336,
+          137
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_047.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          189,
+          108,
+          349,
+          295
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_048.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          203,
+          156,
+          355,
+          337
+        ],
+        [
+          124,
+          279,
+          297,
+          368
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_049.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          61,
+          157,
+          225,
+          338
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_050.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          55,
+          85,
+          121,
+          152
+        ],
+        [
+          70,
+          19,
+          216,
+          148
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_051.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          66,
+          43,
+          258,
+          225
+        ],
+        [
+          4,
+          191,
+          75,
+          341
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_052.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          150,
+          184,
+          263,
+          269
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_053.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          278,
+          134,
+          376,
+          249
+        ],
+        [
+          121,
+          44,
+          234,
+          241
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_054.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          119,
+          99,
+          276,
+          167
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_055.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          85,
+          285,
+          267,
+          370
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_056.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          238,
+          5,
+          375,
+          109
+        ],
+        [
+          204,
+          226,
+          366,
+          306
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_057.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          111,
+          192,
+          200,
+          348
+        ],
+        [
+          147,
+          211,
+          340,
+          306
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_058.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          134,
+          67,
+          219,
+          130
+        ]
+      ]
+    },
+    {
+      "image": "test/red_rot/red_rot_059.jpg",
+      "class": "red_rot",
+      "boxes": [
+        [
+          28,
+          77,
+          166,
+          208
+        ]
+      ]
+    }
+  ]
+}

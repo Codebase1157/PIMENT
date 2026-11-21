@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use PigmentNet, please cite the paper and this implementation."
+title: "PigmentNet: Gloss-referenced pigment deconvolution and symptom-concept bottleneck"
+authors:
+  - family-names: "Rani"
+    given-names: "Jaya"
+    email: "jayapannu11@gmail.com"
+    affiliation: "Department of Computer Science and Engineering, Maharishi Markandeshwar (Deemed to be University), Mullana, Ambala, India"
+  - family-names: "Garg"
+    given-names: "Prachi"
+    affiliation: "Computer Science & Engineering Department, MM Engineering College, Maharishi Markandeshwar (Deemed to be University), Mullana, Ambala, Haryana, India"
+version: "1.0.0"
+date-released: "2026-11-21"
+license: MIT
+repository-code: "https://github.com/Codebase1157/pigmentnet"
+preferred-citation:
+  type: article
+  title: "Gloss-Referenced Pigment Deconvolution and a Self-Derived Symptom-Concept Bottleneck for Interpretable Sugarcane Leaf Disease Classification"
+  authors:
+    - family-names: "Rani"
+      given-names: "Jaya"
+    - family-names: "Garg"
+      given-names: "Prachi"
+  year: 2026

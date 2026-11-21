@@ -1,0 +1,58 @@
+# Comparison methods (Section 5.4). Every method sees identical folds,
+# the same 384 x 384 input, geometric augmentation and epoch count.
+
+baselines:
+  - name: resnet50
+    model: resnet50
+  - name: efficientnetv2_s
+    model: efficientnetv2_s
+  - name: convnext_t
+    model: convnext_t
+  - name: swin_t
+    model: swin_t
+  - name: deit_s
+    model: deit_s
+  - name: mobilevit_v2
+    model: mobilevit_v2
+  - name: vmamba_t
+    model: vmamba_t
+
+colour_controls:
+  - name: convnext_t_clahe
+    model: convnext_t
+    input_pipeline: clahe
+  - name: convnext_t_hsv
+    model: convnext_t
+    input_pipeline: hsv
+  - name: convnext_t_greyworld
+    model: convnext_t
+    input_pipeline: grey_world
+  - name: convnext_t_rgb_jitter
+    model: convnext_t
+    augmentation: rgb_jitter
+
+ablation_controls:
+  - name: convnext_t_physaug
+    model: convnext_t
+    augmentation: physaug
+  - name: pigmentnet_no_decomposition
+    model: pigmentnet
+    skip_decomposition: true
+
+shared:
+  input_size: 384
+  optimizer: adamw
+  backbone_lr: 1.0e-4
+  new_layer_lr: 5.0e-4
+  weight_decay: 0.05
+  epochs: 100
+  warmup_epochs: 5
+  schedule: cosine
+  batch_size: 32
+  precision: amp
+  grad_clip: 1.0
+  pretrained: imagenet-1k
+  hyperparameter_grid:
+    lr_multipliers: [0.5, 1.0, 2.0]
+    weight_decay: [0.01, 0.05, 0.1]
+    trials: 9

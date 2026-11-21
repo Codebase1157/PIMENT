@@ -1,0 +1,5 @@
+# Ablation: no_physics_loss (Table 12 / 13).
+inherit: ../pigmentnet_D1.yaml
+loss:
+  beta_phys: 0.0
+ablation_tag: no_physics_loss

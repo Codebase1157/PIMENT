@@ -1,0 +1,5 @@
+# Ablation: uncapped_residual (Table 12 / 13).
+inherit: ../pigmentnet_D1.yaml
+model:
+  residual_cap: 100000.0
+ablation_tag: uncapped_residual

@@ -1,0 +1,7 @@
+# Ablation: rgb_jitter_not_physaug (Table 12 / 13).
+inherit: ../pigmentnet_D1.yaml
+physaug:
+  disabled: true
+geometric_augmentation:
+  rgb_jitter: 0.4
+ablation_tag: rgb_jitter_instead_of_physaug

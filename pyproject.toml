@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pigmentnet"
+version = "1.0.0"
+description = "Gloss-referenced pigment deconvolution and symptom-concept bottleneck for sugarcane leaf disease classification"
+authors = [
+    {name = "Jaya Rani", email = "jayapannu11@gmail.com"},
+    {name = "Prachi Garg"}
+]
+readme = "README.md"
+license = {file = "LICENSE"}
+requires-python = ">=3.10"
+keywords = ["sugarcane", "pigment", "dichromatic", "concept-bottleneck", "interpretable", "plant-disease"]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+dynamic = ["dependencies"]
+
+[tool.setuptools.dynamic]
+dependencies = {file = ["requirements.txt"]}
+
+[tool.setuptools.packages.find]
+include = ["pigmentnet*"]
+
+[project.scripts]
+pigmentnet-train = "pigmentnet.cli:train_cli"
+pigmentnet-eval  = "pigmentnet.cli:eval_cli"

@@ -1,0 +1,7 @@
+# Ablation: K5 (Table 12 / 13).
+inherit: ../pigmentnet_D1.yaml
+model:
+  K: 5
+decomposition:
+  K: 5
+ablation_tag: K5

@@ -1,0 +1,7 @@
+# Ablation: K3 (Table 12 / 13).
+inherit: ../pigmentnet_D1.yaml
+model:
+  K: 3
+decomposition:
+  K: 3
+ablation_tag: K3

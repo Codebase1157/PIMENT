@@ -1,0 +1,5 @@
+# Ablation: no_colour_constancy (Table 12 / 13).
+inherit: ../pigmentnet_D1.yaml
+decomposition:
+  white_point: none
+ablation_tag: no_colour_constancy

@@ -1,0 +1,1406 @@
+{
+  "n_leaves": 200,
+  "scale": "0-5",
+  "annotations": [
+    {
+      "image": "test/healthy/healthy_sev_000.jpg",
+      "class": "healthy",
+      "severity": 0,
+      "rater_A": 0,
+      "rater_B": 0
+    },
+    {
+      "image": "test/healthy/healthy_sev_001.jpg",
+      "class": "healthy",
+      "severity": 0,
+      "rater_A": 0,
+      "rater_B": 0
+    },
+    {
+      "image": "test/healthy/healthy_sev_002.jpg",
+      "class": "healthy",
+      "severity": 0,
+      "rater_A": 0,
+      "rater_B": 0
+    },
+    {
+      "image": "test/healthy/healthy_sev_003.jpg",
+      "class": "healthy",
+      "severity": 0,
+      "rater_A": 0,
+      "rater_B": 0
+    },
+    {
+      "image": "test/healthy/healthy_sev_004.jpg",
+      "class": "healthy",
+      "severity": 0,
+      "rater_A": 0,
+      "rater_B": 0
+    },
+    {
+      "image": "test/healthy/healthy_sev_005.jpg",
+      "class": "healthy",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 0
+    },
+    {
+      "image": "test/healthy/healthy_sev_006.jpg",
+      "class": "healthy",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 2
+    },
+    {
+      "image": "test/healthy/healthy_sev_007.jpg",
+      "class": "healthy",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 2
+    },
+    {
+      "image": "test/healthy/healthy_sev_008.jpg",
+      "class": "healthy",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 0
+    },
+    {
+      "image": "test/healthy/healthy_sev_009.jpg",
+      "class": "healthy",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 1
+    },
+    {
+      "image": "test/healthy/healthy_sev_010.jpg",
+      "class": "healthy",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 2
+    },
+    {
+      "image": "test/healthy/healthy_sev_011.jpg",
+      "class": "healthy",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 2
+    },
+    {
+      "image": "test/healthy/healthy_sev_012.jpg",
+      "class": "healthy",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 0
+    },
+    {
+      "image": "test/healthy/healthy_sev_013.jpg",
+      "class": "healthy",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 2
+    },
+    {
+      "image": "test/healthy/healthy_sev_014.jpg",
+      "class": "healthy",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 1
+    },
+    {
+      "image": "test/healthy/healthy_sev_015.jpg",
+      "class": "healthy",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 1
+    },
+    {
+      "image": "test/healthy/healthy_sev_016.jpg",
+      "class": "healthy",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 2
+    },
+    {
+      "image": "test/healthy/healthy_sev_017.jpg",
+      "class": "healthy",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 0
+    },
+    {
+      "image": "test/healthy/healthy_sev_018.jpg",
+      "class": "healthy",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 1
+    },
+    {
+      "image": "test/healthy/healthy_sev_019.jpg",
+      "class": "healthy",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 0
+    },
+    {
+      "image": "test/healthy/healthy_sev_020.jpg",
+      "class": "healthy",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 0
+    },
+    {
+      "image": "test/healthy/healthy_sev_021.jpg",
+      "class": "healthy",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 1
+    },
+    {
+      "image": "test/healthy/healthy_sev_022.jpg",
+      "class": "healthy",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 1
+    },
+    {
+      "image": "test/healthy/healthy_sev_023.jpg",
+      "class": "healthy",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 2
+    },
+    {
+      "image": "test/healthy/healthy_sev_024.jpg",
+      "class": "healthy",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 2
+    },
+    {
+      "image": "test/healthy/healthy_sev_025.jpg",
+      "class": "healthy",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 2
+    },
+    {
+      "image": "test/healthy/healthy_sev_026.jpg",
+      "class": "healthy",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 0
+    },
+    {
+      "image": "test/healthy/healthy_sev_027.jpg",
+      "class": "healthy",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 2
+    },
+    {
+      "image": "test/healthy/healthy_sev_028.jpg",
+      "class": "healthy",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 2
+    },
+    {
+      "image": "test/healthy/healthy_sev_029.jpg",
+      "class": "healthy",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 1
+    },
+    {
+      "image": "test/healthy/healthy_sev_030.jpg",
+      "class": "healthy",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 2
+    },
+    {
+      "image": "test/healthy/healthy_sev_031.jpg",
+      "class": "healthy",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 0
+    },
+    {
+      "image": "test/healthy/healthy_sev_032.jpg",
+      "class": "healthy",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 1
+    },
+    {
+      "image": "test/healthy/healthy_sev_033.jpg",
+      "class": "healthy",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 1
+    },
+    {
+      "image": "test/healthy/healthy_sev_034.jpg",
+      "class": "healthy",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 1
+    },
+    {
+      "image": "test/healthy/healthy_sev_035.jpg",
+      "class": "healthy",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 2
+    },
+    {
+      "image": "test/healthy/healthy_sev_036.jpg",
+      "class": "healthy",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 1
+    },
+    {
+      "image": "test/healthy/healthy_sev_037.jpg",
+      "class": "healthy",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 4
+    },
+    {
+      "image": "test/healthy/healthy_sev_038.jpg",
+      "class": "healthy",
+      "severity": 4,
+      "rater_A": 4,
+      "rater_B": 5
+    },
+    {
+      "image": "test/healthy/healthy_sev_039.jpg",
+      "class": "healthy",
+      "severity": 5,
+      "rater_A": 5,
+      "rater_B": 4
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_000.jpg",
+      "class": "yellow_leaf",
+      "severity": 0,
+      "rater_A": 0,
+      "rater_B": 0
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_001.jpg",
+      "class": "yellow_leaf",
+      "severity": 0,
+      "rater_A": 0,
+      "rater_B": 0
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_002.jpg",
+      "class": "yellow_leaf",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 1
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_003.jpg",
+      "class": "yellow_leaf",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 1
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_004.jpg",
+      "class": "yellow_leaf",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 1
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_005.jpg",
+      "class": "yellow_leaf",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 1
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_006.jpg",
+      "class": "yellow_leaf",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 1
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_007.jpg",
+      "class": "yellow_leaf",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 1
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_008.jpg",
+      "class": "yellow_leaf",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 1
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_009.jpg",
+      "class": "yellow_leaf",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 1
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_010.jpg",
+      "class": "yellow_leaf",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 0
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_011.jpg",
+      "class": "yellow_leaf",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 3
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_012.jpg",
+      "class": "yellow_leaf",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 2
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_013.jpg",
+      "class": "yellow_leaf",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 1
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_014.jpg",
+      "class": "yellow_leaf",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 3
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_015.jpg",
+      "class": "yellow_leaf",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 1
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_016.jpg",
+      "class": "yellow_leaf",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 3
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_017.jpg",
+      "class": "yellow_leaf",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 2
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_018.jpg",
+      "class": "yellow_leaf",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 2
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_019.jpg",
+      "class": "yellow_leaf",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 2
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_020.jpg",
+      "class": "yellow_leaf",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 3
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_021.jpg",
+      "class": "yellow_leaf",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 2
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_022.jpg",
+      "class": "yellow_leaf",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 3
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_023.jpg",
+      "class": "yellow_leaf",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 2
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_024.jpg",
+      "class": "yellow_leaf",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 3
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_025.jpg",
+      "class": "yellow_leaf",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 3
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_026.jpg",
+      "class": "yellow_leaf",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 2
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_027.jpg",
+      "class": "yellow_leaf",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 4
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_028.jpg",
+      "class": "yellow_leaf",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 2
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_029.jpg",
+      "class": "yellow_leaf",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 3
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_030.jpg",
+      "class": "yellow_leaf",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 3
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_031.jpg",
+      "class": "yellow_leaf",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 3
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_032.jpg",
+      "class": "yellow_leaf",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 2
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_033.jpg",
+      "class": "yellow_leaf",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 3
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_034.jpg",
+      "class": "yellow_leaf",
+      "severity": 4,
+      "rater_A": 4,
+      "rater_B": 3
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_035.jpg",
+      "class": "yellow_leaf",
+      "severity": 4,
+      "rater_A": 4,
+      "rater_B": 4
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_036.jpg",
+      "class": "yellow_leaf",
+      "severity": 4,
+      "rater_A": 4,
+      "rater_B": 5
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_037.jpg",
+      "class": "yellow_leaf",
+      "severity": 4,
+      "rater_A": 4,
+      "rater_B": 5
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_038.jpg",
+      "class": "yellow_leaf",
+      "severity": 4,
+      "rater_A": 4,
+      "rater_B": 5
+    },
+    {
+      "image": "test/yellow_leaf/yellow_leaf_sev_039.jpg",
+      "class": "yellow_leaf",
+      "severity": 5,
+      "rater_A": 5,
+      "rater_B": 5
+    },
+    {
+      "image": "test/mosaic/mosaic_sev_000.jpg",
+      "class": "mosaic",
+      "severity": 0,
+      "rater_A": 0,
+      "rater_B": 0
+    },
+    {
+      "image": "test/mosaic/mosaic_sev_001.jpg",
+      "class": "mosaic",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 2
+    },
+    {
+      "image": "test/mosaic/mosaic_sev_002.jpg",
+      "class": "mosaic",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 0
+    },
+    {
+      "image": "test/mosaic/mosaic_sev_003.jpg",
+      "class": "mosaic",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 2
+    },
+    {
+      "image": "test/mosaic/mosaic_sev_004.jpg",
+      "class": "mosaic",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 1
+    },
+    {
+      "image": "test/mosaic/mosaic_sev_005.jpg",
+      "class": "mosaic",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 0
+    },
+    {
+      "image": "test/mosaic/mosaic_sev_006.jpg",
+      "class": "mosaic",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 2
+    },
+    {
+      "image": "test/mosaic/mosaic_sev_007.jpg",
+      "class": "mosaic",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 0
+    },
+    {
+      "image": "test/mosaic/mosaic_sev_008.jpg",
+      "class": "mosaic",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 2
+    },
+    {
+      "image": "test/mosaic/mosaic_sev_009.jpg",
+      "class": "mosaic",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 2
+    },
+    {
+      "image": "test/mosaic/mosaic_sev_010.jpg",
+      "class": "mosaic",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 2
+    },
+    {
+      "image": "test/mosaic/mosaic_sev_011.jpg",
+      "class": "mosaic",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 1
+    },
+    {
+      "image": "test/mosaic/mosaic_sev_012.jpg",
+      "class": "mosaic",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 3
+    },
+    {
+      "image": "test/mosaic/mosaic_sev_013.jpg",
+      "class": "mosaic",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 2
+    },
+    {
+      "image": "test/mosaic/mosaic_sev_014.jpg",
+      "class": "mosaic",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 3
+    },
+    {
+      "image": "test/mosaic/mosaic_sev_015.jpg",
+      "class": "mosaic",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 1
+    },
+    {
+      "image": "test/mosaic/mosaic_sev_016.jpg",
+      "class": "mosaic",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 2
+    },
+    {
+      "image": "test/mosaic/mosaic_sev_017.jpg",
+      "class": "mosaic",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 1
+    },
+    {
+      "image": "test/mosaic/mosaic_sev_018.jpg",
+      "class": "mosaic",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 3
+    },
+    {
+      "image": "test/mosaic/mosaic_sev_019.jpg",
+      "class": "mosaic",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 2
+    },
+    {
+      "image": "test/mosaic/mosaic_sev_020.jpg",
+      "class": "mosaic",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 2
+    },
+    {
+      "image": "test/mosaic/mosaic_sev_021.jpg",
+      "class": "mosaic",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 2
+    },
+    {
+      "image": "test/mosaic/mosaic_sev_022.jpg",
+      "class": "mosaic",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 4
+    },
+    {
+      "image": "test/mosaic/mosaic_sev_023.jpg",
+      "class": "mosaic",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 3
+    },
+    {
+      "image": "test/mosaic/mosaic_sev_024.jpg",
+      "class": "mosaic",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 3
+    },
+    {
+      "image": "test/mosaic/mosaic_sev_025.jpg",
+      "class": "mosaic",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 2
+    },
+    {
+      "image": "test/mosaic/mosaic_sev_026.jpg",
+      "class": "mosaic",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 3
+    },
+    {
+      "image": "test/mosaic/mosaic_sev_027.jpg",
+      "class": "mosaic",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 3
+    },
+    {
+      "image": "test/mosaic/mosaic_sev_028.jpg",
+      "class": "mosaic",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 2
+    },
+    {
+      "image": "test/mosaic/mosaic_sev_029.jpg",
+      "class": "mosaic",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 3
+    },
+    {
+      "image": "test/mosaic/mosaic_sev_030.jpg",
+      "class": "mosaic",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 3
+    },
+    {
+      "image": "test/mosaic/mosaic_sev_031.jpg",
+      "class": "mosaic",
+      "severity": 4,
+      "rater_A": 4,
+      "rater_B": 3
+    },
+    {
+      "image": "test/mosaic/mosaic_sev_032.jpg",
+      "class": "mosaic",
+      "severity": 4,
+      "rater_A": 4,
+      "rater_B": 3
+    },
+    {
+      "image": "test/mosaic/mosaic_sev_033.jpg",
+      "class": "mosaic",
+      "severity": 4,
+      "rater_A": 4,
+      "rater_B": 3
+    },
+    {
+      "image": "test/mosaic/mosaic_sev_034.jpg",
+      "class": "mosaic",
+      "severity": 5,
+      "rater_A": 5,
+      "rater_B": 4
+    },
+    {
+      "image": "test/rust/rust_sev_000.jpg",
+      "class": "rust",
+      "severity": 0,
+      "rater_A": 0,
+      "rater_B": 0
+    },
+    {
+      "image": "test/rust/rust_sev_001.jpg",
+      "class": "rust",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 1
+    },
+    {
+      "image": "test/rust/rust_sev_002.jpg",
+      "class": "rust",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 2
+    },
+    {
+      "image": "test/rust/rust_sev_003.jpg",
+      "class": "rust",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 1
+    },
+    {
+      "image": "test/rust/rust_sev_004.jpg",
+      "class": "rust",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 0
+    },
+    {
+      "image": "test/rust/rust_sev_005.jpg",
+      "class": "rust",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 0
+    },
+    {
+      "image": "test/rust/rust_sev_006.jpg",
+      "class": "rust",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 1
+    },
+    {
+      "image": "test/rust/rust_sev_007.jpg",
+      "class": "rust",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 1
+    },
+    {
+      "image": "test/rust/rust_sev_008.jpg",
+      "class": "rust",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 1
+    },
+    {
+      "image": "test/rust/rust_sev_009.jpg",
+      "class": "rust",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 3
+    },
+    {
+      "image": "test/rust/rust_sev_010.jpg",
+      "class": "rust",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 2
+    },
+    {
+      "image": "test/rust/rust_sev_011.jpg",
+      "class": "rust",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 2
+    },
+    {
+      "image": "test/rust/rust_sev_012.jpg",
+      "class": "rust",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 1
+    },
+    {
+      "image": "test/rust/rust_sev_013.jpg",
+      "class": "rust",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 3
+    },
+    {
+      "image": "test/rust/rust_sev_014.jpg",
+      "class": "rust",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 2
+    },
+    {
+      "image": "test/rust/rust_sev_015.jpg",
+      "class": "rust",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 2
+    },
+    {
+      "image": "test/rust/rust_sev_016.jpg",
+      "class": "rust",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 1
+    },
+    {
+      "image": "test/rust/rust_sev_017.jpg",
+      "class": "rust",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 1
+    },
+    {
+      "image": "test/rust/rust_sev_018.jpg",
+      "class": "rust",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 3
+    },
+    {
+      "image": "test/rust/rust_sev_019.jpg",
+      "class": "rust",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 4
+    },
+    {
+      "image": "test/rust/rust_sev_020.jpg",
+      "class": "rust",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 2
+    },
+    {
+      "image": "test/rust/rust_sev_021.jpg",
+      "class": "rust",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 3
+    },
+    {
+      "image": "test/rust/rust_sev_022.jpg",
+      "class": "rust",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 2
+    },
+    {
+      "image": "test/rust/rust_sev_023.jpg",
+      "class": "rust",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 2
+    },
+    {
+      "image": "test/rust/rust_sev_024.jpg",
+      "class": "rust",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 3
+    },
+    {
+      "image": "test/rust/rust_sev_025.jpg",
+      "class": "rust",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 3
+    },
+    {
+      "image": "test/rust/rust_sev_026.jpg",
+      "class": "rust",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 4
+    },
+    {
+      "image": "test/rust/rust_sev_027.jpg",
+      "class": "rust",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 3
+    },
+    {
+      "image": "test/rust/rust_sev_028.jpg",
+      "class": "rust",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 4
+    },
+    {
+      "image": "test/rust/rust_sev_029.jpg",
+      "class": "rust",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 2
+    },
+    {
+      "image": "test/rust/rust_sev_030.jpg",
+      "class": "rust",
+      "severity": 4,
+      "rater_A": 4,
+      "rater_B": 4
+    },
+    {
+      "image": "test/rust/rust_sev_031.jpg",
+      "class": "rust",
+      "severity": 4,
+      "rater_A": 4,
+      "rater_B": 5
+    },
+    {
+      "image": "test/rust/rust_sev_032.jpg",
+      "class": "rust",
+      "severity": 4,
+      "rater_A": 4,
+      "rater_B": 5
+    },
+    {
+      "image": "test/rust/rust_sev_033.jpg",
+      "class": "rust",
+      "severity": 4,
+      "rater_A": 4,
+      "rater_B": 3
+    },
+    {
+      "image": "test/rust/rust_sev_034.jpg",
+      "class": "rust",
+      "severity": 5,
+      "rater_A": 5,
+      "rater_B": 5
+    },
+    {
+      "image": "test/red_rot/red_rot_sev_000.jpg",
+      "class": "red_rot",
+      "severity": 0,
+      "rater_A": 0,
+      "rater_B": 0
+    },
+    {
+      "image": "test/red_rot/red_rot_sev_001.jpg",
+      "class": "red_rot",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 1
+    },
+    {
+      "image": "test/red_rot/red_rot_sev_002.jpg",
+      "class": "red_rot",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 0
+    },
+    {
+      "image": "test/red_rot/red_rot_sev_003.jpg",
+      "class": "red_rot",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 2
+    },
+    {
+      "image": "test/red_rot/red_rot_sev_004.jpg",
+      "class": "red_rot",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 2
+    },
+    {
+      "image": "test/red_rot/red_rot_sev_005.jpg",
+      "class": "red_rot",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 1
+    },
+    {
+      "image": "test/red_rot/red_rot_sev_006.jpg",
+      "class": "red_rot",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 1
+    },
+    {
+      "image": "test/red_rot/red_rot_sev_007.jpg",
+      "class": "red_rot",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 3
+    },
+    {
+      "image": "test/red_rot/red_rot_sev_008.jpg",
+      "class": "red_rot",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 2
+    },
+    {
+      "image": "test/red_rot/red_rot_sev_009.jpg",
+      "class": "red_rot",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 1
+    },
+    {
+      "image": "test/red_rot/red_rot_sev_010.jpg",
+      "class": "red_rot",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 2
+    },
+    {
+      "image": "test/red_rot/red_rot_sev_011.jpg",
+      "class": "red_rot",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 3
+    },
+    {
+      "image": "test/red_rot/red_rot_sev_012.jpg",
+      "class": "red_rot",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 3
+    },
+    {
+      "image": "test/red_rot/red_rot_sev_013.jpg",
+      "class": "red_rot",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 3
+    },
+    {
+      "image": "test/red_rot/red_rot_sev_014.jpg",
+      "class": "red_rot",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 3
+    },
+    {
+      "image": "test/red_rot/red_rot_sev_015.jpg",
+      "class": "red_rot",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 3
+    },
+    {
+      "image": "test/red_rot/red_rot_sev_016.jpg",
+      "class": "red_rot",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 4
+    },
+    {
+      "image": "test/red_rot/red_rot_sev_017.jpg",
+      "class": "red_rot",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 4
+    },
+    {
+      "image": "test/red_rot/red_rot_sev_018.jpg",
+      "class": "red_rot",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 2
+    },
+    {
+      "image": "test/red_rot/red_rot_sev_019.jpg",
+      "class": "red_rot",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 3
+    },
+    {
+      "image": "test/red_rot/red_rot_sev_020.jpg",
+      "class": "red_rot",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 3
+    },
+    {
+      "image": "test/red_rot/red_rot_sev_021.jpg",
+      "class": "red_rot",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 3
+    },
+    {
+      "image": "test/red_rot/red_rot_sev_022.jpg",
+      "class": "red_rot",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 3
+    },
+    {
+      "image": "test/red_rot/red_rot_sev_023.jpg",
+      "class": "red_rot",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 2
+    },
+    {
+      "image": "test/red_rot/red_rot_sev_024.jpg",
+      "class": "red_rot",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 3
+    },
+    {
+      "image": "test/red_rot/red_rot_sev_025.jpg",
+      "class": "red_rot",
+      "severity": 4,
+      "rater_A": 4,
+      "rater_B": 4
+    },
+    {
+      "image": "test/red_rot/red_rot_sev_026.jpg",
+      "class": "red_rot",
+      "severity": 4,
+      "rater_A": 4,
+      "rater_B": 4
+    },
+    {
+      "image": "test/red_rot/red_rot_sev_027.jpg",
+      "class": "red_rot",
+      "severity": 4,
+      "rater_A": 4,
+      "rater_B": 3
+    },
+    {
+      "image": "test/red_rot/red_rot_sev_028.jpg",
+      "class": "red_rot",
+      "severity": 4,
+      "rater_A": 4,
+      "rater_B": 4
+    },
+    {
+      "image": "test/red_rot/red_rot_sev_029.jpg",
+      "class": "red_rot",
+      "severity": 5,
+      "rater_A": 5,
+      "rater_B": 5
+    },
+    {
+      "image": "test/brown_spot/brown_spot_sev_000.jpg",
+      "class": "brown_spot",
+      "severity": 0,
+      "rater_A": 0,
+      "rater_B": 1
+    },
+    {
+      "image": "test/brown_spot/brown_spot_sev_001.jpg",
+      "class": "brown_spot",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 0
+    },
+    {
+      "image": "test/brown_spot/brown_spot_sev_002.jpg",
+      "class": "brown_spot",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 1
+    },
+    {
+      "image": "test/brown_spot/brown_spot_sev_003.jpg",
+      "class": "brown_spot",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 1
+    },
+    {
+      "image": "test/brown_spot/brown_spot_sev_004.jpg",
+      "class": "brown_spot",
+      "severity": 1,
+      "rater_A": 1,
+      "rater_B": 1
+    },
+    {
+      "image": "test/brown_spot/brown_spot_sev_005.jpg",
+      "class": "brown_spot",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 3
+    },
+    {
+      "image": "test/brown_spot/brown_spot_sev_006.jpg",
+      "class": "brown_spot",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 3
+    },
+    {
+      "image": "test/brown_spot/brown_spot_sev_007.jpg",
+      "class": "brown_spot",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 2
+    },
+    {
+      "image": "test/brown_spot/brown_spot_sev_008.jpg",
+      "class": "brown_spot",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 3
+    },
+    {
+      "image": "test/brown_spot/brown_spot_sev_009.jpg",
+      "class": "brown_spot",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 3
+    },
+    {
+      "image": "test/brown_spot/brown_spot_sev_010.jpg",
+      "class": "brown_spot",
+      "severity": 2,
+      "rater_A": 2,
+      "rater_B": 2
+    },
+    {
+      "image": "test/brown_spot/brown_spot_sev_011.jpg",
+      "class": "brown_spot",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 2
+    },
+    {
+      "image": "test/brown_spot/brown_spot_sev_012.jpg",
+      "class": "brown_spot",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 4
+    },
+    {
+      "image": "test/brown_spot/brown_spot_sev_013.jpg",
+      "class": "brown_spot",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 2
+    },
+    {
+      "image": "test/brown_spot/brown_spot_sev_014.jpg",
+      "class": "brown_spot",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 3
+    },
+    {
+      "image": "test/brown_spot/brown_spot_sev_015.jpg",
+      "class": "brown_spot",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 3
+    },
+    {
+      "image": "test/brown_spot/brown_spot_sev_016.jpg",
+      "class": "brown_spot",
+      "severity": 3,
+      "rater_A": 3,
+      "rater_B": 2
+    },
+    {
+      "image": "test/brown_spot/brown_spot_sev_017.jpg",
+      "class": "brown_spot",
+      "severity": 4,
+      "rater_A": 4,
+      "rater_B": 5
+    },
+    {
+      "image": "test/brown_spot/brown_spot_sev_018.jpg",
+      "class": "brown_spot",
+      "severity": 4,
+      "rater_A": 4,
+      "rater_B": 4
+    },
+    {
+      "image": "test/brown_spot/brown_spot_sev_019.jpg",
+      "class": "brown_spot",
+      "severity": 5,
+      "rater_A": 5,
+      "rater_B": 5
+    }
+  ]
+}

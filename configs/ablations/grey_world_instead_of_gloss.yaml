@@ -1,0 +1,5 @@
+# Ablation: grey_world_instead_of_gloss (Table 12 / 13).
+inherit: ../pigmentnet_D1.yaml
+decomposition:
+  white_point: grey_world
+ablation_tag: grey_world_white_point

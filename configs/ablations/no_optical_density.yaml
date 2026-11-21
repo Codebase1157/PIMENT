@@ -1,0 +1,5 @@
+# Ablation: no_optical_density (Table 12 / 13).
+inherit: ../pigmentnet_D1.yaml
+decomposition:
+  use_optical_density: false
+ablation_tag: rgb_instead_of_od
